@@ -1,0 +1,255 @@
+{
+  "total": 50,
+  "courses": [
+    {
+      "course_code": "AIDS",
+      "course_name": "AI & Data Science",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CE",
+      "course_name": "Civil Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CSE",
+      "course_name": "Computer Science & Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "EE",
+      "course_name": "Electronics Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "ECE",
+      "course_name": "Electronics & Communication Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "ISE",
+      "course_name": "Information Science & Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "ME",
+      "course_name": "Mechanical Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "TXT",
+      "course_name": "Textiles Technology",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "EIE",
+      "course_name": "Electronics & Instrumentation Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "BT",
+      "course_name": "Biotechnology",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CHE",
+      "course_name": "Chemical Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "SPC",
+      "course_name": "Space Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "AIML",
+      "course_name": "AI & Machine Learning",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "AER",
+      "course_name": "Aeronautical Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CYS",
+      "course_name": "Cyber Security",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "AI",
+      "course_name": "Artificial Intelligence",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "IIOT",
+      "course_name": "Industrial IoT",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "MIN",
+      "course_name": "Mining Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "BME",
+      "course_name": "Biomedical Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "EVE",
+      "course_name": "Environmental Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "PRE",
+      "course_name": "Production Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "PST",
+      "course_name": "Polymer Science & Technology",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "AGE",
+      "course_name": "Agriculture Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CMD",
+      "course_name": "Communication Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "FD",
+      "course_name": "Fashion Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "IND",
+      "course_name": "Industrial Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "DES",
+      "course_name": "Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CTM",
+      "course_name": "Construction Technology & Management",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CCE2",
+      "course_name": "Ceramics & Cement Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CSD",
+      "course_name": "Computer Science & Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "MCT",
+      "course_name": "Mechatronics Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "RA",
+      "course_name": "Robotics & Automation",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CCE",
+      "course_name": "Computer & Communication Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "ENE",
+      "course_name": "Energy Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "MAR",
+      "course_name": "Marine Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "MSM",
+      "course_name": "Mechanical & Smart Manufacturing",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "EEE",
+      "course_name": "Electrical & Electronics Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "IT",
+      "course_name": "Information Technology",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "PEP",
+      "course_name": "Petroleum Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "VLSI",
+      "course_name": "VLSI Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "PLAN",
+      "course_name": "Planning",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CEE",
+      "course_name": "Civil & Environmental Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "PE",
+      "course_name": "Pharmaceutical Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "ED",
+      "course_name": "Engineering Design",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "MAE",
+      "course_name": "Mechanical & Aerospace Engineering",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "IEM",
+      "course_name": "Industrial Engineering & Management",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "RAI",
+      "course_name": "Robotics & AI",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "CBS",
+      "course_name": "Computer Science & Business Systems",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "DS",
+      "course_name": "Data Science",
+      "stream_group": "Engineering"
+    },
+    {
+      "course_code": "IOT",
+      "course_name": "Internet of Things",
+      "stream_group": "Engineering"
+    }
+  ]
+}
