@@ -83,6 +83,22 @@ def get_db():
         db.close()
 
 
+def _ensure_college_location(college: dict) -> dict:
+    """Ensure every college dict has a non-empty location for UI dropdowns."""
+    if college.get("location"):
+        return college
+    try:
+        from data_loader import KNOWN_COLLEGE_INFO, infer_location_from_name
+    except ImportError:
+        from .data_loader import KNOWN_COLLEGE_INFO, infer_location_from_name
+    code = college.get("college_code", "")
+    known = KNOWN_COLLEGE_INFO.get(code, {})
+    college["location"] = known.get("location") or infer_location_from_name(
+        college.get("college_name", "")
+    )
+    return college
+
+
 def get_cutoffs_by_category(db, category: str, limit: int = 1000) -> List[dict]:
     """
     Retrieve all cutoffs for a specific category.
@@ -242,17 +258,20 @@ def get_cutoffs_by_category(db, category: str, limit: int = 1000) -> List[dict]:
     return mock_cutoffs[:limit]
 
 
-def get_all_categories(db) -> List[str]:
-    """Get all unique categories from cutoffs"""
-    from data_loader import ALL_CATEGORIES
+def get_all_categories(db=None) -> List[str]:
+    """Get all available student categories."""
+    try:
+        from data_loader import ALL_CATEGORIES
+    except ImportError:
+        from .data_loader import ALL_CATEGORIES
     return ALL_CATEGORIES
 
 
-def get_colleges(db) -> List[dict]:
+def get_colleges(db=None) -> List[dict]:
     """Get all colleges. First tries real KEA 2025 data, then falls back to mock data."""
     real_colleges = get_real_colleges()
     if real_colleges:
-        return real_colleges
+        return [_ensure_college_location(dict(c)) for c in real_colleges]
     # Fallback: comprehensive college data from KCET 2026 seat matrix
     return [
         # Bangalore (15 colleges)
@@ -349,7 +368,7 @@ def get_colleges(db) -> List[dict]:
     ]
 
 
-def get_courses(db) -> List[dict]:
+def get_courses(db=None) -> List[dict]:
     """Get all courses. First tries real KEA 2025 data, then falls back to mock data."""
     real_courses = get_real_courses()
     if real_courses:

@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import StudentProfileForm from '@/components/StudentProfileForm';
 import PredictionResults from '@/components/PredictionResults';
-import { kcetAPI } from '@/services/api';
+import { kcetAPI, getApiErrorMessage } from '@/services/api';
 import { useOptionEntryStore } from '@/store/optionEntry';
 
 export default function PredictorPage() {
@@ -47,9 +47,7 @@ export default function PredictorPage() {
       setPredictions(response);
       setShowResults(true);
     } catch (err) {
-      setError(
-        err instanceof Error ? err.message : 'Failed to generate predictions. Please try again.'
-      );
+      setError(getApiErrorMessage(err));
       console.error('Prediction error:', err);
     } finally {
       setIsLoading(false);

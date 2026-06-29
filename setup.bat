@@ -42,10 +42,14 @@ call venv\Scripts\activate.bat
 echo Installing dependencies...
 pip install -r requirements.txt
 
-if not exist ".env" (
-    echo Creating .env file...
-    copy .env.example .env
-    echo ⚠️  Please edit .env with your database credentials
+if not exist "backend\.env" (
+    copy backend\.env.example backend\.env
+) else (
+    findstr /C:"sqlite" backend\.env >nul || (
+        echo DATABASE_URL=sqlite:///./kcet_2026.db> backend\.env
+        echo ENVIRONMENT=development>> backend\.env
+        echo DEBUG=True>> backend\.env
+    )
 )
 
 cd ..
@@ -72,9 +76,9 @@ echo 🎉 Setup Complete!
 echo.
 echo Next steps:
 echo 1. Edit backend\.env with your database credentials
-echo 2. Make sure PostgreSQL is running
+echo 2. Make sure PostgreSQL is running (optional — SQLite is used by default)
 echo 3. Run: cd backend ^&^& venv\Scripts\activate.bat ^&^& python main.py
 echo 4. In another terminal: cd frontend ^&^& npm run dev
-echo 5. Visit http://localhost:3000
+echo 5. Visit http://localhost:3000 (API on http://localhost:8001)
 echo.
 pause

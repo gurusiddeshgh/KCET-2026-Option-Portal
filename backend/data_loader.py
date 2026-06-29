@@ -110,6 +110,51 @@ CATEGORY_MULTIPLIERS = {
 
 ALL_CATEGORIES = ["GM", "2AR", "3BK", "SCG", "STK", "GMEWS", "2A", "3A"]
 
+# City tokens found in KEA college names → normalized location labels
+_NAME_LOCATION_HINTS = [
+    ("BANGALORE", "Bangalore"),
+    ("MYSORE", "Mysore"),
+    ("MYSURU", "Mysore"),
+    ("BELGAUM", "Belgaum"),
+    ("BELAGAVI", "Belgaum"),
+    ("HUBLI", "Hubballi"),
+    ("HUBBALLI", "Hubballi"),
+    ("DHARWAD", "Hubballi"),
+    ("MANGALORE", "Mangalore"),
+    ("MANGALURU", "Mangalore"),
+    ("DAVANAGERE", "Davangere"),
+    ("DAVANGERE", "Davangere"),
+    ("HASSAN", "Hassan"),
+    ("TUMKUR", "Tumkur"),
+    ("TUMAKURU", "Tumkur"),
+    ("GULBARGA", "Gulbarga"),
+    ("KALABURAGI", "Gulbarga"),
+    ("RAICHUR", "Raichur"),
+    ("BALLARI", "Ballari"),
+    ("BELLARY", "Ballari"),
+    ("BIDAR", "Bidar"),
+    ("SHIMOGA", "Shivamogga"),
+    ("SHIVAMOGGA", "Shivamogga"),
+    ("KOLAR", "Kolar"),
+    ("MANDYA", "Mandya"),
+    ("GADAG", "Gadag"),
+    ("RAMANAGARA", "Ramanagara"),
+    ("CHIKKABALLAPUR", "Chikkaballapur"),
+    ("SULLIA", "Sullia"),
+    ("SURATHKAL", "Mangalore"),
+    ("VIJAYAPURA", "Vijayapura"),
+    ("BIJAPUR", "Vijayapura"),
+]
+
+
+def infer_location_from_name(college_name: str) -> str:
+    """Guess city from college name when KEA data has blank location."""
+    upper = (college_name or "").upper()
+    for token, city in _NAME_LOCATION_HINTS:
+        if token in upper:
+            return city
+    return "Other"
+
 
 def _enrich_record(rec: Dict) -> Dict:
     """Add location and college_type if missing, using known mapping."""
@@ -146,6 +191,9 @@ def _load_module(module_name: str, source_desc: str) -> Optional[Dict]:
             if cc in colleges_raw:
                 colleges_raw[cc]["location"] = colleges_raw[cc].get("location") or cinfo["location"]
                 colleges_raw[cc]["college_type"] = colleges_raw[cc].get("college_type") or cinfo["college_type"]
+        for cc, college in colleges_raw.items():
+            if not college.get("location"):
+                college["location"] = infer_location_from_name(college.get("college_name", ""))
 
         # Count categories
         cats = set(r.get("category") for r in records)

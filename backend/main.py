@@ -36,13 +36,13 @@ async def root():
 
 
 @app.get("/api/categories")
-async def get_categories(db: Session = Depends(get_db)):
+async def get_categories():
     """
     Retrieve all available student categories.
     Example: GM, 2AR, 3BK, SCG, STK, GMEWS
     """
     try:
-        categories = get_all_categories(db)
+        categories = get_all_categories()
         return {
             "status": "success",
             "count": len(categories),
@@ -53,12 +53,12 @@ async def get_categories(db: Session = Depends(get_db)):
 
 
 @app.get("/api/colleges")
-async def get_colleges_list(db: Session = Depends(get_db)):
+async def get_colleges_list():
     """
     Retrieve all available colleges with basic information.
     """
     try:
-        colleges = get_colleges(db)
+        colleges = get_colleges()
         return {
             "status": "success",
             "count": len(colleges),
@@ -69,12 +69,12 @@ async def get_colleges_list(db: Session = Depends(get_db)):
 
 
 @app.get("/api/courses")
-async def get_courses_list(db: Session = Depends(get_db)):
+async def get_courses_list():
     """
     Retrieve all available courses across all colleges.
     """
     try:
-        courses = get_courses(db)
+        courses = get_courses()
         return {
             "status": "success",
             "count": len(courses),
@@ -191,14 +191,18 @@ async def health_check():
 
 
 @app.get("/api/locations")
-async def get_all_locations(db: Session = Depends(get_db)):
+async def get_all_locations():
     """
     Retrieve all unique locations where colleges are available in Karnataka.
     Sorted alphabetically for easy dropdown display.
     """
     try:
-        colleges = get_colleges(db)
-        locations = sorted(list(set(college["location"] for college in colleges)))
+        colleges = get_colleges()
+        locations = sorted({
+            college["location"]
+            for college in colleges
+            if college.get("location") and college["location"] != "Other"
+        })
         return {
             "status": "success",
             "count": len(locations),
@@ -348,4 +352,4 @@ async def predict_2026_admissions(rank: int, category: str = "GM", location: str
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="127.0.0.1", port=8001)

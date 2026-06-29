@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useOptionEntryStore } from '@/store/optionEntry';
-import { kcetAPI } from '@/services/api';
+import { kcetAPI, getApiErrorMessage } from '@/services/api';
+
+const DEFAULT_CATEGORIES = ['GM', '2AR', '3BK', 'SCG', 'STK', 'GMEWS', '2A', '3A'];
 
 interface StudentProfileFormProps {
   onSubmit: (profile: any) => void;
@@ -17,22 +19,38 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
   const [selectedLocations, setSelectedLocations] = useState<string[]>([]);
   const [selectedCourses, setSelectedCourses] = useState<string[]>([]);
   const [showLocationDropdown, setShowLocationDropdown] = useState(false);
+  const [isLoadingOptions, setIsLoadingOptions] = useState(true);
+  const [loadError, setLoadError] = useState<string>('');
 
   const setStudentProfile = useOptionEntryStore((state) => state.setStudentProfile);
 
   useEffect(() => {
     const fetchData = async () => {
+      setIsLoadingOptions(true);
+      setLoadError('');
       try {
-        const catResponse = await kcetAPI.getCategories();
-        setCategories(catResponse.categories || []);
-        
-        const courseResponse = await kcetAPI.getCourses();
-        setCourses(courseResponse.courses || []);
+        const [catResponse, courseResponse, locResponse] = await Promise.all([
+          kcetAPI.getCategories(),
+          kcetAPI.getCourses(),
+          kcetAPI.getLocations(),
+        ]);
 
-        const locResponse = await kcetAPI.getLocations();
+        const loadedCategories = catResponse.categories?.length
+          ? catResponse.categories
+          : DEFAULT_CATEGORIES;
+        setCategories(loadedCategories);
+        if (!loadedCategories.includes(category)) {
+          setCategory(loadedCategories[0]);
+        }
+
+        setCourses(courseResponse.courses || []);
         setLocations(locResponse.locations || []);
       } catch (err) {
         console.error('Error fetching data:', err);
+        setCategories(DEFAULT_CATEGORIES);
+        setLoadError(getApiErrorMessage(err));
+      } finally {
+        setIsLoadingOptions(false);
       }
     };
     fetchData();
@@ -90,6 +108,18 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
         </div>
       )}
 
+      {loadError && (
+        <div className="mb-4 p-3 bg-amber-100 border border-amber-400 text-amber-800 rounded text-sm">
+          {loadError}
+        </div>
+      )}
+
+      {isLoadingOptions && (
+        <div className="mb-4 p-3 bg-blue-50 border border-blue-200 text-blue-700 rounded text-sm">
+          Loading categories, courses, and locations...
+        </div>
+      )}
+
       <div className="space-y-6">
         {/* Rank Input */}
         <div>
@@ -116,13 +146,17 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
             value={category}
             onChange={(e) => setCategory(e.target.value)}
             className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-            disabled={isLoading}
+            disabled={isLoading || isLoadingOptions}
           >
-            {categories.map((cat) => (
-              <option key={cat} value={cat}>
-                {cat}
-              </option>
-            ))}
+            {categories.length === 0 ? (
+              <option value="GM">GM</option>
+            ) : (
+              categories.map((cat) => (
+                <option key={cat} value={cat}>
+                  {cat}
+                </option>
+              ))
+            )}
           </select>
           <p className="text-xs text-gray-500 mt-1">GM: General Merit, 2AR: 2A Reserved, etc.</p>
         </div>
@@ -132,19 +166,25 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
           <label className="block text-sm font-medium text-gray-700 mb-3">
             Preferred Courses (Optional)
           </label>
-          <div className="grid grid-cols-2 gap-3">
-            {courses.map((course: any) => (
-              <label key={course.course_code} className="flex items-center space-x-2 cursor-pointer">
-                <input
-                  type="checkbox"
-                  checked={selectedCourses.includes(course.course_code)}
-                  onChange={() => handleCourseToggle(course.course_code)}
-                  className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
-                  disabled={isLoading}
-                />
-                <span className="text-sm text-gray-700">{course.course_code} - {course.course_name}</span>
-              </label>
-            ))}
+          <div className="grid grid-cols-2 gap-3 max-h-64 overflow-y-auto border border-gray-100 rounded-lg p-3">
+            {courses.length === 0 ? (
+              <p className="text-sm text-gray-500 col-span-2">
+                {isLoadingOptions ? 'Loading courses...' : 'No courses available — check backend connection'}
+              </p>
+            ) : (
+              courses.map((course: any) => (
+                <label key={course.course_code} className="flex items-center space-x-2 cursor-pointer">
+                  <input
+                    type="checkbox"
+                    checked={selectedCourses.includes(course.course_code)}
+                    onChange={() => handleCourseToggle(course.course_code)}
+                    className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
+                    disabled={isLoading || isLoadingOptions}
+                  />
+                  <span className="text-sm text-gray-700">{course.course_code} - {course.course_name}</span>
+                </label>
+              ))
+            )}
           </div>
           <p className="text-xs text-gray-500 mt-2">Leave empty to see options from all courses</p>
         </div>
@@ -161,10 +201,12 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
               type="button"
               onClick={() => setShowLocationDropdown(!showLocationDropdown)}
               className="w-full px-4 py-2 border border-gray-300 rounded-lg bg-white text-left flex justify-between items-center hover:border-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition"
-              disabled={isLoading}
+              disabled={isLoading || isLoadingOptions}
             >
               <span className="text-gray-700">
-                {selectedLocations.length === 0
+                {isLoadingOptions
+                  ? 'Loading locations...'
+                  : selectedLocations.length === 0
                   ? 'Select locations in Karnataka'
                   : selectedLocations.length === locations.length
                   ? 'All locations selected'
@@ -204,7 +246,12 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
 
                 {/* Location List */}
                 <div className="max-h-64 overflow-y-auto p-2">
-                  {locations.map((location) => (
+                  {locations.length === 0 ? (
+                    <p className="text-sm text-gray-500 px-3 py-2">
+                      {isLoadingOptions ? 'Loading...' : 'No locations available'}
+                    </p>
+                  ) : (
+                    locations.map((location) => (
                     <label
                       key={location}
                       className="flex items-center space-x-3 px-3 py-2 hover:bg-blue-50 cursor-pointer rounded transition"
@@ -218,7 +265,8 @@ export const StudentProfileForm: React.FC<StudentProfileFormProps> = ({ onSubmit
                       />
                       <span className="text-sm text-gray-700">{location}</span>
                     </label>
-                  ))}
+                    ))
+                  )}
                 </div>
               </div>
             )}

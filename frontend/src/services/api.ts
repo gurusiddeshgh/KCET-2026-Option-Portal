@@ -1,13 +1,36 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api';
+// Use same-origin /api (proxied by Next.js) — avoids Windows localhost/IPv6 issues
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || '/api';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
   headers: {
     'Content-Type': 'application/json',
   },
+  timeout: 30000,
 });
+
+export function getApiErrorMessage(err: unknown): string {
+  if (axios.isAxiosError(err)) {
+    if (err.code === 'ECONNABORTED') {
+      return 'API request timed out. The backend may still be loading data — wait a moment and refresh.';
+    }
+    if (!err.response) {
+      return (
+        'Cannot reach the backend API. Start it in a terminal: ' +
+        'cd backend → venv\\Scripts\\activate → python main.py ' +
+        '(then restart the frontend with npm run dev)'
+      );
+    }
+    const detail = err.response.data?.detail;
+    return `API error ${err.response.status}${detail ? `: ${detail}` : ''}`;
+  }
+  if (err instanceof Error) {
+    return err.message;
+  }
+  return 'Unknown API error';
+}
 
 export interface StudentProfile {
   rank: number;
