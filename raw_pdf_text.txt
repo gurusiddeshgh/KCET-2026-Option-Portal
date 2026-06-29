@@ -1,10422 +1,28632 @@
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+KARNATAKA EXAMINATIONS AUTHORITY
 
-1. 
+Non-Interactive Admission System - 2025-26 ( Session- 1 Provisional Allotment Cut-Off)
 
-  E001 
+UGCET-2025 MOCK ALLOTMENT CUT-OFF RANKS FOR Engineering
 
-UNIVERSITY OF VISVESVARAYA COLLEGE OF ENGINEERING 
-(A STATE AUTONOMOUS PUBLIC UNIVERSITY ON IIT MODEL) 
-K R CIRCLE, BANGALORE 
+Seat Type: Rest Of karnataka Cut-Off Ranks
 
-Pub.  
-Uni. 
+College: (E001)Univesity of Visvesvaraya College of Engineering (A State Autonomous Public University on IIT Model) K R Circle, Bangalore
 
-State  
-Autonomous 
-P University 
+1G
 
-BANGALORE 
+7516
 
-Course Name 
+1K
 
-Intake 
+--
 
-1G 
+1R
 
-2AG 
+--
 
-2BG 
+2AG
 
-3AG 
+6740
 
-3BG 
+2AK
 
-GM 
+--
 
-SCG 
+2AR
 
-STG 
+7574
 
-AD 
+2BG
 
-ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
+10625
 
-CE 
+70257
 
-CIVIL ENGINEERING 
+--
 
-CS 
+91660
 
-COMPUTER SCIENCE AND ENGINEERING 
+60612
 
-EE 
+70115
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+71922
 
-EC 
+69408
 
-ELECTRONICS AND COMMUNICATION ENGG 
+6181
 
-IE 
+9234
 
-INFORMATION SCIENCE AND ENGINEERING 
+7462
 
-ME 
+6558
 
-MECHANICAL ENGINEERING 
+9881
 
-60 
+7380
 
-120 
+8830
 
-120 
+3AK
 
-120 
+3AR
 
-120 
+3BG
 
-60 
+4814
 
-160 
+3BK
 
-I 
+--
 
-II 
+3BR
 
-I 
+--
 
-II 
+GM
 
-I 
+4550
 
-II 
+GMK
 
-I 
+9379
 
-II 
+GMR
 
-I 
+5801
 
-II 
+SCG
 
-I 
+SCK
 
-II 
+SCR
 
-I 
+STG
 
-II 
+STK
 
-7516 
+26335
 
-7802 
+29894
 
-70257 
+29048
 
-77403 
+21880
 
-6560 
+48158
 
-6520 
+56287
 
-21811 
+58132.5
 
-22995 
+42449
 
-10346 
+49372
 
-10839 
+52440
 
-7596 
+68702
 
-7596 
+113287
 
-54331 
+75897
 
-70257 
+66923.5
 
-6634 
+4061
 
-8424 
+5264
 
-63957 
+4182
 
-78404 
+5273.5
 
-5714 
+3473
 
-7544 
+4239
 
-22042 
+5132
 
-27257 
+21814
 
-9710 
+24688
 
-10598 
+24450
 
-7224 
+16132
 
-8266 
+23633
 
-53770 
+13615
 
-65823 
+20588.87
+5
 
-11136 
+23149
 
-11781 
+50419
 
-69408 
+52977
 
-74679 
+64789
 
-8937 
+48692
 
-10476 
+33558
 
-28586 
+23379
 
-35391 
+26605
 
-17880 
+29347.5
 
-17880 
+21340.5
 
-13063 
+15428
 
-13090 
+41729
 
-75437 
+23276
 
-87812 
+16961
 
-5191 
+10096
 
-6904 
+15115
 
-52560 
+10539
 
-63732 
+17311
 
-4061 
+22894
 
-5200 
+8155
 
-18870 
+7657.5
 
-21940 
+--
 
-7313 
+8169
 
-8882 
+11776
 
-4832 
+40080
 
-6767 
+13063
 
-38626 
+5200
 
-53060 
+10446
 
-4788 
+8057
 
-6584 
+--
 
-54863 
+5005
 
-63278 
+10003
 
-4329 
+5656.5
 
-5005 
+11207
 
-19267 
+9371
 
-22282 
+35408
 
-7588 
+57559
 
-10324 
+42709
 
-5030 
+35020
 
-6535 
+36428
 
-44587 
+38505
 
-55779 
+--
 
-4628 
+4641
 
-6389 
+7455
 
-45486 
+5867
 
-53340 
+29805.5
 
-3473 
+--
 
-4732 
+33279
 
-13703 
+25226
 
-19047 
+--
 
-5418 
+28021
 
-8155 
+63318
 
-4625 
+54454
 
-6502 
+55464
 
-32642 
+59670
 
-26335 
+70806
 
-26425 
+--
 
-68785 
+130527
 
-17943 
+41130
 
-41199 
+54295
 
-83075 
+42872
 
-84998 
+61514
 
-119593 
+49821
 
-21248 
+33774
 
-24450 
+43950
 
-55146 
+49783
 
-57005 
+100237.5
 
-35273 
+122776
 
-37264 
+120441.5
 
-29415 
+96173
 
-31770 
+100877
 
-98210 
+97297
 
-16132 
+College: (E002)Govt.S K S J T Institute of Engineering, Bangalore AMBEDKAR VEEDHI, K.R. CIRCLE, BANGALORE-01
 
-39060 
+2AG
 
-57867 
+2AK
 
-57559 
+2AR
 
-36359 
+2BG
 
-44546 
+2BK
 
-26057 
+78404
 
--- 
+81739.5
 
-99846 
+88846
 
-43950 
+71386
 
-108273 
+3BK
 
-122776 
+3BR
 
-2. 
+GM
 
-E002 
+GMK
 
-GOVT. SRI KRISHNARAJENDRA SILVER JUBILEE TECHNOLOGICAL 
-INSTITUTE,  K.R. CIRCLE,    DR AMBEDKAR  VEEDHI, BANGALORE 
+GMR
 
-GOVT 
+SCG
 
-V T U 
+SCK
 
-BANGALORE 
+SCR
 
-Course Name 
+STG
 
-Intake 
+82612
 
-1G 
+70434
 
-2AG 
+76685.5
 
-2BG 
+75362
 
-3AG 
+90166
 
-3BG 
+119447
 
-GM 
+117658.5
 
-SCG 
+88448.5
 
-STG 
+STK
 
-CE 
+--
 
-CIVIL ENGINEERING 
+STR
 
-CS 
+97503
 
-COMPUTER SCIENCE AND ENGINEERING 
+16847
 
-EC 
+12452
 
-ELECTRONICS AND COMMUNICATION ENGG 
+14631
 
-ST 
+15642
 
-B. TECH. INSILK TECHNOLOGY 
+37396
 
-TX 
+39060
 
-B.TECH. IN TEXTILES TECHNOLOGY 
+33639
 
-60 
+42283
 
-60 
+--
 
-60 
+3AR
 
-20 
+--
 
-50 
+3BG
 
-I 
+81900
 
-II 
+16036
 
-I 
+15238
 
-II 
+29634
 
-I 
+26729
 
-II 
+15213
 
-I 
+119870
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-86595 
+16111
 
-86200 
+21143
 
-79933 
+29293
 
-82091 
+41566
 
-143668 
+124713
 
-136248 
+152542
 
-103223 
+159903
 
-108682 
+160114
 
-17441 
+170929
 
-21731 
+134757
 
-29634 
+--
 
-37139 
+--
 
-17931 
+--
 
-24226 
+23166
 
-30633 
+31946
 
-41423 
+123637
 
-24262 
+120585
 
-31602 
+--
 
-41566 
+--
 
-53232 
+--
 
-15989 
+--
 
-21488 
+--
 
-23573 
+21881
 
-31883 
+24862
 
--- 
+26548
 
-115675 
+54856
 
-130938 
+92321
 
-136995 
+96402
 
-79041 
+110783
 
-97522 
+127295
 
-15139 
+60391
 
-22331 
+50228
 
-26570 
+--
 
-34286 
+138034
 
-97522 
+110755.5
 
-72936 
+118312
 
-92847 
+137095
 
-89550 
+174727
 
-89550 
+184737
 
-131896 
+189563
 
-162948 
+168448
 
-14802 
+College: (E003)B M S College of Engineering, Basavanagudi, Bangalore (AUTONOMOUS) POST BOX NO 1908, BULL TEMPLE ROAD,BANGALORE
 
-20897 
+1K
 
-23532 
+1R
 
-31651 
+2AG
 
-36382 
+38692
 
-43445 
+13043
 
-58574 
+5316
 
-66698 
+2AK
 
-35798 
+2AR
 
-37856 
+2BG
 
-62492 
+2BK
 
-81903 
+--
 
-92321 
+--
 
-127295 
+--
 
-135532 
+47572
 
-244311 
+31835
 
-183148 
+20529
 
--- 
+16176
 
-175696 
+--
 
-248135 
+--
 
-153892 
+6497
 
-200503 
+11793
 
--- 
+42114
 
-146267 
+3AK
 
-162775 
+3AR
 
-132204 
+3BG
 
-125711 
+3BK
 
-140600 
+3BR
 
-124784 
+GM
 
-184960 
+30126
 
-194281 
+37426.5
 
--- 
+42405
 
--- 
+25906
 
--- 
+GMK
 
--- 
+33499
 
--- 
+GMR
 
-261534 
+34073
 
--- 
+SCG
 
--- 
+54974
 
-3. 
+SCK
 
-E003 
+--
 
-B M S COLLEGE OF ENGINEERING,  P.B NO 1908,   BULL TEMPLE 
-ROAD, HUNUMATHANAGAR, BASAVANAGUDI, 
-BANGALORE 560004 
+SCR
 
-GOVT.  
-AIDED 
+STG
 
-Autonomous  BANGALORE 
+STK
 
-Course Name 
+67937
 
-Intake 
+42919
 
-1G 
+9024
 
-2AG 
+3738
 
-2BG 
+--
 
-3AG 
+4534
 
-3BG 
+25337
 
-GM 
+13806
 
-SCG 
+35362
 
-STG 
+44546
 
-CE 
+58322
 
-CIVIL ENGINEERING 
+42607
 
-EE 
+7954
 
-ELECTRICAL & ELECTRONICS ENGINEERING1 
+1449
 
-EC 
+5426
 
-ELECTRONICS AND COMMUNICATION ENGG 
+4114
 
-IM 
+24003
 
-INDUSTRIAL ENGINEERING & MANAGEMENT 
+38987
 
-ME 
+22241
 
-MECHANICAL ENGINEERING 
+89608
 
-57 
+34352
 
-57 
+49486
 
-57 
+47323
 
-57 
+31769
 
-57 
+35345
 
-I 
+26891
 
-II 
+50300
 
-I 
+31846.5
 
-II 
+25972
 
-I 
+--
 
-II 
+--
 
-I 
+37026
 
-II 
+33588
 
-I 
+--
 
-II 
+16657
 
-31865 
+--
 
-31865 
+--
 
-15750 
+23107.5
 
-15859 
+36288
 
-4212 
+33345
 
-4212 
+97536
 
-61978 
+105895
 
-53563 
+98821
 
-17235 
+206468
 
-18113 
+7440
 
-37219 
+21899
 
-46090 
+24893
 
-13043 
+66128
 
-13043 
+117057
 
-5049 
+78178
 
-5737 
+53094
 
-31329 
+--
 
-43304 
+2BK
 
-26891 
+--
 
-26891 
+--
 
-45467 
+--
 
-45467 
+--
 
-13930 
+--
 
-13930 
+--
 
-11658 
+--
 
-12443 
+--
 
-49182 
+--
 
-49182 
+--
 
-25972 
+2BR
 
-25972 
+--
 
-28845 
+3AG
 
-35240 
+5191
 
-7189 
+79602
 
-9655 
+48908
 
-4082 
+--
 
-4082 
+--
 
-27348 
+2BR
 
-35074 
+--
 
-15479 
+3AG
 
-18402 
+77321
 
-32952 
+35344
 
-42373 
+13011
 
-8061 
+--
 
-10789 
+--
 
-3566 
+--
 
-4874 
+22098.87
+5
 
-29932 
+121034
 
-41587 
+123636
 
-15928 
+2BR
 
-19458 
+--
 
-25511 
+3AG
 
-31403 
+29178
 
-5247 
+25098
 
-6886 
+7189
 
-1417 
+--
 
-1893 
+--
 
-55805 
+4082
 
-67937 
+35074
 
-44899 
+70945
 
-53808 
+18402
 
-25977 
+--
 
-26045 
+--
 
-24781 
+--
 
-105820 
+--
 
-46077 
+--
 
-82202 
+--
 
-45191 
+3AK
 
-45191 
+--
 
-25845 
+--
 
-32791 
+--
 
-99394 
+--
 
-30210 
+--
 
-115129 
+--
 
-210754 
+--
 
-7440 
+--
 
-12643 
+--
 
-69333 
+--
 
-76760 
+--
 
-54954 
+--
 
-54954 
+--
 
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 1 of 82 
+--
 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+--
 
-4. 
+Course Name
 
-  E004 
+ARTIFICIAL
+INTELLIGENCE AND
+DATA SCIENCE
 
-DR. AMBEDKAR INSTITUTE OF TECHNOLOGY,  BDA OUTER 
-RING ROAD, JNANABHARATHI CAMPUS, MALLATHAHALLY,  
-BANGALORE-560056 
+CIVIL
+ENGINEERING
 
-GOVT.  
-AIDED 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-Autonomous  BANGALORE 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-Course Name 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-Intake 
+INFORMATION
+SCIENCE AND
+ENGINEERING
 
-1G 
+MECHANICAL
+ENGINEERING
 
-2AG 
+21558
 
-2BG 
+9031
 
-3AG 
+7596
 
-3BG 
+54331
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+Course Name
 
-CS 
+CIVIL
+ENGINEERING
 
-EE 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-EC 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-EI 
+1G
 
-ET 
+86595
 
-IM 
+16993
 
-COMPUTER SCIENCE AND ENGINEERING 
+24643
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+SILK TECHNOLOGY
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-ELECTRONICS AND INSTRUMENTATION ENGINEERING 
+TEXTILES
+TECHNOLOGY
 
-ELECTRONICS AND TELECOMMUNICATION ENGG 
+159196
 
-INDUSTRIAL ENGINEERING & MANAGEMENT 
+1K
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+--
 
-85 
+--
 
-57 
+--
 
-57 
+--
 
-114 
+Course Name
 
-57 
+CIVIL
+ENGINEERING
 
-57 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-29 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-114 
+INDUSTRIAL
+ENGINEERING &
+MANAGEMENT
 
-I 
+MECHANICAL
+ENGINEERING
 
-II 
+1G
 
-I 
+52160
 
-II 
+15750
 
-I 
+4212
 
-II 
+39373
 
-I 
+18113
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+1R
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-97863 
+--
 
-87536 
+--
 
-103223 
+--
 
-77653 
+--
 
-92959 
+--
 
-76735 
+--
 
-112191 
+--
 
-114587 
+--
 
-111599 
+--
 
-131563 
+--
 
-133908 
+--
 
-106336 
+--
 
-120009 
+--
 
-99859 
+--
 
-136239 
+--
 
-169699 
+--
 
-12218 
+STR
 
-14775 
+23537
 
-38238 
+76540
 
-52608 
+17552
 
-23118 
+56510
 
-25849 
+65794
 
-57232 
+--
 
-56207 
+--
 
-39640 
+STR
 
-39640 
+82202
 
-82933 
+45139
 
-86128 
+37313
 
-87443 
+--
 
-10664 
+--
 
-14588 
+--
 
-38077 
+--
 
-46839 
+--
 
-19821 
+--
 
-26745 
+--
 
-55442 
+--
 
-69529 
+--
 
-41501 
+--
 
-45574 
+--
 
-70463 
+--
 
-17547 
+--
 
-17547 
+--
 
-42975 
+--
 
-63885 
+--
 
-31977 
+--
 
-32001 
+Generated on: 25-07-2025 18:10:25
 
-67770 
-
-73470 
-
-54064 
-
-64064 
-
-69043 
-
-90144 
-
-136269 
-
-82513 
-
-88275 
-
-133794 
-
-124068 
-
-159633 
-
-9104 
-
-11963 
-
-29735 
-
-38965 
-
-17061 
-
-21286 
-
-37735 
-
-53311 
-
-34407 
-
-42363 
-
-73913 
-
-89552 
-
-70663 
-
-96191 
-
-8811 
-
-12615 
-
-32944 
-
-39787 
-
-17782 
-
-21881 
-
-40624 
-
-61115 
-
-32339 
-
-49022 
-
-68177 
-
-84359 
-
-81701 
-
-97719 
-
-8212 
-
-11706 
-
-27992 
-
-38771 
-
-16042 
-
-20094 
-
-31020 
-
-34503 
-
-69243 
-
-73143 
-
-50588 
-
-62762 
-
-31849 
-
-34121 
-
-75409 
-
-89498 
-
-46765 
-
-54482 
-
-37291 
-
-109666 
-
-120439 
-
-52730 
-
-128969 
-
-198338 
-
-30617 
-
-93549 
-
-136786 
-
-39138 
-
-116708 
-
-149653 
-
-63094 
-
-137150 
-
-130816 
-
-82933 
-
-150774 
-
-171378 
-
-67330 
-
-143556 
-
-131318 
-
-85661 
-
-176572 
-
-226296 
-
-5. 
-
-E005 
-
-R. V. COLLEGE OF ENGINEERING, R V VIDYANEKETAN POST, 
-MYSORE ROAD, BANGALORE-560 59 
-
-PUA 
-
-Autonomous 
-
-BANGALORE 
-
-Course Name 
-
-Intake 
-
-1G 
-
-2AG 
-
-2BG 
-
-3AG 
-
-3BG 
-
-GM 
-
-SCG 
-
-STG 
-
-SE 
-
-AERO SPACE ENGINEERING 
-
-BT 
-
-BIO-TECHNOLOGY 
-
-CH 
-
-CHEMICAL ENGINEERING 
-
-CE 
-
-CIVIL ENGINEERING 
-
-CA 
-
-CS 
-
-CY 
-
-DS 
-
-EE 
-
-EC 
-
-ET 
-
-IM 
-
-COMPUTER SCI &  ENGG (ARTIFICIAL INTELLIGENCE AND 
-MACHINE LEARNING) 
-
-COMPUTER SCIENCE AND ENGINEERING 
-
-COMPUTER SCIENCE AND ENGINEERING ( CYBER SECURITY ) 
-
-COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) 
-
-ELECTRICAL & ELECTRONICS ENGINEERING 
-
-ELECTRONICS AND COMMUNICATION ENGG 
-
-ELECTRONICS AND TELECOMMUNICATION ENGG 
-
-INDUSTRIAL ENGINEERING & MANAGEMENT 
-
-ME 
-
-MECHANICAL ENGINEERING 
-
-27 
-
-27 
-
-18 
-
-27 
-
-81 
-
-162 
-
-27 
-
-27 
-
-27 
-
-108 
-
-27 
-
-27 
-
-54 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-6385 
-
-10045 
-
-6268 
-
-10788 
-
--- 
-
--- 
-
-15934 
-
-25654 
-
-1637 
-
-2342 
-
-514 
-
-2013 
-
-1660 
-
-2751 
-
-1122 
-
-2621 
-
-3856 
-
-9182 
-
-2682 
-
-3675 
-
-3987 
-
-4846 
-
--- 
-
-15934 
-
-9298 
-
-9298 
-
-5027 
-
-5027 
-
-7800 
-
-8643 
-
-11453 
-
-16116 
-
-18239 
-
-19040 
-
-1398 
-
-1617 
-
-985 
-
-1398 
-
-1636 
-
-1912 
-
-1389 
-
-1636 
-
-5882 
-
-7765 
-
-2041 
-
-2196 
-
-4498 
-
-4720 
-
-8805 
-
-8805 
-
--- 
-
--- 
-
--- 
-
--- 
-
-2268 
-
-2268 
-
-10684 
-
-10684 
-
--- 
-
--- 
-
-2845 
-
-2845 
-
-7388 
-
-11282 
-
--- 
-
--- 
-
-19147 
-
-19147 
-
-9889 
-
-10832 
-
-16721 
-
-19501 
-
-2350 
-
-2657 
-
-1720 
-
-1847 
-
-3044 
-
-3977 
-
-1847 
-
-3044 
-
-8388 
-
-8388 
-
-3937 
-
-4622 
-
-5000 
-
-5000 
-
-787 
-
-1031 
-
-526 
-
-769 
-
-1073 
-
-1922 
-
-1031 
-
-1464 
-
-3713 
-
-4806 
-
-1384 
-
-1980 
-
-2039 
-
-3713 
-
-949 
-
-1275 
-
-721 
-
-910 
-
-1189 
-
-1548 
-
-986 
-
-1402 
-
-3894 
-
-4922 
-
-2155 
-
-2483 
-
-2483 
-
-3894 
-
-21964 
-
-26478 
-
-13089 
-
-16810 
-
-18099 
-
-18099 
-
-10241 
-
-10241 
-
-15228. 
-
-15228 
-
-7587 
-
-7587 
-
-15717 
-
-19728 
-
-7540 
-
-7826 
-
-1932 
-
-2038 
-
-3963 
-
-6814 
-
-5906 
-
-8209 
-
-9539 
-
-10754 
-
-429 
-
-676 
-
-234 
-
-446 
-
-508 
-
-833 
-
-367 
-
-724 
-
-1126 
-
-1845 
-
-573 
-
-914 
-
-987 
-
-1507 
-
-8703 
-
-13086 
-
-2900 
-
-5007 
-
-10585 
-
-17682 
-
-30756 
-
-30756 
-
-44081 
-
-44081 
-
-23961 
-
-34229 
-
-5918.5 
-
-7823 
-
-5091 
-
-6629 
-
-8078 
-
-10055 
-
-7543 
-
-9394 
-
-14486 
-
-14486 
-
-13568 
-
-14356 
-
-24657 
-
-26799 
-
-53712 
-
-83866 
-
-48258 
-
-48258 
-
-16051 
-
-16051 
-
-35420 
-
-76868 
-
-27247 
-
-56440 
-
-10251 
-
-42919 
-
-7579 
-
-7832 
-
-5593 
-
-7162 
-
-7312 
-
-7862 
-
-5848 
-
-5848 
-
-18457 
-
-18457 
-
-12671 
-
-12785 
-
-20511 
-
-20511 
-
-92894 
-
-93039 
-
-50016 
-
-50016 
-
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 2 of 82 
-
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
-
-6. 
-
-  E006 
-
-RAMAIAH INSTITUTE OF TECHNOLOGY M.S.R.I.T POST, M.S.R 
-NAGAR,  BANGALORE-560054 
-
-PUA 
-
-Autonomous  BANGALORE 
-
-Course Name 
-
-Intake 
-
-1G 
-
-2AG 
-
-2BG 
-
-3AG 
-
-3BG 
-
-GM 
-
-SCG 
-
-STG 
-
-SE 
-
-AERO SPACE ENGINEERING 
-
-AD 
-
-AI 
-
-ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
-
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-
-BT 
-
-BIO-TECHNOLOGY 
-
-CH 
-
-CHEMICAL ENGINEERING 
-
-CE 
-
-CIVIL ENGINEERING 
-
-CN 
-
-CS 
-
-CY 
-
-EE 
-
-EC 
-
-EI 
-
-ET 
-
-IM 
-
-IE 
-
-COMPUTER SC &ENGG  (ARTIFICIAL INTELLIGENCE AND 
-MACHINE LEARNING) 
-
-COMPUTER SCIENCE AND ENGINEERING 
-
-COMPUTER SCIENCE AND ENGINEERING ( CYBER SECURITY ) 
-
-ELECTRICAL & ELECTRONICS ENGINEERING 
-
-ELECTRONICS AND COMMUNICATION ENGG 
-
-ELECTRONICS AND INSTRUMENTATION ENGINEERING 
-
-ELECTRONICS AND TELECOMMUNICAT ION ENG 
-
-INDUSTRIAL ENGINEERING & MANAGEMENT 
-
-INFORMATION SCIENCE AND ENGINEERING 
-
-MR 
-
-MECHANICAL ENGINEERING 
-
-MD 
-
-MEDICAL ELECTRONICS ENGINEERING 
-
-27 
-
-27 
-
-31 
-
-27 
-
-27 
-
-27 
-
-58 
-
-89 
-
-31 
-
-27 
-
-62 
-
-27 
-
-27 
-
-27 
-
-62 
-
-54 
-
-27 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-10045 
-
-13846 
-
-4846 
-
-5619 
-
-3626 
-
-3626 
-
-21754 
-
-21754 
-
-44238 
-
-44238 
-
-24103 
-
-46738 
-
-3675 
-
-4494 
-
-3437 
-
-3478 
-
-4483 
-
-5520 
-
--- 
-
--- 
-
-5520 
-
-7154 
-
-10856 
-
-17062 
-
-9979 
-
-9979 
-
--- 
-
--- 
-
-3478 
-
-4763 
-
-17062 
-
-21976 
-
-51134 
-
-68537 
-
-7151 
-
-14969 
-
-4119 
-
-4160 
-
-3676 
-
-3896 
-
-17646 
-
-23479 
-
-24164 
-
-34741 
-
-38756 
-
-45234 
-
-3304 
-
-3423 
-
-2387 
-
-2574 
-
-4363 
-
-4639 
-
-10548 
-
-11694 
-
-5777 
-
-6602 
-
-16091 
-
-20258 
-
-7830 
-
-14394 
-
-34254 
-
-39274 
-
-4481 
-
-4481 
-
-25385 
-
-25533 
-
-32867 
-
-40568 
-
-10674 
-
-10674 
-
-3270 
-
-7737 
-
-4697 
-
-4697 
-
-13481 
-
-13481 
-
-31457 
-
-31457 
-
-36554 
-
-52105 
-
-3248 
-
-3270 
-
-2657 
-
-3248 
-
-4781 
-
-4781 
-
-10686 
-
-17129 
-
-7737 
-
-10330 
-
-17129 
-
-22373 
-
-10369 
-
-10369 
-
-53518 
-
-69043 
-
-3863 
-
-3863 
-
-24669 
-
-39914 
-
-39212 
-
-40614 
-
--- 
-
--- 
-
-3132 
-
-4121 
-
-3392 
-
-3392 
-
-11489 
-
-17079 
-
-16487 
-
-21060 
-
-26434 
-
-30008 
-
-2094 
-
-3091 
-
-1713 
-
-2109 
-
-3091 
-
-4422 
-
-7444 
-
-8604 
-
-3789 
-
-3789 
-
-10883 
-
-16567 
-
-7074 
-
-7074 
-
-35074 
-
-36476 
-
-3597 
-
-3647 
-
-16054 
-
-16054 
-
-30919 
-
-30919 
-
-6512 
-
-10494 
-
-3273 
-
-3492 
-
-2855 
-
-2855 
-
-14598 
-
-14598 
-
-17454 
-
-21788 
-
-30968 
-
-30968 
-
-2366 
-
-2984 
-
-1566 
-
-2425 
-
-3311 
-
-4142 
-
-7142 
-
-10408 
-
-4235 
-
-4331.5 
-
-11164 
-
-15248 
-
-4922 
-
-9548.5 
-
-27551 
-
-38866 
-
-3252 
-
-3472 
-
-16339 
-
-22030 
-
-27125 
-
-40185 
-
-5172 
-
-6410 
-
-2063 
-
-3416 
-
-1910.5 
-
-2756 
-
-9246 
-
-12456 
-
-13325 
-
-17454 
-
-23457 
-
-29763 
-
-1694 
-
-2434 
-
-1100 
-
-1687 
-
-1915 
-
-3380 
-
-4787 
-
-7786 
-
-2567 
-
-3746 
-
-5254 
-
-11391 
-
-3720 
-
-6836 
-
-25298 
-
-21186 
-
-31203 
-
-13337 
-
-13337 
-
-11314 
-
-12657 
-
-34096 
-
-34096 
-
-55204 
-
-55204 
-
-36201 
-
-36201 
-
-11785 
-
-13265 
-
-10220 
-
-11390 
-
-14971 
-
-14971 
-
-36743 
-
-36743 
-
-19890 
-
-20202 
-
-53118 
-
-60057 
-
-47771 
-
-47771 
-
-79371 
-
-29460 
-
-29460 
-
-16320 
-
-15453 
-
-15951 
-
-15951 
-
-40781 
-
-40781 
-
-43128 
-
-43128 
-
-29912 
-
-29912 
-
-13666 
-
-14687 
-
-11687 
-
-12975 
-
-21441 
-
-21441 
-
-30951 
-
-30951 
-
-23279 
-
-23279 
-
-74132 
-
-74132 
-
-30877 
-
-30877 
-
-40029 
-
-35122 
-
-107671 
-
-146911 
-
-2473 
-
-3083 
-
-8718 
-
-15466 
-
-17678 
-
-27959 
-
-17905 
-
-22926 
-
-78746 
-
-78746 
-
-85677 
-
-99545 
-
-22430 
-
-23175 
-
-61359 
-
-66923 
-
-84407 
-
-84407 
-
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 3 of 82 
-
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
-
-7. 
-
-E007 
-
-DAYANANDA SAGAR COLLEGE OF ENGINEERING, SHAVIGE 
-MALLESHWARA HILLS, 91ST MAIN RD, 1ST STAGE  
-KUMARSWAMY LAYOUT, BANGALORE-560078 
-
-PUA 
-
-Autonomous 
-
-BANGALORE 
-
-Course Name 
-
-Intake 
-
-1G 
-
-2AG 
-
-2BG 
-
-3AG 
-
-3BG 
-
-GM 
-
-SCG 
-
-STG 
-
-AE 
-
-AERONAUTICAL ENGINEERING 
-
-AI 
-
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-
-AU 
-
-AUTOMOBILE ENGINEERING 
-
-BT 
-
-BIO-TECHNOLOGY 
-
-CH 
-
-CHEMICAL E NGINEERING 
-
-CE 
-
-CIVIL ENGINEERING 
-
-IC 
-
-CS 
-
-CY 
-
-DS 
-
-EE 
-
-EC 
-
-ET 
-
-IE 
-
-COMPUTER SCIENCE AND ENGG(INTERNET OF THINGS & 
-CYBER SECURITY INCLUDING BLOCKCHAIN TECH) 
-
-COMPUTER SCIENCE AND ENGINEERING 
-
-COMPUTER SCIENCE AND ENGINEERING ( CYBER SECURITY ) 
-
-COMPUTER SCIENCE AND ENGINEERING(DATA SCIENCE) 
-
-ELECTRICAL & ELECTRONICS ENGINEERING 
-
-ELECTRONICS AND COMMUNICATION ENGG 
-
-ELECTRONICS AND TELECOMMUNICATION  ENGG 
-
-INFORMATION SCIENCE AND ENGINEERING 
-
-ME 
-
-MECHANICAL ENGINEERING 
-
-RI 
-
-ROBOTICS AND ARTIFICIAL INTELLIGENCE 
-
-27 
-
-81 
-
-27 
-
-27 
-
-27 
-
-81 
-
-27 
-
-135 
-
-27 
-
-27 
-
-54 
-
-162 
-
-54 
-
-81 
-
-54 
-
-27 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-16720 
-
-16720 
-
-7052 
-
-7584 
-
-50956 
-
-107177 
-
-31811 
-
-31811 
-
-56919 
-
-93631 
-
-74997 
-
-14528 
-
-17713 
-
-7115 
-
-7960 
-
-53731 
-
-78273 
-
-23479 
-
-34318 
-
-47903 
-
-48089 
-
-71810 
-
-20700 
-
-20700 
-
-9122 
-
-10610 
-
-67667 
-
-75040 
-
-27559 
-
-28138 
-
-27799 
-
-55486 
-
-80269 
-
-112538 
-
-107798 
-
-115657 
-
-10874 
-
-10874 
-
-6869 
-
-7083 
-
-7805 
-
-11582 
-
-7584 
-
-8502 
-
-20359 
-
-27779 
-
-11674 
-
-11674 
-
-21904 
-
-21904 
-
-8502 
-
-10611 
-
-38130 
-
-38130 
-
--- 
-
--- 
-
-9032 
-
-9339 
-
-6718 
-
-7545 
-
-8331 
-
-9107 
-
-7515 
-
-8019 
-
-22620 
-
-28069 
-
-11679 
-
-13081 
-
-23975 
-
-24302 
-
-8570 
-
-9510 
-
-38316 
-
-58316 
-
-11311 
-
-13671 
-
-13551 
-
-15865 
-
-9884 
-
-11737 
-
-13558 
-
-13812 
-
-11786 
-
-11786 
-
-19620 
-
-25566 
-
-16722 
-
-19519 
-
-23686 
-
-23686 
-
-11727 
-
-13686 
-
-47684 
-
-47684 
-
--- 
-
--- 
-
-9729 
-
-13625 
-
-5224 
-
-6831 
-
-42304 
-
-60592 
-
-18964 
-
-18964 
-
-33019 
-
-33487 
-
-62183 
-
-85368 
-
-7019 
-
-8709 
-
-5201 
-
-6341 
-
--- 
-
--- 
-
-5267 
-
-6918 
-
-19372 
-
-22495 
-
-8437 
-
-10840 
-
-12939 
-
-20399 
-
-6682 
-
-8352 
-
-26100 
-
-46429 
-
-8941 
-
-12812 
-
-12812 
-
-5339 
-
-7296 
-
-41935 
-
-67835 
-
-18502 
-
-19952 
-
-33373 
-
-33862 
-
-65787 
-
-94757 
-
-6846 
-
-8379 
-
-5001.5 
-
-6371 
-
-6238 
-
-7717 
-
-6391 
-
-7335 
-
-19485 
-
-22983 
-
-7717 
-
-11839 
-
-17664 
-
-19549 
-
-6722 
-
-8300 
-
-34085 
-
-58136 
-
-8516 
-
-8972 
-
-12717 
-
-4768 
-
-6700 
-
-30977 
-
-37171 
-
-22963 
-
-23698 
-
-35193 
-
-109883 
-
-34906 
-
-51121 
-
-26534 
-
-29681 
-
-89344 
-
-50956 
-
-111780 
-
-123736 
-
-14639 
-
-18606 
-
-19683 
-
-51781 
-
-60665 
-
-99966 
-
-33272 
-
-103957 
-
-73680 
-
-77796 
-
-62688 
-
-95825 
-
-54351 
-
-99631 
-
-108485 
-
-80122 
-
-139068 
-
-134101 
-
-6111 
-
-8284 
-
-4080 
-
-5630 
-
-5170 
-
-7486 
-
-4718 
-
-6913 
-
-15232 
-
-20761 
-
-6361 
-
-9054 
-
-12293 
-
-17298 
-
-5707 
-
-7704 
-
-25525 
-
-36189 
-
-7362 
-
-31625 
-
-40294 
-
-23303 
-
-28698 
-
-29080 
-
-35936 
-
-24725 
-
-35327 
-
-60286 
-
-76640 
-
-43299 
-
-46740 
-
-72512 
-
-96382 
-
-33475 
-
-37996 
-
-28144 
-
-39458 
-
-23941 
-
-27128 
-
-24334 
-
-36752 
-
-27988 
-
-27988 
-
-67855 
-
-89675 
-
-41698 
-
-44134 
-
-79874 
-
-83298 
-
-36752 
-
-37853 
-
-98086 
-
-128775 
-
-98579 
-
-129635 
-
-37171 
-
-46297 
-
-28913 
-
-41871 
-
-11734 
-
-11654 
-
-10390 
-
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 4 of 82 
-
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
-
-E008 
-
-BANGALORE INSTITUTE OF TECHNOLOGY,  K.R. ROAD, 
-V V PURAM, BANGALORE -560004 
-
-PUA 
-
-Autonomous 
-
-BANGALORE 
-
-Course Name 
-
-Intake 
-
-1G 
-
-2AG 
-
-2BG 
-
-3AG 
-
-3BG 
-
-GM 
-
-SCG 
-
-STG 
-
-AI 
-
-ARTIFICIAL INTELLIGENCE AND MACHINELEARNING 
-
-CE 
-
-CIVIL NGINEERING 
-
-IC 
-
-CS 
-
-DS 
-
-EE 
-
-EV 
-
-EC 
-
-EI 
-
-ET 
-
-IE 
-
-COMPUTER SCIENCE AND ENGG(INTERNET OF THINGS & 
-CYBER SECURITY INCLUDING BLOCK CHAIN TECH) 
-
-COMPUTER SCIENCE AND ENGINEERING 
-
-COMPUTER SCIENCE AND ENGINEERING(DATA SCIENCE) 
-
-ELECTRICAL & ELECTRONICS ENGINEERING 
-
-ELECTRONICS ENGINEERING(VLSI DESIGN & TECHNOLOGY) 
-
-ELECTRONICS AND COMMUNICATION ENGG 
-
-ELECTRONICS AND INSTRUMENTATION ENGG 
-
-ELECTRONICS AND TELECOMMUNICATION ENGG 
-
-INFORMATION SCIENCE AND ENGINEERING 
-
-ME 
-
-MECHANICAL ENGINEERING 
-
-RI 
-
-ROBOTICS AND ARTIFICIAL INTELLIGENCE 
-
-81 
-
-54 
-
-27 
-
-135 
-
-27 
-
-27 
-
-27 
-
-81 
-
-27 
-
-27 
-
-81 
-
-54 
-
-27 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-9612 
-
-10252 
-
-78329 
-
-9008 
-
-10444 
-
-85407 
-
-13522 
-
-13600 
-
-83305 
-
-7594 
-
-9043 
-
-7555 
-
-9505 
-
-6577 
-
-8962 
-
-32748 
-
-36972 
-
-31224 
-
-36471 
-
-63732 
-
-69748 
-
-63170 
-
-112687 
-
-129339 
-
-143455 
-
-125238 
-
-115431 
-
-90974 
-
-108228 
-
-89407 
-
-121779 
-
-201108 
-
-7968 
-
-8626 
-
-7481 
-
-10841 
-
-11588 
-
-10803 
-
-12506 
-
-15321 
-
-8162 
-
-8593 
-
-8918 
-
-11437 
-
-28721 
-
-34448 
-
-23013 
-
-23013 
-
-12098 
-
-12349 
-
-39012 
-
-39012 
-
-18932 
-
-37932 
-
-11952 
-
-12506 
-
-47951 
-
-68971 
-
--- 
-
--- 
-
-9339 
-
-12914 
-
-8235 
-
-9008 
-
-9005 
-
-10204 
-
-24764 
-
-32443 
-
-14679 
-
-21056 
-
-13147 
-
-14902 
-
-32065 
-
-40968 
-
-30531 
-
-35870 
-
-9820 
-
-12852 
-
-61840 
-
-90621 
-
-13671 
-
-17133 
-
-17411 
-
-17411 
-
-12215 
-
-13585 
-
-12056 
-
-12056 
-
-40969 
-
-32196 
-
-29292 
-
-29292 
-
-22367 
-
-24608 
-
-34187 
-
-59596 
-
-31763 
-
-31763 
-
-15153 
-
-23181 
-
-78121 
-
-84575 
-
-22619 
-
-22619 
-
-5893 
-
-8157 
-
-7989 
-
-9220 
-
-17533 
-
-25523 
-
-14100 
-
-17061 
-
-10336 
-
-12647 
-
-26692 
-
-29412 
-
-21721 
-
-25610 
-
-8210 
-
-10057 
-
-40113 
-
-62401 
-
-9101 
-
-5990 
-
-8096 
-
-7296 
-
-9154 
-
-19707 
-
-25234 
-
-13214 
-
-20943 
-
-10602 
-
-12425 
-
-28751 
-
-33455 
-
-22505 
-
-25016 
-
-8356 
-
-10119 
-
-47293 
-
-62655 
-
-10796 
-
-40049 
-
-40049 
-
-31558 
-
-34482 
-
-34270 
-
-37427 
-
-70677 
-
-84496 
-
-61475 
-
-33593 
-
-40029 
-
-33821 
-
-38074 
-
-30194 
-
-37582 
-
-58047 
-
-92607 
-
-89675 
-
-85191 
-
-110617 
-
-48407 
-
-58855 
-
-99784 
-
-46835 
-
-46835 
-
-70737 
-
-5036 
-
-7450 
-
-6051 
-
-9126 
-
-14851 
-
-24453 
-
-10833 
-
-16042 
-
-7585 
-
-11787 
-
-18957 
-
-28431 
-
-116448 
-
-120439 
-
-14429 
-
-82095 
-
-21241 
-
-114851 
-
-7581 
-
-9985 
-
-40811 
-
-47991 
-
-48221 
-
-48221 
-
-44478 
-
-47094 
-
-35862 
-
-132715 
-
-158608 
-
-59131 
-
-153110 
-
-158608 
-
-9015 
-
-46297 
-
-57234 
-
-45355 
-
-57506 
-
-14242 
-
-15770.5 
-
-13829 
-
-8. 
-
-E009 
-
-P E S UNIVERSITY , (RING ROAD CAMPUS), 100 FT RING ROAD, 
-B.K  III STAGE,  HOSAKEREHALLI, BANGALORE-560085 
-
-P.UNI 
-
-BANGALORE 
-
-Course Name 
-
-Intake 
-
-1G 
-
-2AG 
-
-2BG 
-
-3AG 
-
-AM 
-
-B. TECH.IN COMPUTER SC.& ENGG.(AI, ML) 
-
-BB 
-
-B. TECH.IN ELECTRONICS & COMMUNICATION 
-
-BJ 
-
-B. TECH.IN ELECTRICAL & ELECTRONICS 
-
-BO 
-
-B. TECH.IN  BIO TECHNOLOGY 
-
-BW 
-
-B. TECH.IN COMPUTER SCIENCE & ENGINEERING 
-
-DB 
-
-B. TECH.IN MECHANICAL 
-
-216 
-
-144 
-
-24 
-
-24 
-
-288 
-
-24 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-I 
-
-II 
-
-4037 
-
-4240 
-
-6538 
-
-6538 
-
-6648 
-
-6648 
-
-25166 
-
-31184 
-
-3067 
-
-3719 
-
--- 
-
--- 
-
-3782 
-
-4417 
-
-6392 
-
-7553 
-
-6288 
-
-6288 
-
-10911 
-
-14582 
-
-10321 
-
-16176 
-
-10413 
-
-19620 
-
-20066 
-
-32196 
-
-32533 
-
-36554 
-
-2560 
-
-3160 
-
-26833 
-
-26833 
-
-4851 
-
-5788 
-
--- 
-
--- 
-
-2482 
-
-2562 
-
-4120 
-
-4309 
-
-4909 
-
-4909 
-
-16567 
-
-20645 
-
-1814 
-
-2475 
-
--- 
-
--- 
-
-FLEXIBLE CURRICULAUM, (MAJOR / MINOR) 
-
-3BG 
-
-2177 
-
-2922 
-
-4177 
-
-6199 
-
-6430 
-
-11675 
-
-15167 
-
-16917 
-
-1492 
-
-2177 
-
-11675 
-
-14359 
-
-GM 
-
-SCG 
-
-STG 
-
-1494 
-
-2168 
-
-2380 
-
-3339 
-
-3645 
-
-4505 
-
-6210 
-
-19945 
-
-21774 
-
-28582 
-
-29471 
-
-35994 
-
-40405 
-
-38904 
-
-11538 
-
-48439 
-
-934 
-
-1375 
-
-5948 
-
-14822 
-
-16135 
-
-76754 
-
-11307 
-
-79371 
-
-23461 
-
-23461 
-
-25529 
-
-25529 
-
-26026 
-
-47091 
-
-48201 
-
-52320 
-
-15240 
-
-16410 
-
-51929 
-
-51929 
-
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 5 of 82 
-
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
-
-9. 
-
-E011 
-
-M V J COLLEGE OF ENGINEERING, NEAR ITPB, 
-CHANNASANDRA,  KADUGODI (P), BANGALORE-560067 
-
-ML 
-(TAMIL) 
-
-Autonomous 
-
-BANGALORE 
-
-Course Name 
-
-Intake 
-
-1G 
-
-2AG 
-
-2BG 
-
-3AG 
-
-3BG 
-
-GM 
-
-SCG 
-
-STG 
-
-SE 
-
-AERO SPACE ENGINEERING 
-
-AE 
-
-AERONAUTICAL ENGINEERING 
-
-AI 
-
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-
-CH 
-
-CHEMICAL ENGINEERING 
-
-CE 
-
-CIVIL ENGINEERING 
-
-CD 
-
-CS 
-
-COMPUTER SCIENCE AND DESIGN 
-
-COMPUTER SCIENCE AND ENGINEERING 
-
-DS 
-
-COMPUTER SCIENCE AND ENGINEERING(DATA SCIENCE) 
-
-EE 
-
-ELECTRICAL & ELECTRONICS ENGINEERING 
-
-EV 
-
-ELECTRONICS  ENGINEERING(VLSI DESIGN & TECHNOLOGY) 
-
-EB 
-
-ELECTRONICS AND COMMUNICATION ( ADVANCED 
-COMMUNICATION TECHNOLOGY) 
-
-EC 
-
-ELECTRONICS AND COMMUNICATION ENGG 
-
-OT 
-
-INDUSTRIAL IOT 
-
-IE 
-
-INFORMATION SCIENCE AND ENGINEERING 
-
-ME 
-
-MECHANICAL ENGINEERING 
-
-24 
-
-48 
-
-24 
-
-12 
-
-12 
-
-24 
+Page 1 of 
 
 96 
+College: (E004)Dr. Ambedkar Institute of Technology, Bangalore(AUTONOMOUS) OUTER RING ROAD,NEAR JNANA BHARATHI CAMPUS,MALLATHAHALLI,BANGALORE-560056
 
-24 
+Course Name
 
-12 
+CIVIL
+ENGINEERING
 
-24 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-24 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-72 
+1G
 
-12 
+97639
 
-48 
+11513
 
-12 
+1K
 
-I 
+--
 
-II 
+--
 
-I 
+1R
 
-II 
+--
 
-I 
+--
 
-II 
+2AG
 
-I 
+2AK
 
-II 
+2AR
 
-I 
+2BG
 
-II 
+2BK
 
-I 
+86629
 
-II 
+94508
 
-I 
+89432
 
-II 
+103223
 
-I 
+11757
 
-II 
+--
 
-I 
+--
 
-II 
+12268
 
-I 
+14597.5
 
-II 
+39591
 
-I 
+32975
 
-II 
+2BR
 
-I 
+--
 
-II 
+3AG
 
-I 
+75278
 
-II 
+3AK
 
-I 
+--
 
-II 
+3AR
 
-I 
+--
 
-II 
+3BG
 
-35471 
+91990
 
-54071 
+21930.5
 
-56709 
+9419
 
-81087 
+14625
 
-26541 
+12078
 
-29814 
+9777
 
--- 
+38238
 
-178662 
+64869
 
-34937 
+39377
 
-51370 
+34405
 
-51643 
+--
 
-76017 
+30548
 
-19753 
+34569
 
-27047 
+3BK
 
-54066 
+3BR
 
-89037 
+GM
 
--- 
+GMR
 
--- 
+SCG
 
-104272 
+SCK
 
-184595 
+SCR
 
-26212 
+STG
 
-39561 
+STK
 
-22197 
+STR
 
-29444 
+92666
 
-24703 
+74841
 
-32268 
+86344
 
--- 
+105762
 
--- 
+112490
 
-44888 
+121082
 
-62666 
+112510
 
-46598 
+GMK
 
-53137 
+84805
 
-35320.5 
+--
 
-47024 
+--
 
--- 
+8668
 
-27573 
+12196
 
-39548 
+10793
 
--- 
+31203
 
--- 
+29051
 
-28723 
+34310
 
-39451 
+32835
 
-23283 
+70324
 
-30249 
+--
 
-23925 
+--
 
-31143 
+31279
 
-52143 
+26569
 
-79484 
+71395
 
-38672 
+72865
 
-35951 
+--
 
-51530 
+--
 
-31687 
+--
 
-41832 
+121682
 
-71227 
+--
 
-27061 
+78369
 
-33257 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-76841 
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
 
-34364 
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
 
-37195 
+INDUSTRIAL
+ENGINEERING &
+MANAGEMENT
 
-33307 
+MECHANICAL
+ENGINEERING
 
-82403 
+22440
 
-47372 
+57232
 
-49118 
+37472
 
-54204 
+70589
 
-47493 
+96372
 
-46530 
+--
 
-71765 
+--
 
-63745 
+--
 
-81761 
+--
 
-23654 
+--
 
-19927 
+26128
 
-19423 
+20324
 
-27199 
+25231
 
-26347 
+23991.5
 
-25466 
+31763
 
--- 
+51679
 
--- 
+--
 
--- 
+52730
 
--- 
+54064
 
--- 
+121655
 
--- 
+43203
 
--- 
+49797
 
--- 
+64492
 
--- 
+36440
 
--- 
+65727
 
--- 
+--
 
--- 
+67907
 
-41125 
+69043
 
-27816 
+127214
 
-26786 
+81742
 
-41125 
+85311
 
-37131 
+86802
 
-40168 
+81112
 
-28417 
+College: (E005)R. V. College of Engineering, Bangalore(AUTONOMOUS) R.V. VIDYANIKETAN POST, MYSORE ROAD,BANGALORE
 
-21138 
+--
 
-21161 
+--
 
-35196 
+--
 
-27772 
+--
 
-26278 
+--
 
-30523 
+21445
 
-22576 
+16468
 
-22377 
+20340
 
-30523 
+18317
 
-29165 
+50388
 
-29556 
+59525
 
--- 
+58765
 
-123126 
+43067
 
--- 
+57215
 
--- 
+57419
 
--- 
+59503
 
--- 
+40185
 
-37288 
+50988
 
-35235 
+52577
 
-35336 
+90231
 
-30281 
+--
 
-43703 
+109666
 
-44767 
+116843
 
-58974 
+--
 
-19218 
+--
 
-22761 
+30119
 
-31412 
+38021
 
-68390 
+39822
 
-91240 
+90872
 
-66956 
+99811
 
-84019 
+114094
 
-87600 
+120439
 
-79498 
+51495
 
-100772 
+58439
 
-99211 
+63911
 
-122606 
+121504
 
-144471 
+--
 
-46397 
+127749
 
-49314 
+68267
 
-64249 
+--
 
-44438 
+--
 
-47994 
+--
 
-162660 
+140866
 
-118860 
+--
 
--- 
+--
 
-108602 
+87525
 
-154400 
+64649
 
-111250 
+81420
 
-194106 
+75466
 
-178322 
+130700
 
-24794 
+143894
 
-36435 
+143556
 
-20402 
+133606
 
-25741 
+140446
 
-21907 
+162477
 
-28724 
+1K
 
-36897 
+1R
 
-64437 
+2BK
 
-34549 
+2BR
 
-86997 
+3BK
 
-72948 
+3BR
 
-109130 
+SCK
 
-108375 
+SCR
 
-62273 
+STG
 
-68893 
+STK
 
-67978 
+STR
 
-67978 
+2AG
 
-61553 
+5154
 
-55062 
+8791
 
-58685 
+11886
 
-45911 
+2AK
 
-82380 
+--
 
-120541 
+2AR
 
-125897 
+6131
 
-169547 
+2BG
 
-106462 
+4851.5
 
-123736 
+23881
 
-76845 
+18166
 
-52379.5 
+--
 
-58244 
+--
 
-50676 
+--
 
-152592 
+--
 
-190473 
+12918
 
--- 
+31445
 
--- 
+16816
 
--- 
+24298
 
-31430 
+1465
 
-31304 
+2669
 
-51549 
+1617
 
-52277 
+2350
 
-29733 
+3AG
 
-46086 
+2268
 
-94488 
+10336
 
-91264 
+3AK
 
-148132 
+3AR
 
-136786 
+--
 
-45297 
+--
 
-28264 
+--
 
-30153 
+--
 
-27812 
+--
 
-91629.5 
+25784
 
-79054 
+12727
 
-38701 
+--
 
-40426 
+--
 
-112950 
+--
 
-129631 
+--
 
-125213 
+--
 
-89180 
+10114
 
-99341 
+787
 
-89180 
+GM
 
--- 
+1932
 
--- 
+3444
 
--- 
+6339
 
-134937 
+10088.5
 
-139703 
+GMK
 
-204543 
+5282
 
-139703 
+--
 
-31632 
+--
 
-25623 
+--
 
-26003 
+GMR
 
-24957 
+5306
 
-83323.5 
+10770
 
-49001 
+11745
 
-31327 
+SCG
 
-31867 
+10585
 
-95189 
+17246
 
-136751 
+44081
 
-157473 
+12735
 
--- 
+29721
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
-125618 
+--
 
-180202 
+--
 
-207867 
+--
 
-228576 
+--
 
-37498 
+33044
 
-61981 
+16051
 
-80364 
+45233
 
-31271 
+--
 
-56031 
+26429
 
-98133 
+35420
 
-84925 
+41707
 
-91264 
+22225
 
-83126 
+1195
 
-95222 
+434
 
-10. 
+1272
 
-E012 
+1123
 
-SIR M. VISVESWARAYA INSTITUTE OF TECHNOLOGY, KRISHNA 
-DEVARAYA NAGAR, INTERNATIONAL AIR PORT ROAD, 
-HUNASEMARANAHALLI, YELAHANKA, BANGALORE-56021 
+5918.5
 
-PUA 
+13399
 
-Autonomous  BANGALORE 
+9559
 
-Course Name 
+6655
 
-Intake 
+--
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-AI 
+10897
 
-ARTIFICIAL  INTELLIGENCE AND MACHINE LEARNING 
+--
 
-BT 
+--
 
-BIOTECHNOLOGY 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+--
 
-IC 
+--
 
-COMPUTER SC.& ENGG(INTERNET OF THINGS & CYBER 
-SECURITY INCLUDING BLOCK CHAIN TECH) 
+--
 
-27 
+18675
 
-27 
+18641
 
-27 
+--
 
-27 
+49761
 
-CS 
+51048
 
-COMPUTER SCIENCE AND ENGINEERING 
+31041
 
-108 
+--
 
-DS 
+--
 
-EE 
+--
 
-COMPUTER SCIENCE ANDDATA SCIENCE) 
+--
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+52589
 
-ES 
+80606
 
-ELECTRONICS & COMPUTER ENGINEERING 
+3BG
 
-EC 
+2845
 
-ELECTRONICS AND COMMUNICATION ENGG 
+7388
 
-ET 
+--
 
-ELECTRONICS & TELECOMMUNICATION E NGINEERING 
+14714
 
-IE 
+910
 
-INFORMATION SCIENCE AND ENGINEERING 
+--
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+--
 
-RI 
+--
 
-ROBOTICS AND ARTIFICIAL INTELLIGENCE 
+--
 
-27 
+--
 
-54 
+--
 
-27 
+--
 
-54 
+--
 
-27 
+--
 
-54 
+--
 
-27 
+--
 
-27 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+29735
 
-I 
+32035
 
-II 
+17641
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+41208
 
-I 
+31402.5
 
-II 
+54373
 
-I 
+133936
 
-II 
+68823
 
-15223 
+--
 
-20999 
+--
 
-36313 
+--
 
-36313 
+--
 
-99946 
+--
 
-14550 
+--
 
-15805 
+--
 
-33483 
+--
 
-52712 
+--
 
-84429 
+--
 
-19186 
+--
 
-20809 
+--
 
-48702 
+--
 
-84619 
+--
 
-115198 
+--
 
-10803 
+--
 
-15690 
+2171
 
-21305 
+526.5
 
-31063 
+--
 
-74898 
+--
 
-10558 
+1073
 
-15349 
+1031
 
-23219 
+15921.5
 
-30339 
+3713
 
-75784 
+7791
 
-10390 
+1384
 
-14449 
+--
 
-20901 
+--
 
-29343 
+--
 
-33237 
+2039
 
-39239 
+15228.5
 
-64980 
+5323
 
-86996 
+--
 
-37266 
+--
 
-37266 
+--
 
-91211 
+--
 
-91211 
+--
 
-72267 
+--
 
-112490 
+--
 
-141071 
+--
 
-142046 
+--
 
-118075 
+--
 
-154600 
+--
 
-110817 
+Course Name
 
-112406 
+AERO SPACE
+ENGINEERING
 
-108833 
+1G
 
-179148 
+6385
 
-170264 
+BIO-TECHNOLOGY
 
-21372 
+6268
 
-28094 
+--
 
-16331 
+15934.5
 
-22468 
+1637
 
-16966 
+442
 
-23226 
+1660
 
-41648 
+1122
 
-64513 
+3856
 
--- 
+2682
 
--- 
+4190
 
-23994 
+CHEMICAL
+ENGINEERING
 
-24928 
+CIVIL
+ENGINEERING
 
-41129 
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
 
-43561 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-18741 
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
 
-24703 
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
 
-83082 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-83082 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-23226 
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
 
-31699 
+INDUSTRIAL
+ENGINEERING &
+MANAGEMENT
 
-19787 
+MECHANICAL
+ENGINEERING
 
-22153 
+1088
 
-14907 
+1033
 
-18817 
+1462
 
-16693 
+1475
 
-21012 
+1720
 
-40650 
+5443
 
-60783 
+1726
 
-30624 
+--
 
-34937 
+--
 
-21565 
+1389
 
-27884 
+4792
 
-37232 
+--
 
-40782 
+--
 
-17338 
+--
 
-22457 
+--
 
-65239 
+--
 
-114628 
+--
 
-25998 
+2874
 
-26957 
+8388
 
-27827 
+1847
 
-30357 
+8933
 
-21159 
+5199
 
-21159 
+2078
 
-21562 
+5067
 
-28073 
+2282
 
-41352 
+3937
 
-72152 
+--
 
--- 
+--
 
--- 
+--
 
-24608 
+3725
 
-28314 
+19324
 
-42352 
+13487
 
-42352 
+--
 
-27624 
+--
 
-27624 
+--
 
-96907 
+7299.5
 
-96907 
+5000
 
--- 
+30580
 
--- 
+18099
 
-15957 
+18580
 
-20379 
+10241.5
 
-12376 
+--
 
-16620 
+70511
 
--- 
+3855
 
--- 
+--
 
-36914 
+1184
 
-45539 
+721
 
-27178 
+2152
 
-32512 
+750
 
-17502 
+225
 
-24412 
+1249
 
-31942 
+705
 
-39068 
+4946
 
-16620 
+10130
 
-20105 
+8580
 
-67530 
+5218
 
-85904 
+5738
 
-18325 
+7094
 
-23410 
+--
 
-17589 
+986
 
-24535 
+1796
 
-12597 
+949
 
-17027 
+--
 
-13828 
+--
 
-18089 
+--
 
-33984 
+--
 
-48055 
+--
 
-21289 
+3894
 
-32257 
+2155
 
-16913 
+3276
 
-24941 
+17982
 
-34329 
+10123
 
-43148 
+--
 
-16688 
+--
 
-20567 
+--
 
-65406 
+--
 
-73935 
+--
 
-19545 
+--
 
-25585 
+--
 
-15676 
+--
 
-18881 
+--
 
-11715 
+--
 
-16331 
+508
 
-13525 
+2043
 
-17800 
+1295
 
-51534 
+8879
 
-51534 
+381.5
 
-47991 
+--
 
-57168 
+1124
 
-50127 
+6629
 
-62254 
+--
 
-32151 
+--
 
-101354 
+1166
 
-38838 
+6573
 
-76859 
+4276
 
-38829 
+14486
 
-45477 
+28372
 
-33751 
+--
 
-33751 
+--
 
-97558 
+--
 
-43349 
+5389
 
-112744 
+5221
 
-153199 
+18457
 
-20737 
+--
 
-70218 
+--
 
-106548 
+--
 
-28060 
+9917
 
-106462 
+8372
 
-106548 
+--
 
-16841 
+2200
 
-23405 
+573
 
-63522 
+3632
 
-79623 
+2115
 
-25704 
+13644
 
-111836 
+31369
 
-36960 
+16164.5
 
-134937 
+12671
 
-16184 
+24193
 
-20037 
+13104
 
-56891 
+--
 
-76767 
+--
 
-54590 
+987
 
-68326 
+10587
 
-76681 
+5815
 
-76681 
+21959
 
-69998 
+8971
 
-74256 
+--
 
-50278 
+18212
 
-142406 
+59925
 
-147998 
+--
 
-69832 
+--
 
-161278 
+33087
 
-210606 
+23279
 
-17170 
+64263
 
-21705 
+48075
 
-66420 
+14968
 
-84134 
+3373
 
-76450 
+11056
 
-58006 
+12437
 
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 6 of 82 
+48258
 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+64865
 
-11. 
+49961
 
-E013 
+51929
 
-GHOUSIA ENGINEERING COLLEGE, B M ROAD 
-RAMANAGARA-562159 
+--
 
-ML 
-(MUSLM) 
+--
 
-VTU 
+--
 
-RAMANAGARA 
+--
 
-Course Name 
+--
 
-Intake 
+92894
 
-1G 
+Generated on: 25-07-2025 18:10:25
 
-2AG 
+Page 2 of 
 
-2BG 
+96College: (E006)M S Ramaiah Institute of Technology, Bangalore(AUTONOMOUS) VIDYA SOUDHA,MSR NAGAR,MSRIT POST,BANGALORE - 560054.
 
-3AG 
+1K
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-AI 
+--
 
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+--
 
-CS 
+--
 
-CY 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+--
 
-COMPUTER SCIENCE AND ENGINEERING ( CYBER 
-SECURITY ) 
+--
 
-EE 
+Course Name
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+AERO SPACE
+ENGINEERING
 
-EC 
+ARTIFICIAL
+INTELLIGENCE AND
+DATA SCIENCE
 
-ELECTRONICS AND COMMUNICATION ENGG 
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
 
-IE 
+1G
 
-RI 
+10045
 
-INFORMATIONSCIENCE ANDENGINEERING 
+4494
 
-ROBOTICS AND  ARTIFICIAL INTELLIGENCE 
+3626
 
-24 
+BIO-TECHNOLOGY
 
-12 
+21754
 
-72 
+23013.5
 
-12 
+46738
 
-12 
+4296
 
-24 
+3294
 
-24 
+4846
 
-12 
+--
 
-I 
+5808
 
-II 
+17062
 
-I 
+CHEMICAL
+ENGINEERING
 
-II 
+CIVIL
+ENGINEERING
 
-I 
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
 
-II 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-I 
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
 
-II 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-I 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-II 
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
 
-I 
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
 
-II 
+INDUSTRIAL
+ENGINEERING &
+MANAGEMENT
 
-I 
+INFORMATION
+SCIENCE AND
+ENGINEERING
 
-II 
+MECHANICAL
+ENGINEERING
 
-I 
+MEDICAL
+ELECTRONICS
+ENGINEERING
 
-II 
+1R
 
-80745 
+--
 
-55298 
+2AG
 
-103744 
+9235
 
-110706 
+6498
 
-48099 
+4408
 
-62013 
+--
 
-47811 
+--
 
-75144 
+--
 
-59054 
+3989
 
-71265 
+17150
 
-47721 
+24164
 
-69417.5 
+46783.75
 
-65140 
+32397
 
-56503 
+2AK
 
-131062 
+--
 
-167878 
+--
 
--- 
+--
 
--- 
+--
 
-130484 
+--
 
--- 
+--
 
--- 
+2AR
 
--- 
+11430
 
--- 
+2BG
 
--- 
+8805
 
--- 
+--
 
--- 
+6322
 
-114338 
+4952
 
-168402 
+4360
 
-251741 
+25002.5
 
--- 
+39903
 
--- 
+22373
 
--- 
+31457
 
-75071 
+--
 
-81445 
+33426
 
-71053 
+--
 
-71269 
+3423
 
-76311 
+6892
 
-67325 
+3570
 
-139488 
+3248
 
-87949 
+--
 
-148657 
+--
 
-129950 
+--
 
-113028 
+--
 
-105024 
+--
 
-114982 
+2445
 
-103234 
+4862
 
-182807 
+2574
 
-223356 
+2657
 
--- 
+4538
 
--- 
+9695
 
--- 
+--
 
--- 
+--
 
-87760 
+4973
 
-144666 
+7325
 
-121834 
+18129.5
 
-258917 
+10686
 
-92876 
+5442
 
-97649 
+10208.5
 
--- 
+6852
 
--- 
+7737
 
--- 
+--
 
-246952 
+--
 
-101870 
+--
 
--- 
+35508
 
--- 
+--
 
--- 
+--
 
--- 
+10369
 
--- 
+40729.5
 
--- 
+4340
 
--- 
+7106
 
--- 
+4476
 
-73478 
+3977
 
-97781 
+25385
 
-144971 
+50505
 
-145936 
+37575
 
--- 
+24669
 
-105504 
+27959
 
-123130 
+--
 
-175397 
+--
 
-173431 
+32011
 
-239497 
+10856
 
--- 
+152615
 
-86284 
+24500
 
-96195 
+11078.5
 
-84076 
+--
 
-145936 
+3478
 
-167878 
+12011
 
-188135 
+22344.5
 
-171882 
+--
 
-155577 
+--
 
-140769 
+--
 
-150079 
+--
 
-140418 
+--
 
-241512 
+--
 
--- 
+--
 
-103744 
+--
 
-92684 
+2BK
 
-92295 
+2BR
 
-86365 
+SCK
 
-86353 
+SCR
 
-84398 
+STG
 
-165749 
+STK
 
-159264 
+STR
 
-182312 
+--
 
-155634 
+--
 
-152070 
+--
 
-141458 
+--
 
-149971 
+--
 
-137766 
+--
 
-212236 
+--
 
--- 
+--
 
--- 
+--
 
-98735 
+--
 
--- 
+--
 
--- 
+3AG
 
-82853 
+--
 
-77000 
+3144
 
-167169 
+3392
 
-187181 
+11285
 
--- 
+16416.5
 
-158549 
+30008
 
--- 
+2094
 
--- 
+3AK
 
-142372 
+--
 
-140254 
+--
 
-190131 
+--
 
--- 
+--
 
-12. 
+--
 
-  E014 
+--
 
-S J C INSTITUTE OF TECHNOLOGY,P.B. NO 20, 
-B. B. ROAD,   CHICKBALLAPUR- 562 101 
+--
 
-PUA 
+1830
 
-Autonomous 
+--
 
-CHICKBALLAPUR 
+3113
 
-Course Name 
+3631
 
-Intake 
+--
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-SE 
+--
 
-AERO SPACE ENGINEERING 
+7444
 
-AE 
+19533
 
-AERONAUTICAL ENGINEERING 
+3789
 
-AD 
+--
 
-ARTIFICIAL INTELLIGENCE AND DATA SCIENCE 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+--
 
-CK 
+--
 
-CIVIL ENGINEERING ( KANNADA MEDIUM) 
+64553
 
-CD 
+8661
 
-COMPUTER SCIENCE AND DESIGN 
+--
 
-AI 
+32960
 
-CS 
+10955
 
-EC 
+2802
 
-COMPUTER SC & ENGG  (ARTIFICIAL INTELLIGENCE AND 
-MACHINE LEARNING) 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+--
 
-ELECTRONICS AND COMMUNICATION ENGG 
+16567.5
 
-ME 
+22358
 
-MECHANICAL ENGINEERING 
+--
 
-14 
+--
 
-14 
+--
 
-54 
+--
 
-27 
+--
 
-13 
+--
 
-27 
+--
 
-54 
+--
 
-81 
+3AR
 
-54 
+--
 
-14 
+3BG
 
-I 
+5870
 
-II 
+3BK
 
-I 
+--
 
-II 
+4184
 
-I 
+3311
 
-II 
+6337
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+2671
 
-I 
+13499.25
 
-II 
+15658
 
-I 
+42258
 
-II 
+28146.75
 
-I 
+2852
 
-II 
+2642
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+1622
 
--- 
+3315
 
-55751 
+8061
 
-79157 
+4234
 
-32055 
+11164
 
-70486 
+8635
 
-62190 
+39968
 
-62190 
+27551
 
-42963 
+--
 
-60653 
+--
 
-150913 
+--
 
-138607 
+2907
 
--- 
+21544
 
--- 
+27125
 
--- 
+--
 
--- 
+--
 
-214671 
+--
 
--- 
+--
 
-79046 
+--
 
-71338 
+--
 
-118462 
+--
 
-102759 
+--
 
-36539 
+--
 
-76960 
+--
 
-55753 
+--
 
-85312 
+--
 
-79970 
+--
 
-41342 
+--
 
-54776 
+--
 
-51005 
+3BR
 
-63916 
+--
 
-73600 
+--
 
--- 
+--
 
-116365 
+--
 
-71337 
+--
 
-71337 
+--
 
-48342 
+--
 
-48342 
+GM
 
--- 
+4881
 
--- 
+2388
 
--- 
+1988
 
--- 
+GMK
 
-76378 
+10202
 
-125025 
+GMR
 
-46156 
+7061
 
-46679 
+SCG
 
-51108 
+19315
 
-57587 
+--
 
-73146 
+--
 
-127007 
+4160
 
-146538 
+12662
 
-142628 
+3159
 
-127214 
+12091
 
-88968 
+8949.5
 
--- 
+15832.5
 
-204564 
+13338
 
-162057 
+24289
 
-220712 
+18079
 
--- 
+15626
 
--- 
+30533
 
--- 
+64249
 
--- 
+--
 
-40611 
+--
 
-87051 
+--
 
--- 
+--
 
--- 
+--
 
-41666 
+42350
 
-46122 
+28648
 
-43286 
+--
 
-66134 
+12528
 
-28354 
+--
 
-65951 
+--
 
-46535 
+14715
 
-60029 
+15951
 
-40378 
+38711
 
-43286 
+54935
 
-82377 
+73953
 
-95041 
+47971
 
-110280 
+43128.5
 
-157327 
+22125
 
-75159 
+24605
 
-120478 
+27587
 
-111594 
+36201
 
-120478 
+47296
 
-83207 
+--
 
-83207 
+29912
 
-69314 
+1733
 
-69314 
+3255
 
-115567 
+2765
 
-115697 
+13265
 
-110011 
+33215
 
-168374 
+15318
 
-167479 
+13536
 
--- 
+2317
 
-241749 
+1105
 
--- 
+3115
 
-67970 
+2076
 
-87418 
+10220
 
-43235 
+20040
 
-46662 
+12305
 
-43043 
+11429
 
-52094 
+--
 
-62220 
+--
 
-97693 
+2092
 
--- 
+4787
 
--- 
+--
 
--- 
+--
 
--- 
+3480
 
--- 
+14971
 
-237659 
+11303
 
--- 
+36743
 
--- 
+--
 
-184538 
+--
 
-239756 
+27664
 
-231614 
+16410
 
-246698 
+37685
 
--- 
+30951
 
--- 
+68995
 
-64767 
+7045
 
-98106 
+2597
 
-44414 
+5505
 
-61356 
+6104
 
-42801 
+19890
 
-55402 
+57736
 
-66661 
+20505
 
-123985 
+25529
 
--- 
+--
 
--- 
+--
 
-63049 
+--
 
-83645 
+5088
 
-36411 
+3717
 
-44414 
+--
 
-38986 
+--
 
-48097 
+14400
 
-60744 
+49447
 
-93563 
+11242
 
-83874 
+47771
 
-152592 
+26585
 
-144471 
+29989
 
-259094 
+31423
 
-176801 
+77784
 
-101061 
+--
 
-107681 
+--
 
-91441 
+--
 
-112365 
+76296
 
-70369 
+45191.5
 
-70369 
+--
 
-86586 
+--
 
-86586 
+24961
 
-153341 
+107613
 
-151664 
+4708
 
-261419 
+2460
 
-238569 
+3768
 
-181468 
+3030
 
-196711 
+17332
 
-156649 
+27325
 
--- 
+17905
 
--- 
+22032
 
-13. 
+25457
 
-E015 
+8718
 
-DR. T. THIMMAIAH INSTITUTE OF TECHNOLOGY, 
-OORGAUM POST, KOLAR GOLD FIELDS-563120 
+29753
 
-PUA 
+24921.5
 
-VTU 
+78746
 
-KOLAR 
+--
 
-Course Name 
+16407
 
-Intake 
+24792
 
-1G 
+27943
 
-2AG 
+91253
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+96917
 
-GM 
+70503
 
-SCG 
+107316
 
-STG 
+106604
 
-CA 
+--
 
-COMPUTER SC & ENGG (ARTIFICIAL INTELLIGENCE AND 
-MACHINE LEARNING) 
+--
 
-CS 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+--
 
-EE 
+--
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+--
 
-EC 
+--
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+--
 
-MN 
+--
 
-MINING ENGINEERING 
+--
 
-40 
+--
 
-54 
+--
 
-14 
+--
 
-27 
+--
 
-14 
+--
 
-27 
+--
 
-I 
+--
 
-II 
+22127
 
-I 
+16267
 
-II 
+--
 
-I 
+--
 
-II 
+34733
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+23175
 
-I 
+112719
 
-II 
+108840
 
-79051 
+15947
 
-91189 
+21358
 
-85374 
+10060
 
-81971 
+116285
 
-80455 
+--
 
-65120 
+9814
 
-103804 
+Generated on: 25-07-2025 18:10:25
 
-118208 
+Page 3 of 
 
-162852 
+96College: (E007)Dayananda Sagar College of Engineering, Bangalore(AUTONOMOUS) SHAVIGE MALLESHWARA HILLS, KUMARASWAMY LAYOUT, BANGALORE-560078
 
-180063 
+1K
 
-133380 
+1R
 
-106870 
+2AK
 
-144997 
+2AR
 
-101459 
+2BG
 
-129278 
+2BK
 
-178334 
+2BR
 
-88834 
+3BR
 
-103509 
+--
 
-91360 
+GM
 
-87231 
+9729
 
-86377 
+GMK
 
-79830 
+--
 
-122395 
+GMR
 
-135509 
+13163
 
-168300 
+SCG
 
-192009 
+30977
 
-153661 
+SCK
 
-141495 
+--
 
-153381 
+SCR
 
-131970 
+STG
 
-174303 
+STK
 
-231593 
+35674
 
-100474 
+28913
 
-144891 
+Course Name
 
-101188 
+AERONAUTICAL
+ENGINEERING
 
-229562 
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
 
--- 
+AUTOMOBILE
+ENGINEERING
 
--- 
+BIO-TECHNOLOGY
 
--- 
+CHEMICAL
+ENGINEERING
 
--- 
+CIVIL
+ENGINEERING
 
--- 
+COMPUTER
+SCIENCE AND
+DESIGN
 
--- 
+COMPUTER
+SCIENCE AND
+ENGG(INTERNET
+OF THINGS &
+CYBER SECURITY
+INCLUDING BLOCK
+CHAIN TECH)
 
-98882 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-151661 
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
 
-221189 
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
 
-239402 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
--- 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
--- 
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
 
-105249 
+INFORMATION
+SCIENCE AND
+ENGINEERING
 
-116322 
+MECHANICAL
+ENGINEERING
 
-112239 
+MEDICAL
+ELECTRONICS
+ENGINEERING
 
-99301 
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
 
-99405 
+--
 
-96777 
+--
 
-149235 
+--
 
-220402 
+--
 
-203808 
+--
 
-198844 
+16780
 
-226401 
+20700
 
-260727 
+7707
 
-232180 
+6443
 
-197960 
+54150
 
-213513 
+72152
 
-220402 
+--
 
--- 
+46154
 
--- 
+27799
 
--- 
+33106
 
--- 
+--
 
-140120 
+--
 
--- 
+--
 
-127631 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+198641
 
--- 
+59502
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
-135983 
+59439
 
--- 
+91832
 
-134541 
+--
 
-129322 
+--
 
-159117 
+2AG
 
--- 
+14528
 
--- 
+7446
 
--- 
+51844
 
-261973 
+26235
 
--- 
+43304
 
-124401 
+10916
 
-177869 
+1G
 
-157821 
+16720
 
-257525 
+7052
 
--- 
+44674
 
--- 
+31811
 
--- 
+49344
 
--- 
+68435
 
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 7 of 82 
+15514
 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+11952
 
-14. 
+--
 
-E016 
+--
 
-SIDDAGANGA INSTITUTE OF TECHNOLOGY, NH 206, 
-B H ROAD, TUMKUR-572103 
+--
 
-PUA 
+--
 
-Autonomous 
+--
 
-TUMKUR 
+--
 
-Course Name 
+--
 
-Intake 
+--
 
-1G 
+70294
 
-2AG 
+81206
 
-2BG 
+87031
 
-3AG 
+81436
 
-3BG 
+13281
 
-GM 
+9271
 
-SCG 
+--
 
-STG 
+--
 
-BT 
+14464
 
-BIO-TECHNOLOGY 
+16319
 
-CH 
+--
 
-CHEMICAL ENGINEERING 
+13558
 
-CE 
+6283
 
-CIVIL ENGINEERING 
+--
 
-AI 
+10144
 
-CS 
+6545
 
-COMPUTER SC & ENGG (ARTIFICIAL INTELLIGENCE AND 
-MACHINE LEARNING) 
+10173
 
-COMPUTER SCIENCE AND ENGINEERING 
+7570
 
-EE 
+10330
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+11230
 
-EC 
+11837
 
-ELECTRONICS AND COMMUNICATION ENGG 
+7303
 
-EL 
+20359.5
 
-ET 
+12098
 
-IM 
+19863
 
-IE 
+7083
 
-ELECTRONICS AND INSTRUMENTATION ENGINEERING 
+38130
 
-ELECTRONICS AND TELECOMMUNICATION 
-ENGINEERING 
+54358
 
-INDUSTRIAL ENGINEERING & MANAGEMENT 
+--
 
-INFORMATION SCIENCE AND ENGINEERING 
+--
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+--
 
-13 
+--
 
-27 
+--
 
-27 
+--
 
-27 
+--
 
-108 
+--
 
-27 
+--
 
-81 
+--
 
-27 
+--
 
-27 
+8341
 
-27 
+7960
 
-54 
+--
 
-54 
+--
 
-I 
+8533
 
-II 
+13870
 
-I 
+8340
 
-II 
+11631
 
-I 
+23627
 
-II 
+39700
 
-I 
+28515
 
-II 
+19620
 
-I 
+12570
 
-II 
+11401
 
-I 
+16115
 
-II 
+12707
 
-I 
+16722
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+23975
 
-II 
+--
 
-I 
+24519
 
-II 
+23686.75
 
-I 
+8570
 
-II 
+15604
 
--- 
+8587
 
-52384 
+11727
 
-80242 
+40009.5
 
-109234 
+77617
 
-76544 
+62618
 
-118924 
+47684
 
-10726 
+38844
 
-10726 
+10978.5
 
-10090 
+--
 
-12411 
+--
 
-26550 
+60908
 
-33898 
+40614.5
 
-13039 
+14899
 
-17072 
+--
 
-27082 
+3AK
 
-53418 
+60920
 
-18690 
+--
 
-49200 
+--
 
-53418 
+--
 
-96582 
+--
 
-10152 
+--
 
-13039 
+--
 
-49686 
+--
 
-99796 
+--
 
-34318 
+--
 
-50528 
+--
 
-47546 
+--
 
-84661 
+--
 
-69600 
+--
 
-55486 
+--
 
-115663 
+--
 
-58232 
+3AG
 
-100421 
+9825
 
-75960 
+5212
 
-127606 
+42802
 
-192835 
+20396
 
-10145 
+23514
 
-13113 
+55651
 
-9827 
+9152
 
-11341 
+7044
 
-23678 
+--
 
-33533 
+--
 
-13665 
+--
 
-15885 
+--
 
-28069 
+--
 
-55953 
+--
 
-22563 
+13090
 
-39315 
+4806
 
-62160 
+--
 
-98890 
+--
 
-11318 
+--
 
-14164 
+--
 
-59804 
+5267
 
-20382 
+18274
 
-20382 
+32320
 
-18321 
+8437
 
-18823 
+68722
 
-31528 
+12939
 
-43779 
+--
 
-28478 
+6767
 
-28478 
+99166
 
-32645 
+26264.5
 
-47886 
+30919
 
--- 
+57124
 
--- 
+3AR
 
-47886 
+--
 
-209311 
+--
 
-18354 
+--
 
-25494 
+--
 
-68041 
+--
 
-104955 
+--
 
-146509 
+--
 
-15. 
+3BG
 
-E017 
+12812
 
-SRI SIDDARTHA INSTITUTE OF TECHNOLOGY, MARALUR POST, 
-KUNIGAL ROAD, TUMKUR-572105 
+5746
 
--- 
+3BK
 
--- 
+--
 
-37698 
+--
 
-65966 
+41935
 
-65390 
+109688
 
-106970 
+19229
 
-8720 
+33373
 
-9562 
+65787
 
-9051 
+8705
 
-9670 
+--
 
-17857 
+60672
 
-28179 
+--
 
-11282 
+--
 
-13888 
+--
 
-24249 
+--
 
-34078 
+--
 
-20072 
+--
 
-28011 
+--
 
-46379 
+--
 
-87106 
+--
 
-9502 
+--
 
-12270 
+--
 
-54088 
+--
 
-79022 
+--
 
--- 
+9528
 
--- 
+7296
 
-41086 
+5610
 
-65832 
+4911
 
-65832 
+--
 
-96522 
+--
 
-8704 
+--
 
-10338 
+6865
 
-8459 
+6512
 
-9635 
+19392.5
 
-18676 
+10790
 
-26566 
+8743
 
-10962 
+--
 
-13404 
+19485.5
 
-22388 
+7824
 
-35227 
+6722
 
--- 
+--
 
--- 
+--
 
-42416 
+41216
 
-75120 
+33455
 
-9451 
+--
 
-11459 
+--
 
-53060 
+--
 
-83968 
+--
 
-D. 
-UNI 
+--
 
-13094 
+--
 
-54315.5 
+--
 
-27392 
+--
 
-42265 
+--
 
-37235 
+--
 
-59882 
+--
 
-61825 
+--
 
-83279 
+--
 
-8638 
+--
 
-9185 
+6336
 
-7683 
+4783
 
-9367 
+9228
 
-15713 
+5757
 
-24498 
+23888
 
-10794 
+41199
 
-22282 
+35574
 
-34077 
+24911.25
 
-17489 
+--
 
-26371 
+--
 
-42382 
+--
 
-68773 
+35838
 
-9449 
+14690
 
-11214 
+22178
 
-47181 
+--
 
-71828 
+--
 
-59982 
+--
 
-92182 
+39842
 
-53800 
+88411
 
-98996 
+31309
 
-118548 
+31304.5
 
-106755 
+51781
 
-208252 
+99966
 
-150410 
+--
 
-82315 
+--
 
-112324 
+--
 
-144323 
+174473
 
-135456 
+78317
 
-31854 
+--
 
-31854 
+--
 
-35279 
+76868
 
-35795 
+62688
 
-62158 
+78796
 
-89875 
+53293
 
-47730 
+74245
 
-91359 
+73067
 
-25461 
+92847
 
-17087 
+105481
 
-35117 
+99195
 
-38761 
+92810
 
-57494 
+--
 
-74618 
+--
 
-45642 
+6382
 
-51653 
+14471
 
-76165 
+11500
 
-122888 
+39324
 
-102845 
+--
 
-69609 
+51412
 
-78022 
+38870
 
-111836 
+6111
 
-110064 
+15499
 
-136170 
+8225
 
-129367 
+35327
 
-251753 
+52648
 
-212356 
+--
 
-45314 
+28220.75
 
-48720 
+6170
 
-41152 
+3825
 
-43517 
+9841
 
-118234 
+5599
 
-134304 
+23828
 
-248840 
+26272
 
-243523 
+32488
 
-TUMKUR 
+24367.5
 
-Course Name 
+38436
 
-Intake 
+29716
 
-AI 
+--
 
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+--
 
-BT 
+5367
 
-BIO-MEDICAL ENGINEERING 
+--
 
-CE 
+7090
 
-CIVIL ENGINEERING 
+29080
 
-CA 
+4718
 
-CY 
+11519
 
-DS 
+6700
 
-COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL 
-INTELLIGENCE AND MACHINE LEARNING) 
+24968
 
-COMPUTER SCIENCE AND ENGINEERING ( CYBER 
-SECURITY ) 
+28983
 
-COMPUTER SCIENCE AND ENGINEERING(DATA 
-SCIENCE) 
+15103
 
-EE 
+26902
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+25997
 
-EC 
+61553
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-CS 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+--
 
-IE 
+44551
 
-INFORMATION SCIENCE AND ENGINEERING 
+27850
 
-ME 
+37808
 
-MECHANICAL ENGINEERING 
+27988
 
-RI 
+68286
 
-ROBOTICS AND ARTIFICIAL INTELLIGENCE 
+67855
 
-24 
+--
 
-12 
+--
 
-24 
+--
 
-48 
+--
 
-24 
+--
 
-24 
+73769
 
-48 
+11026
 
-72 
+6601
 
-72 
+14840
 
-48 
+10783
 
-24 
+44899
 
-24 
+51798
 
-I 
+50850
 
-II 
+41871.75
 
-I 
+48934
 
-II 
+43494
 
-I 
+--
 
-II 
+12854
 
-I 
+16877
 
-II 
+19227
 
-I 
+80822.5
 
-II 
+142315
 
-I 
+88452
 
-II 
+64953
 
-I 
+8387
 
-II 
+5637
 
-I 
+11165
 
-II 
+7722
 
-I 
+31976.75
 
-II 
+44157
 
-I 
+48282
 
-II 
+35415.5
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+25344
 
-1G 
+69750
 
-31895 
+53787
 
-46887 
+98579
 
--- 
+28010
 
--- 
+--
 
-2AG 
+39741
 
-2BG 
+99545
 
-3AG 
+7020
 
-3BG 
+15290
 
-GM 
+9921
 
-SCG 
+36088.5
 
-STG 
+--
 
-32431 
+--
 
-42131 
+--
 
-52667 
+150853
 
-219840 
+126563
 
-37426 
+179766
 
-40089 
+94610.75
 
-35435 
+--
 
-43447 
+--
 
-31461 
+--
 
-34970 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
-29565 
+--
 
-34789 
+--
 
-46553 
+STR
 
-85445 
+--
 
-66728 
+29681
 
-81271 
+--
 
-74922 
+--
 
-44893 
+--
 
-44893 
+108310
 
-119152 
+--
 
-205913 
+--
 
--- 
+74132
 
-126789 
+37853
 
-130576 
+128775
 
-154836 
+--
 
-115956 
+--
 
-109527 
+7320
 
-109524 
+--
 
-127759 
+12067
 
-136914 
+8516
 
--- 
+--
 
--- 
+31224
 
--- 
+79498
 
-259173 
+Generated on: 25-07-2025 18:10:25
 
--- 
+Page 4 of 
 
--- 
+9676718
 
-38439 
+11582
 
-57266 
+7962
 
-45676 
+8918
 
-69575 
+32090
 
--- 
+21738.5
 
--- 
+10775
 
-77514 
+28721
 
-223198 
+20098
 
-51932 
+8773.5
 
-109113 
+47951
 
-96308 
+--
 
-161293 
+--
 
-48373 
+--
 
-62177 
+--
 
--- 
+--
 
-36836 
+--
 
-60271 
+--
 
-54553 
+--
 
-81171 
+--
 
-44959 
+--
 
-67002 
+--
 
-97717 
+--
 
-34384 
+19943
 
-37404.5 
+1G
 
-53099 
+25166
 
--- 
+4240
 
-70337 
+3410
 
-41096 
+7154
 
-68081 
+1K
 
-94558 
+--
 
-49769 
+--
 
-49804 
+--
 
-57513 
+--
 
-49049 
+Course Name
 
-49049 
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
 
-77320 
+CIVIL
+ENGINEERING
 
-34814 
+COMPUTER
+SCIENCE AND
+ENGG(INTERNET
+OF THINGS &
+CYBER SECURITY
+INCLUDING BLOCK
+CHAIN TECH)
 
-46495 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-50024 
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
 
-58311 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-37157 
+ELECTRONICS
+ENGINEERING(VLSI
+DESIGN &
+TECHNOLOGY)
 
-50216 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-68860 
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
 
-27919 
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
 
-44044 
+INFORMATION
+SCIENCE AND
+ENGINEERING
 
-44963 
+MECHANICAL
+ENGINEERING
 
-55465 
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
 
-35557 
+Course Name
 
-47811 
+B TECH IN BIO-
+TECHNOLOGY
 
-68542 
+B TECH IN
+COMPUTER
+SCIENCE &
+ENGINEERING
+(ARTIFICAL
+INTELLIGENCE &
+MACHINE
+LEARNING)
 
-84416 
+B TECH IN
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-102753 
+B TECH IN
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
--- 
+B TECH IN
+ELECTRONICS &
+COMMUNICATION
+ENGINEERING
 
-76763 
+B TECH IN
+MECHANICAL
+ENGINEERING
 
-77925 
+College: (E008)Bangalore Institute of Technology, K.R.Road, Bangalore (AUTONOMOUS) K.R.ROAD, V.V.PURA, BANGALORE-560004
 
-89839 
+1G
 
-130976 
+8162
 
-118195 
+1K
 
-130976 
+--
 
-90768 
+1R
 
-45522 
+--
 
-138009 
+2AG
 
-114241 
+8825
 
-147179 
+11550
 
-114241 
+12033
 
-199723 
+13522
 
-198969 
+2AK
 
-134116 
+2AR
 
-153626 
+2BG
 
-125079 
+2BK
 
-210216 
+2BR
 
-185418 
+3AK
 
-56062 
+3AR
 
-89976.5 
+GMK
 
-95589 
+GMR
 
-74631 
+SCG
 
-92893 
+SCK
 
-77563 
+SCR
 
-53320 
+STG
 
-81452 
+STK
 
--- 
+3BR
 
-50666 
+10379
 
-80180 
+GM
 
-71671 
+6701
 
-47680 
+10170
 
-75392 
+8920.5
 
-70976 
+32846
 
-128116 
+43309
 
-115073 
+38212
 
-151829 
+35254
 
-164394 
+100077
 
-178664 
+73967
 
-174039 
+134826
 
-185745 
+94439.5
 
-220696 
+83305
 
-155659 
+--
 
-156175 
+10147
 
-141726 
+--
 
-178664 
+12806
 
-228516 
+13812
 
-53783 
+--
 
-73111 
+--
 
-41506 
+60877
 
-74631 
+93003.5
 
-42102 
+78883
 
-66103 
+117828
 
-45774 
+7586
 
-65770 
+17357
 
-41276 
+9789
 
-59442 
+45383
 
-115810 
+--
 
-103137 
+--
 
-151154 
+126042
 
-103137 
+114587
 
-121953 
+53298
 
-114628 
+33593
 
-145957 
+STR
 
-107385 
+40084
 
-123439 
+142664
 
-104318 
+--
 
-183235 
+--
 
-164394 
+--
 
--- 
+--
 
-58476 
+--
 
-118402 
+--
 
--- 
+--
 
-63932 
+--
 
-86807 
+--
 
--- 
+--
 
--- 
+3AG
 
--- 
+7313
 
--- 
+62977
 
-56812 
+8347
 
-78412 
+--
 
--- 
+--
 
-261708 
+--
 
--- 
+--
 
--- 
+--
 
-54114 
+--
 
-81593 
+--
 
-53002 
+--
 
-74356 
+3BG
 
-118426 
+7759
 
-153632 
+69210
 
-175729 
+8953
 
-153632 
+7330
 
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 8 of 82 
+5855
 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+8596
 
-16. 
+8383
 
-E018 
+--
 
-KALPATHARU INSTITUTE OF TECHNOLOGY, N.H.  206,  
-BANGALORE-HONNAVAR ROAD,  HASSAN CIRCLE, TIPTUR-572202 
+--
 
-PUA 
+--
 
-VTU 
+--
 
-TUMKUR 
+--
 
-Course Name 
+--
 
-Intake 
+19707
 
-1G 
+31631
 
-2AG 
+17664
 
-2BG 
+10494
 
-3AG 
+3BK
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-AI 
+--
 
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+--
 
-CS 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+--
 
-EC 
+--
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-IE 
+--
 
-INFORMATION SCIENCE AND ENGINEERING 
+17533
 
-ME 
+88061
 
-MECHANICAL ENGINEERING 
+15580
 
-54 
+--
 
-27 
+10798
 
-81 
+80362
 
-54 
+27037
 
-27 
+48576
 
-27 
+45301
 
-I 
+26099
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+20254
 
-I 
+8028
 
-II 
+47896
 
-I 
+10006
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-79590 
+--
 
-97455 
+--
 
-74648 
+--
 
-98958 
+19549
 
-68842 
+8568
 
-121663 
+55754
 
-67941 
+49558
 
-88303 
+--
 
-68042 
+11949
 
-83483 
+10936
 
-66346 
+8217
 
-80465 
+11347
 
-108911 
+8531
 
-123391 
+11737
 
-97524 
+--
 
-97524 
+15932
 
-163461 
+6108
 
-176447 
+--
 
-231186 
+12056
 
-166827 
+37662
 
-177373 
+24176
 
-156183 
+7989
 
-187907 
+--
 
-203676 
+--
 
--- 
+9032
 
-85684 
+26246
 
-153519 
+25789
 
-106711 
+14386
 
-158632 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+32490
 
--- 
+24294
 
-84290 
+--
 
-85071 
+29292
 
-110918 
+--
 
-118347 
+--
 
-112060 
+--
 
-136955 
+--
 
--- 
+--
 
-74750 
+--
 
-93650 
+12663
 
-99831 
+20381
 
--- 
+13918
 
-209390 
+19378
 
--- 
+32185
 
--- 
+26731
 
-75549 
+--
 
-94482 
+--
 
-97466 
+--
 
-69525 
+49182.25
 
-89920 
+39286
 
-94389 
+35856
 
-142811 
+10495
 
-147851 
+16615
 
-168796 
+12621
 
-162234 
+17411
 
-171856 
+60763
 
-201311 
+13671
 
-257139 
+--
 
-206887 
+--
 
-161621 
+67755
 
-169416 
+80348
 
-156327 
+15149
 
-254702 
+22619
 
-250188 
+--
 
-95363 
+--
 
-113460 
+--
 
-86795 
+--
 
-87018 
+--
 
-85519 
+--
 
-168796 
+--
 
-185093 
+--
 
-177551 
+8867
 
-177158 
+5262.5
 
-140572 
+10560
 
-123996 
+7130
 
-113460 
+31486
 
-241675 
+40731
 
-185093 
+37451
 
-196215 
+34121
 
-182003 
+40804
 
-240068 
+36504
 
-162305 
+--
 
-178371 
+--
 
-159123 
+--
 
-215930 
+6357
 
-250188 
+16895
 
--- 
+--
 
--- 
+--
 
--- 
+8085
 
--- 
+34508
 
--- 
+26055
 
-257069 
+62809
 
--- 
+10833
 
--- 
+24724
 
-17. 
+17572
 
-E021 
+65728
 
-SRI JAYCHAMARAJENDRA COLLEGE OF ENGINEERING COLLEGE 
-(Constituent College of JSSSTU), JSSTI CAMPUSMYSORE-570006 
+--
 
-GOVT. 
-AIDED 
+--
 
-JSS STU 
+--
 
-MYSORE 
+--
 
-Course Name 
+34975
 
-Intake 
+79004
 
-1G 
+58047
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+109723
 
-GM 
+175397
 
-SCG 
+13480
 
-STG 
+7936
 
-CE 
+20365
 
-CIVIL ENGINEERING 
+13228
 
-CS 
+50878
 
-COMPUTER SCIENCE AND ENGINEERING 
+79488
 
-EE 
+66511
 
-EV 
+44180
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+--
 
-ELECTRONICS & INSTRUMENTATION ENGINEERING 
+--
 
-EC 
+18689
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-EN 
+30015
 
-ENVIRONMENTAL ENGINEERING 
+83360
 
-IP 
+16387
 
-INDUSTRIAL & PRODUCTION ENGINEERING 
+35383
 
-ME 
+24229
 
-MECHANICAL ENGINEERING 
+68574
 
-PT 
+--
 
-POLYMER SCIENCE & TECHNOLOGY 
+--
 
-57 
+--
 
-57 
+70737
 
-57 
+133346
 
-57 
+93528
 
-57 
+10842
 
-57 
+7870
 
-57 
+13793
 
-57 
+9337
 
-38 
+44953
 
-I 
+46393
 
-II 
+52529
 
-I 
+42499
 
-II 
+--
 
-I 
+--
 
-II 
+38653.5
 
-I 
+88370
 
-II 
+55023
 
-I 
+130789
 
-II 
+186358
 
-I 
+134070
 
-II 
+137669
 
-I 
+9352
 
-II 
+--
 
-I 
+11910
 
-II 
+48625
 
-I 
+--
 
-II 
+60875
 
-81990 
+46004
 
-84881 
+--
 
-4683 
+--
 
-5814 
+--
 
-22995 
+--
 
-28721 
+--
 
-20098 
+--
 
-38997 
+--
 
-9524 
+--
 
-12456 
+--
 
-72848 
+47869
 
-103492 
+--
 
-5540 
+--
 
-5984 
+44478
 
-20939 
+175435
 
-26592 
+--
 
-35229 
+College: (E009)PES University 100 Feet Ring Road, Banashankari, 3rd Stage, Hosakerehalli, Near DSERT, , Bangalore KARNATAKA, pin code -560085
 
-37829 
+1R
 
-8722 
+--
 
-9645 
+2AG
 
-81569 
+17646
 
-81648 
+2AK
 
-8526 
+--
 
-8526 
+2AR
 
-31719 
+--
 
-31719 
+17827.5
 
-43041 
+2BG
 
-43041 
+2BK
 
-19848 
+2BR
 
-19960 
+3AG
 
-105017 
+3AK
 
-89271 
+--
 
-106757 
+--
 
-150893 
+41254
 
-145473 
+10177
 
-125077 
+6820.75
 
-84881 
+2475
 
-99690 
+--
 
-38997 
+--
 
-72065 
+3AR
 
-99690 
+--
 
-70662 
+3BG
 
-111010 
+15167
 
-48263 
+3BK
 
-52222 
+--
 
-63441 
+3BR
 
-80512 
+--
 
-40900 
+GM
 
-40900 
+8940
 
-110922 
+GMK
 
-107738 
+25790
 
-52009 
+GMR
 
-59152 
+21465
 
-3671 
+SCG
 
-3671 
+45228
 
-13955 
+SCK
 
-17424 
+--
 
-19064 
+SCR
 
-27037 
+--
 
-6267 
+STG
 
-6267 
+73680
 
-76216 
+STK
 
-80406 
+--
 
-71551 
+STR
 
-82545 
+--
 
-35004 
+4204
 
-39423 
+2471
 
-82658 
+7505
 
-57649 
+3744
 
-69143 
+1548
 
-4182 
+6153
 
-4540 
+3497
 
-16388 
+21885
 
-17857 
+38296
 
-19327 
+31564
 
-26765 
+23461
 
-6564 
+36482
 
-7331 
+27949
 
-79502 
+6117
 
-98565 
+4057
 
-68877 
+8221
 
-82033 
+4898
 
-38417 
+6428
 
-38417 
+4157
 
-82033 
+2781
 
-51469 
+5813
 
-57460 
+3663
 
-2704 
+5788
 
-3057 
+27343
 
-13431 
+6074
 
-17391 
+1713
 
-18372 
+--
 
-23554 
+3168
 
-3835 
+1492
 
-6081 
+6298
 
-59392 
+2602
 
-76785 
+958
 
-61678 
+5252
 
-74123 
+2240
 
-32148 
+15367
 
-34001 
+32095
 
-82030 
+24041
 
-89763 
+15240
 
-106509 
+31384
 
-14975 
+19557
 
-14975 
+--
 
-49617 
+7789
 
-54728 
+--
 
-73734 
+13949.5
 
-77002 
+12759
 
-33103 
+6648
 
-33547 
+16107
 
-85818 
+9984.5
 
-85818 
+5864
 
-7239 
+13797
 
-7669 
+7945.5
 
-48692 
+11331.5
 
-55956 
+--
 
-77812 
+--
 
-77812 
+83453
 
-31434 
+26833
 
-31434 
+27498
 
-109567 
+--
 
-108731 
+--
 
-117502 
+--
 
-181152 
+--
 
-139706 
+--
 
-116726 
+--
 
-140669 
+4909
 
-226380 
+49264
 
-88503 
+--
 
-94749 
+6430
 
-105955 
+20516
 
-116726 
+4120
 
-130545 
+--
 
-160825 
+--
 
-230703 
+--
 
-185748 
+--
 
-121024 
+6672
 
-140065 
+4316
 
-118495 
+--
 
-107738 
+14579
 
-206451 
+--
 
-241030 
+--
 
-18. 
+--
 
-E022 
+Generated on: 25-07-2025 18:10:25
 
-The National Institute Of Engineering,(South Campus ) Manandavadi 
-Road,  Mysore -570008 
+--
 
-GOVT. 
-AIDED 
+3212
 
-Autonomous 
+--
 
-MYSORE 
+10413
 
-Course Name 
+40947
 
-Intake 
+--
 
-1G 
+43515
 
-2AG 
+41062.75
 
-2BG 
+6956
 
-3AG 
+2290
 
-3BG 
+9194
 
-GM 
+6438
 
-SCG 
+29471
 
-STG 
+57361
 
-CE 
+45350
 
-CIVIL ENGINEERING 
+34283
 
-EC 
+--
 
-ELECTRONICS AND  COMMUNICATION ENGG 
+7145
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+20682
 
-57 
+66395
 
-57 
+--
 
-57 
+97381
 
-I 
+54954
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+35608
 
-78980 
+--
 
-86215 
+Page 5 of 
 
-12456 
+9627889
 
-15289 
+23925
 
-68284 
+29462
 
-78718 
+27508
 
-76288 
+30523
 
-80636 
+23243
 
-11603 
+20456
 
-13095 
+26812
 
-51936 
+23204
 
-52282 
+64163
 
-87992 
+67815
 
-87992 
+70722
 
-21023 
+51121.5
 
-21023 
+66515
 
-63940 
+58685
 
-47230 
+1K
 
-66407 
+1R
 
-73547 
+2AR
 
-8798 
+2BG
 
-10798 
+2BK
 
-36526 
+2BR
 
-44469 
+3AK
 
-70626 
+3AR
 
-85994 
+3BK
 
-8743 
+3BR
 
-11584 
+GM
 
-38849 
+GMK
 
-39968 
+GMR
 
-60699 
+SCG
 
-71676 
+College: (E011)M V J College of Engineering, Bangalore(AUTONOMOUS) NEAR ITPB,CHANNASANDRA,KADUGODI POST,BANGALORE
 
-7057 
+Course Name
 
-9270.5 
+AERO SPACE
+ENGINEERING
 
-30973 
+AERONAUTICAL
+ENGINEERING
 
-38150 
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
 
-93306 
+CHEMICAL
+ENGINEERING
 
-94909 
+CIVIL
+ENGINEERING
 
-116111 
+COMPUTER
+SCIENCE AND
+DESIGN
 
-129328 
+COMPUTER
+SCIENCE AND
+ENGINEERING
 
-37101 
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
 
-40465 
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
 
-94749 
+ELECTRONICS
+ENGINEERING(VLSI
+DESIGN &
+TECHNOLOGY)
 
-95911 
+ELECTRONICS AND
+COMMUNICATION
+(ADVANCED
+COMMUNICATION
+TECHNOLOGY)
 
-46004 
+ELECTRONICS AND
+COMMUNICATION
+ENGG
 
-46004 
+INDUSTRIAL IOT
 
-99587 
+INFORMATION
+SCIENCE AND
+ENGINEERING
 
-111001 
+MECHANICAL
+ENGINEERING
 
-19. 
+1G
 
-E023 
+35471
 
-P E S COLLEGE OF ENGINEERING, MANDYA-571401 
+50950
 
-GOVT. 
-AIDED 
+26541
 
-Autonomous 
+--
 
-MANDYA 
+--
 
-Course Name 
+33319.5
 
-Intake 
+25907
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+26212
 
-CE 
+47143.5
 
-CIVIL ENGINEERING 
+--
 
-EE 
+50614
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+47516
 
-EC 
+37712
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-ME 
+27097
 
-MECHANICAL ENGINEERING 
+--
 
-86 
+--
 
-38 
+--
 
-57 
+--
 
-114 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+2AG
 
-I 
+37034
 
-II 
+2AK
 
-I 
+--
 
-II 
+52913
 
-124495 
+31860
 
-132909 
+47261
 
-142281 
+51837
 
-117906 
+59096
 
-112607 
+46853
 
-102237 
+20861
 
-142286 
+45333
 
-170670 
+104272
 
--- 
+31171
 
-49976 
+--
 
-82998 
+--
 
-36755 
+--
 
-49976 
+--
 
-148492 
+--
 
-259535 
+--
 
--- 
+--
 
-52918 
+23654
 
-63850 
+--
 
-35208 
+--
 
-45703 
+35745
 
--- 
+47915
 
-56707 
+--
 
-107396 
+--
 
-55612 
+--
 
-55612 
+--
 
-127036 
+--
 
-118628 
+--
 
--- 
+--
 
-45237 
+--
 
-58511 
+25069
 
-30319 
+--
 
-37830 
+72272
 
-95658 
+64064
 
--- 
+53150
 
-250926 
+--
 
-261072 
+--
 
--- 
+--
 
-49967 
+--
 
-58231 
+--
 
-30640 
+--
 
-39137 
+--
 
-110123 
+--
 
-44516 
+25395
 
-56942 
+49064
 
-29547 
+48686
 
-36755 
+44883
 
-89263 
+33599
 
-95987 
+74637
 
-89254 
+29365
 
-110468 
+--
 
-145282 
+--
 
-88531 
+--
 
-104396 
+--
 
-61808 
+--
 
-61808 
+--
 
-181795 
+65457
 
-182390 
+111250
 
-258073 
+--
 
-180388 
+--
 
-153913 
+3BG
 
-185508 
+34060
 
-129285 
+43044
 
-261963 
+20720
 
-254012 
+28449.5
 
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
-                                                                                                                                                                                                         Page 9 of 82 
+21595
 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+22706
 
-20. 
+--
 
-E024 
+43071
 
-MALNAD COLLEGE OF ENGINEERING,P.B. NO.21, SALAGAME 
-ROAD,  RANGOLI HALLA, HASSAN-573202 
+34157
 
-GOVT. 
-AIDED 
+--
 
-Autonomous 
+--
 
-HASSAN 
+--
 
-\ 
+--
 
-Course Name 
+--
 
-Intake 
+--
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+--
 
-EE 
+--
 
-ELECTRICAL & ELECTRONICS EINGINEERING 
+--
 
-EC 
+--
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+3AG
 
-57 
+33802
 
-57 
+42329
 
-57 
+36376
 
-114 
+20271
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+29862
 
-124725 
+22780
 
-125638 
+22849
 
-108505 
+67667
 
-111762 
+--
 
-109577 
+41931
 
-92741 
+--
 
-134725 
+--
 
-192845 
+--
 
--- 
+--
 
-193401 
+--
 
-137672 
+--
 
-127083 
+--
 
-124883 
+--
 
-114232 
+--
 
-205736 
+--
 
-250504 
+31942
 
-81785 
+68188
 
-109632 
+29886
 
-36772 
+--
 
-41155 
+25623
 
-68506 
+--
 
-99622 
+--
 
-36684 
+--
 
-44960 
+--
 
-62871 
+--
 
-81313 
+--
 
-46771 
+--
 
-46771 
+--
 
-55463 
+--
 
-66512 
+--
 
-28832 
+--
 
-33806 
+--
 
-60051 
+--
 
-86819 
+--
 
-34609 
+--
 
-36014 
+--
 
-54817 
+--
 
-65696 
+--
 
-28718 
+--
 
-32811 
+--
 
-126379 
+--
 
-124917 
+--
 
-145904 
+--
 
-192501 
+--
 
-102990 
+--
 
-102990 
+--
 
-83166 
+--
 
-83166 
+76420
 
-144953 
+--
 
-146714 
+--
 
-160059 
+--
 
-114232 
+26359
 
-123202 
+--
 
-108467 
+--
 
-202773 
+--
 
-195455 
+--
 
-244259 
+--
 
-251670 
+--
 
-253637 
+--
 
-191010 
+37827
 
-260353. 
+28860
 
-170141 
+47060.5
 
-256267 
+29518
 
-248481 
+70328.5
 
-21. 
+SCK
 
-E028 
+--
 
-TONTADARYA COLLEGE OF ENGINEERING, MUNDARGI ROAD, 
-PANCHAL NAGAR, KALAYAN NAGAR, GADAG-582101 
+SCR
 
-PUA 
+--
 
-VTU 
+STG
 
-GADAG 
+90424
 
-Course Name 
+--
 
-Intake 
+--
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+41232
 
-3BG 
+43956
 
-GM 
+47195
 
-SCG 
+84019
 
-STG 
+132817
 
-EA 
+107260
 
-AGRICULTURE ENGINEERING 
+109776
 
-AI 
+19927
 
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+25768
 
-CE 
+23569
 
-CIVIL ENGINEERING 
+45479.5
 
-CD 
+38553
 
-COMPUTER SCIENCE AND DESIGN 
+92617
 
-CS 
+--
 
-EE 
+--
 
-EC 
+47943
 
-COMPUTER SCIENCE AND ENGINEERING 
+116565
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+106606
 
-ELECTRONICS AND COMMUNICATION ENGG 
+108602
 
-ME 
+27712
 
-MECHANICAL ENGINEERING 
+39226
 
-14 
+30963
 
-27 
+92018
 
-14 
+--
 
-27 
+--
 
-54 
+--
 
-27 
+--
 
-40 
+64305
 
-13 
+44438
 
-I 
+--
 
-II 
+--
 
-I 
+95825
 
-II 
+143385
 
-I 
+107505
 
-II 
+72948
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+22452
 
-II 
+38965
 
-I 
+--
 
-II 
+--
 
-I 
+24753
 
-II 
+70446
 
--- 
+39972
 
-90776 
+94119
 
-237348 
+40055
 
-130909 
+45789
 
--- 
+41665
 
--- 
+106702
 
--- 
+30955
 
--- 
+--
 
-92946 
+37191
 
-84181 
+111143
 
-95262 
+--
 
-119673 
+--
 
-146821 
+--
 
-119774 
+--
 
-190166 
+--
 
-168162 
+--
 
-88064 
+74611
 
-88064 
+46128
 
-76844 
+--
 
-104383 
+89317
 
-84580 
+176675
 
-97915 
+136786
 
-73723 
+165359
 
-108770 
+105424
 
-179687 
+111342
 
-162959 
+105231
 
--- 
+--
 
--- 
+158608
 
--- 
+34356
 
--- 
+51743
 
--- 
+75398
 
--- 
+30153
 
-69160 
+34277
 
-98272 
+33799
 
--- 
+28117
 
--- 
+32267
 
-64856 
+32328
 
-81816 
+89313
 
-112621 
+--
 
-75204 
+125847
 
-169996 
+34030
 
-138037 
+31854
 
-151533 
+35196
 
-187474 
+61981
 
-217958 
+25135
 
-249916 
+--
 
--- 
+33068
 
--- 
+74034
 
-142332 
+27079
 
-119520 
+153660
 
-121024 
+83937
 
-113036 
+97554
 
-111846 
+102353
 
-105427 
+78816
 
-188200 
+93631
 
-206568 
+84950
 
-226213 
+--
 
-86492 
+--
 
-86492 
+--
 
--- 
+53990
 
-216700 
+--
 
--- 
+90743
 
--- 
+112950
 
-213819 
+--
 
-236223 
+--
 
--- 
+138157
 
-74113 
+STK
 
-98788 
+--
 
-84571 
+--
 
-90632 
+--
 
-72643 
+--
 
-127301 
+--
 
-67215 
+--
 
-91397 
+STR
 
-60918 
+--
 
-79568 
+116826
 
-126327 
+--
 
-124473 
+--
 
-152181 
+--
 
-142271 
+--
 
-150643 
+--
 
-140574 
+--
 
-143162 
+--
 
-131848 
+--
 
-128764 
+--
 
-128331 
+--
 
-149963 
+--
 
-228047 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+117895
 
-257520 
+--
 
--- 
+123178
 
--- 
+--
 
-132296 
+Generated on: 25-07-2025 18:10:25
 
-91847 
+Page 6 of 
 
-96384 
+96College: (E012)Sir M.Visvesvaraya Institute of Technology, Bangalore KRISHNADEVARAYANAGAR, HUNASAMARANAHALLI, VIA YELAHANKA,BANGALORE - 562 157
 
-112677 
+Course Name
 
-88501 
+1G
 
-83700 
+2AK
 
-189789 
+2AR
 
-170359 
+2BG
 
-156251 
+2BK
 
-115250 
+2BR
 
-122117 
+3AG
 
-139855 
+3AK
 
-112559 
+3AR
 
-108921 
+3BK
 
-249900 
+3BR
 
-237295 
+15223.87
+5
 
--- 
+33898
 
-157667 
+95326
 
--- 
+21182
 
--- 
+1K
 
-146266 
+--
 
-140418 
+--
 
-224680 
+--
 
-235532 
+--
 
--- 
+1R
 
--- 
+--
 
--- 
+2AG
 
--- 
+14811
 
--- 
+--
 
-244553 
+118924
 
--- 
+32746
 
--- 
+76058
 
-22. 
+--
 
-E029 
+20377
 
-MARATHA MANDAL ENGINEERING COLLEGE, R S NO. 104, 
-HALBHAVI NEW VANTMURI, VIA-KAKATI,  BELGAUM-591113 
+--
 
-PUA 
+--
 
-VTU 
+--
 
-BELGAUM 
+--
 
-Course Name 
+15923
 
-Intake 
+17522
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+33255
 
-3AG 
+112297
 
-3BG 
+23543
 
-GM 
+28073
 
-SCG 
+3BG
 
-STG 
+9562
 
-CS 
+23219
 
-EC 
+76070
 
-COMPUTER SCIENCE AND ENGINEERING 
+15493
 
-ELECTRONICS AND COMMUNICATION ENGG 
+34724
 
-ME 
+GM
 
-MECHANICAL ENGINEERING 
+9474
 
-RI 
+GMK
 
-ROBOTICS AND ARTIFICIAL INTELLIGENCE 
+--
 
-41 
+GMR
 
-27 
+13752
 
-27 
+SCG
 
-13 
+33128
 
-I 
+14793
 
-II 
+62687.5
 
-I 
+27552
 
-II 
+93620
 
-I 
+44002.5
 
-II 
+60527
 
-I 
+75144
 
-II 
+102088
 
-89633 
+15404
 
-68949 
+--
 
-70708 
+18656
 
-87089 
+51534
 
-68324 
+SCK
 
-66950 
+SCR
 
-137852 
+STG
 
-128930 
+STK
 
-154303 
+--
 
-138996 
+--
 
-115843 
+--
 
-167620 
+--
 
-112188 
+33492
 
-106023 
+36359
 
-176119 
+116545
 
-169869 
+--
 
-111380 
+91211
 
-99365 
+89997
 
-92909 
+74419
 
-92010 
+38838
 
-88900 
+--
 
-86495 
+--
 
-192359 
+--
 
-229594 
+--
 
-249532 
+STR
 
-199620 
+--
 
-201650 
+108114
 
-222466 
+--
 
-178539 
+--
 
-173503 
+--
 
-224409 
+--
 
--- 
+--
 
-233180 
+--
 
-204221 
+--
 
-167858 
+--
 
-166956 
+--
 
-171326 
+--
 
-164243 
+--
 
-241357 
+--
 
-254361 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
-112609 
+--
 
-179820 
+10803
 
--- 
+19365
 
--- 
+--
 
--- 
+--
 
--- 
+193760
 
--- 
+21305
 
--- 
+74479
 
-233180 
+--
 
--- 
+15957
 
--- 
+24734
 
-93753 
+12478
 
-81526 
+--
 
-122526 
+--
 
-160608 
+68088
 
-225333 
+33193
 
-179443 
+14645
 
-164374 
+13119
 
-226077 
+15660
 
-217356 
+14583
 
-23. 
+--
 
-E031 
+--
 
-BASAVESHWARA ENGINEERING COLLEGE, P.B. NO.53, VIDYAGIRI, 
-NIJALINGAPPA, BAGALKOT -587102 
+--
 
-GOVT. 
-AIDED 
+--
 
-Autonomous 
+--
 
-BAGALKOT 
+--
 
-Course Name 
+--
 
-Intake 
+--
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+--
 
-GM 
+--
 
-SCG 
+--
 
-STG 
+--
 
-CE 
+--
 
-CIVIL ENGINEERING 
+--
 
-CS 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+--
 
-EE 
+--
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+--
 
-EC 
+--
 
-ELECTRONICS AND COMMUNICATION ENGG 
+--
 
-IP 
+--
 
-INDUSTRIAL & PRODUCTION ENGINEERING 
+--
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+--
 
-85 
+--
 
-57 
+--
 
-57 
+--
 
-57 
+--
 
-29 
+--
 
-114 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+--
 
-II 
+--
 
-I 
+25555
 
-II 
+17502
 
-I 
+32901
 
-II 
+16620
 
-I 
+67530
 
-II 
+18325
 
-I 
+3AG
 
-II 
+55566
 
-128477 
+--
 
-126300 
+65860
 
-137369 
+--
 
-139075 
+--
 
-110997 
+75541
 
-102352 
+82608
 
-156628 
+--
 
-178069 
+--
 
-173870 
+--
 
-190697 
+--
 
-146287 
+--
 
--- 
+--
 
-181986 
+--
 
-134257 
+--
 
-168194 
+--
 
-217740 
+--
 
-25042 
+--
 
-28473 
+--
 
-77431 
+--
 
-84839 
+--
 
-29976 
+--
 
-35320 
+--
 
-21942 
+--
 
-27843 
+--
 
-51317 
+--
 
-84378 
+--
 
-28320 
+--
 
-35126 
+14948
 
-28261 
+11854
 
-36342 
+18825
 
-67904 
+14349
 
-67904 
+45457
 
-38522 
+54924
 
-38522 
+63529
 
-21059 
+36216
 
-27473 
+46107
 
-49991 
+46739
 
-81272 
+--
 
-30209 
+--
 
-39309 
+--
 
-20603 
+13094
 
-24315 
+--
 
-47602 
+13539
 
-71890 
+50127
 
-26392 
+32895
 
-34143 
+36931
 
-19827 
+40275
 
-22902 
+99883
 
-45831 
+--
 
-57261 
+--
 
-25225 
+67692.5
 
-32381 
+39016
 
-55301 
+110755
 
-61734 
+106548.5
 
-58357 
+19840
 
-73239 
+42368
 
-140095 
+21702
 
-129486 
+68772
 
-140095 
+173340
 
-162747 
+--
 
-81163 
+144718
 
-82397 
+22674
 
-70406 
+16647
 
-77199 
+27171.5
 
-179285 
+21374
 
-170613 
+58824
 
-174576 
+63599
 
-162141 
+81122
 
-140155 
+64199
 
-136597 
+--
 
-231985 
+26858
 
--- 
+37758
 
--- 
+36512
 
--- 
+116349
 
--- 
+--
 
--- 
+125844
 
-240861 
+109542.5
 
--- 
+19702
 
--- 
+16103
 
--- 
+21810
 
-173488 
+16619
 
-164488 
+55556
 
-156756 
+64265
 
-165668 
+71658
 
-132322 
+62123.5
 
-125851 
+--
 
-230751 
+--
 
-226583 
+50097
 
--- 
+81711
 
--- 
+75674
 
--- 
+149758
 
--- 
+17589.5
 
--- 
+--
 
-261347 
+20614
 
--- 
+65405
 
--- 
+--
 
-GOVT.  / UNI. / PUBLIC UNI. / DEEMED TO BE UNI / PRIVATE UN. / GOVT AIDED / PRIVATE UNAIDED / MINORITY (R / L) AUTONOMOUS /       
+--
 
-                                                                                                                                                                                                         Page 10 of 82 
+--
 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
-CET-2025 CUT OFF RANK -- GENERAL   (I & II ROUND)   for admission during 2026-27   
-(Seats available for K.E.A) 
+87167
 
-24. 
+89096
 
-E032 
+70353
 
-R.T.E SOCIETY’S   RURAL ENGINEERING COLLEGE,  GADAG-HUBLI 
-ROAD, HULKOTI,-582205 TQ 
+--
 
-PUA 
+--
 
-VTU 
+--
 
-GADAG 
+--
 
-Course Name 
+--
 
-Intake 
+--
 
-1G 
+--
 
-2AG 
+--
 
-2BG 
+--
 
-3AG 
+119062
 
-3BG 
+--
 
-GM 
+70642
 
-SCG 
+--
 
-STG 
+68460
 
-AI 
+--
 
-CE 
+--
 
-CS 
+3BK
 
-EC 
+3BR
 
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+GM
 
-CIVIL ENGINEERING 
+GMK
 
-COMPUTER SCIENCE AND ENGINEERING 
+GMR
 
-ELECTRONICS AND  COMMUNICATION ENGG 
+SCG
 
-ME 
+SCK
 
-MECHANICAL ENGINEERING 
+SCR
 
-TX 
+STG
 
-TEXTILES TECHNOLOGY 
+STK
 
-13 
+STR
 
-14 
+--
 
-54 
+--
 
-27 
+41802
 
-13 
+65983
 
-14 
+50156.5
 
-I 
+71415
 
-II 
+123736
 
-I 
+--
 
-II 
+127741
 
-I 
+128978
 
-II 
+--
 
-I 
+--
 
-II 
+101028
 
-I 
+66307
 
-II 
+--
 
-I 
+188763
 
-II 
+70738
 
--- 
+58175
 
--- 
+68940
 
-84026 
+67355
 
-124949 
+97886
 
-185804 
+125666.5
 
-157394 
+139721
 
--- 
+89316
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+55505
 
--- 
+72654
 
--- 
+82402
 
--- 
+130195
 
-73502 
+--
 
-101775 
+--
 
-73283 
+--
 
-84659 
+--
 
-125299 
+--
 
-118504 
+--
 
-173412 
+--
 
-192465 
+178452
 
-186161 
+127385
 
-156823 
+119869
 
-214328 
+123130
 
--- 
+79084
 
--- 
+144971
 
--- 
+84398
 
--- 
+164817
 
--- 
+211068
 
-100163 
+195889
 
-102466 
+167878.5
 
-93701 
+110467
 
-104644 
+146648
 
-91109 
+--
 
-90186 
+--
 
-150737 
+154485
 
-142271 
+86317
 
-120944 
+72399
 
-139408 
+81155
 
-131279 
+79077
 
-126275 
+--
 
-124916 
+--
 
-116548 
+--
 
-206357 
+--
 
-173533 
+--
 
-115911 
+--
 
-110213 
+--
 
-113344 
+--
 
-106406 
+--
 
-107135 
+--
 
-105670 
+--
 
-198780 
+--
 
-158616 
+--
 
-151899 
+--
 
-206145 
+96243
 
-243110 
+--
 
-162749 
+--
 
-156489 
+251650
 
-148112 
+--
 
-259107 
+--
 
-158616 
+34286
 
--- 
+28778.5
 
--- 
+17588
 
--- 
+34329
 
--- 
+16527
 
-243105 
+65406
 
--- 
+19162
 
--- 
+3BG
 
--- 
+44638
 
-174902 
+--
 
-200909 
+64172
 
--- 
+--
 
--- 
+--
 
--- 
+76087
 
--- 
+86353
 
--- 
+113854.5
 
--- 
+82853
 
--- 
+16689
 
--- 
+--
 
--- 
+16966
 
--- 
+38566
 
-159028 
+41648
 
-248840 
+--
 
--- 
+23030
 
--- 
+33444
 
--- 
+18822
 
--- 
+83082
 
-164480 
+23226
 
-225173 
+--
 
-244855 
+--
 
--- 
+--
 
--- 
+--
 
--- 
+--
 
-25. 
+--
 
-E033 
+--
 
-SRI TARALABAU JAGADGURU  INSTITUTE OF TECH.  NH 4, P.B. 
-ROAD, RANEBENNUR-581115 
+--
 
-PUA 
+--
 
-VTU 
+--
 
-HAVERI 
+14796
 
-Course Name 
+19843
 
-Intake 
+16095
 
-1G 
+23525
 
-2AG 
+15592
 
-2BG 
+--
 
-3AG 
+--
 
-3BG 
+24150
 
-GM 
+40782
 
-SCG 
+58659
 
-STG 
+43589
 
-CE 
+48285
 
-CIVIL ENGINEERING 
+60754
 
-CS 
+35857
 
-EE 
+--
 
-EC 
+--
 
-IE 
+--
 
-COMPUTER SCIENCE AND ENGINEERING 
+21565
 
-ELECTRICAL & ELECTRONICS ENGINEERING 
+40568
 
-ELECTRONICS AND COMMUNICATION ENGG 
+18466
 
-INFORMATION  SCIENCE AND ENGINEERING 
+--
 
-ME 
+--
 
-MECHANICAL ENGINEERING 
+--
 
-27 
+--
 
-27 
+35895
 
-14 
+--
 
-27 
+22566
 
-27 
+24608
 
-13 
+49573
 
-I 
+49630
 
-II 
+19179
 
-I 
+27827
 
-II 
+148281
 
-I 
+74765
 
-II 
+113430
 
-I 
+--
 
-II 
+96907
 
-I 
+--
 
-II 
+24012
 
-I 
+--
 
-II 
+25844
 
-209617 
+--
 
-218651 
+60800.5
 
-206846 
+--
 
-196369 
+--
 
-182449 
+--
 
-182028 
+--
 
-218371 
+--
 
-220910 
+--
 
--- 
+--
 
--- 
+71048
 
--- 
+--
 
--- 
+--
 
--- 
+92048
 
-22
+92876
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+53398
+
+45040
+
+--
+
+--
+
+151931
+
+75604
+
+78327
+
+91894
+
+70819
+
+76842
+
+113047
+
+90520
+
+92684
+
+112109
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+101741
+
+100421
+
+123641
+
+83755
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+165797
+
+--
+
+--
+
+--
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+BIO-TECHNOLOGY
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(INTERNET
+OF THINGS &
+CYBER SECURITY
+INCLUDING BLOCK
+CHAIN TECH)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS &
+COMPUTER
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+College: (E013)Ghousia Engineering College, Ramanagara BANGALORE - MYSORE ROAD,RAMANAGARA
+
+1G
+
+70597
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+52774
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+Generated on: 25-07-2025 18:10:25
+
+Page 7 of 
+
+96College: (E014)S J C Institute of Technology, Chickkaballapur(AUTONOMOUS) P B NO. 20, B B ROAD, CHICKBALLAPUR, CHICKBALLAPUR (DISTRICT)
+
+2AK
+
+2AR
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+1R
+
+--
+
+2AG
+
+28354
+
+57683
+
+47581
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+41884
+
+139943
+
+214671
+
+66374
+
+36845
+
+--
+
+--
+
+--
+
+177229
+
+--
+
+--
+
+2BG
+
+--
+
+73992
+
+47161
+
+--
+
+--
+
+76378
+
+48857
+
+51168.5
+
+52540
+
+49386.5
+
+71206
+
+92337
+
+86978
+
+101786
+
+63756
+
+88968
+
+--
+
+--
+
+65623
+
+59352
+
+--
+
+--
+
+220712
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+140254
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+39464
+
+115567
+
+208559.5
+
+67222
+
+41666
+
+37498
+
+61504
+
+53495
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+32528
+
+80987
+
+--
+
+--
+
+--
+
+42859
+
+45932
+
+--
+
+--
+
+115697
+
+--
+
+88745
+
+64578
+
+--
+
+42801.5
+
+--
+
+--
+
+--
+
+--
+
+42093
+
+64148
+
+59427
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+GM
+
+20777
+
+42419
+
+--
+
+--
+
+25759
+
+55113.5
+
+44409
+
+75159
+
+35633
+
+49162
+
+37383
+
+71294
+
+110072
+
+184538
+
+--
+
+--
+
+139484
+
+168374
+
+228233
+
+233238
+
+59929
+
+78269
+
+75942
+
+152592
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+101781
+
+62020
+
+69314
+
+168918
+
+154400
+
+--
+
+194673
+
+167455
+
+151053
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+86586
+
+166250
+
+42444
+
+37308
+
+41030
+
+39303
+
+94793
+
+111152
+
+118981
+
+80655
+
+64224
+
+59279
+
+85312
+
+63458
+
+134286
+
+181949
+
+200351
+
+151664
+
+60352
+
+52289
+
+54491
+
+55536
+
+131711
+
+--
+
+83874
+
+--
+
+95589
+
+156447
+
+--
+
+--
+
+143346
+
+148163
+
+153554
+
+164052
+
+--
+
+196711
+
+--
+
+--
+
+55177
+
+40081
+
+35416
+
+37897
+
+47409
+
+72985
+
+152547
+
+83063
+
+70369
+
+College: (E015)Dr.T.Thimmaiah Institute of Technology, KGF 00RGAUM POST,KOLAR GOLD FIELDS - 563 120
+
+1G
+
+79051
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+98367
+
+2AK
+
+--
+
+2AR
+
+2BG
+
+2BK
+
+127641
+
+85374
+
+141808
+
+2BR
+
+--
+
+3AG
+
+86032
+
+3AK
+
+--
+
+3AR
+
+--
+
+3BG
+
+88900
+
+3BK
+
+--
+
+3BR
+
+--
+
+GM
+
+72062
+
+GMK
+
+GMR
+
+SCG
+
+--
+
+85946
+
+107547
+
+SCK
+
+--
+
+SCR
+
+STG
+
+168683
+
+136360
+
+STK
+
+--
+
+STR
+
+--
+
+98174
+
+104302
+
+103733
+
+86908
+
+88750
+
+75182
+
+82281
+
+82676
+
+115771
+
+167553
+
+155463
+
+135509
+
+128294.5
+
+105779
+
+161790
+
+162057
+
+--
+
+127631
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+101188
+
+112239
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+86216
+
+--
+
+95988
+
+--
+
+119116
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+85317
+
+134327
+
+--
+
+--
+
+--
+
+--
+
+94230
+
+159681
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+98882
+
+--
+
+117869
+
+149370
+
+93460
+
+94676
+
+93696
+
+141565
+
+124600
+
+--
+
+156087
+
+167146
+
+97616
+
+159889
+
+157821
+
+140476
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+154144
+
+--
+
+--
+
+--
+
+189483
+
+171866
+
+203945
+
+173980
+
+--
+
+--
+
+191849
+
+164217
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+AERO SPACE
+ENGINEERING
+
+AERONAUTICAL
+ENGINEERING
+
+ARTIFICIAL
+INTELLIGENCE AND
+DATA SCIENCE
+
+CIVIL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+(KANNADA
+MEDIUM)
+
+COMPUTER
+SCIENCE AND
+DESIGN
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+--
+
+--
+
+55751
+
+127971
+
+--
+
+78781
+
+36539
+
+47800
+
+76960.5
+
+71563
+
+156250
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+MINING
+ENGINEERING
+
+88032
+
+100474
+
+105249
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 8 of 
+
+962AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3BK
+
+3BR
+
+--
+
+--
+
+37958.5
+
+65990
+
+--
+
+--
+
+81453
+
+91701
+
+134257
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+18170
+
+--
+
+22670
+
+8704
+
+8626
+
+12015
+
+GM
+
+21792
+
+41086
+
+61993
+
+8511
+
+GMK
+
+56355
+
+64465
+
+GMR
+
+28624
+
+41220
+
+SCG
+
+64980
+
+76558
+
+SCK
+
+--
+
+125444
+
+SCR
+
+--
+
+--
+
+STG
+
+48201
+
+92122
+
+--
+
+--
+
+71032
+
+88230
+
+10308
+
+29663.5
+
+--
+
+--
+
+116899
+
+82239
+
+43221
+
+25461
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+10272
+
+13789
+
+11329
+
+17606
+
+18823
+
+8583
+
+9882
+
+7695
+
+11483
+
+9583
+
+34097
+
+45226
+
+39937
+
+34325
+
+45869
+
+34646
+
+College: (E016)Siddaganga Institute of Technology,Tumkur
+
+1R
+
+64943
+
+80242
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+34028
+
+50724
+
+69600
+
+10169
+
+22897
+
+14310
+
+35765
+
+22201
+
+161839
+
+65909
+
+Course Name
+
+BIO-TECHNOLOGY
+
+CHEMICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
+
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
+
+INDUSTRIAL
+ENGINEERING &
+MANAGEMENT
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+--
+
+66078
+
+86522
+
+10726
+
+10152
+
+23807
+
+17072
+
+27082
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+19447
+
+62173
+
+53418
+
+12506
+
+49686
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+29994
+
+41352
+
+16701
+
+24856
+
+39656
+
+33017
+
+32730
+
+--
+
+--
+
+77563
+
+--
+
+--
+
+11852
+
+19908
+
+12614
+
+18321
+
+59804
+
+88802
+
+68678
+
+68041
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+--
+
+44926
+
+70663
+
+18676
+
+10781
+
+23853
+
+--
+
+3AK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+42416
+
+82674
+
+9557
+
+51156
+
+--
+
+--
+
+3AR
+
+--
+
+3BG
+
+--
+
+48724
+
+42483
+
+65390
+
+--
+
+--
+
+--
+
+--
+
+--
+
+9619
+
+9185
+
+--
+
+17857
+
+14076
+
+11147
+
+--
+
+--
+
+--
+
+--
+
+--
+
+24249
+
+20072
+
+44523
+
+9668
+
+56330
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+15713
+
+28121
+
+23411
+
+54223
+
+--
+
+58058
+
+54475
+
+10568.75
+
+14835
+
+12507
+
+47105
+
+62720
+
+62231
+
+47021
+
+23749
+
+25313
+
+31552
+
+89875
+
+17582
+
+42252
+
+--
+
+--
+
+22191
+
+64113
+
+48175
+
+93549
+
+10559.25
+
+9484
+
+12910
+
+10423
+
+45314
+
+58223
+
+47764
+
+80816
+
+54088
+
+107671
+
+--
+
+--
+
+--
+
+--
+
+--
+
+115002
+
+76165
+
+69112
+
+89675
+
+173423
+
+136914
+
+48720
+
+38761
+
+112115
+
+129635
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+51653
+
+--
+
+--
+
+--
+
+41215
+
+150026
+
+Generated on: 25-07-2025 18:10:25
+
+Page 9 of 
+
+962AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+30232
+
+48860
+
+GM
+
+25776
+
+GMK
+
+--
+
+GMR
+
+27135
+
+SCG
+
+67624
+
+47704
+
+129758
+
+61316
+
+74922
+
+88064
+
+109524
+
+120866
+
+145356
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+84760
+
+44893
+
+--
+
+--
+
+119152
+
+145613
+
+36836
+
+43709
+
+44617
+
+31821
+
+37268
+
+25162
+
+36716
+
+34189
+
+74778
+
+95318
+
+92492
+
+65590
+
+College: (E017)Sri Siddhartha Institute of Technology MARALUR ,TUMKUR
+
+1G
+
+29565
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+40827
+
+--
+
+--
+
+--
+
+50840
+
+37426
+
+--
+
+--
+
+--
+
+165095
+
+--
+
+81493
+
+190086
+
+127675
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+BIO-MEDICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+--
+
+139515
+
+41292
+
+47024
+
+--
+
+--
+
+--
+
+--
+
+--
+
+99205
+
+94698
+
+64274
+
+109113
+
+48373
+
+124445
+
+88163
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+37311
+
+--
+
+126976
+
+31044
+
+49804
+
+45048
+
+75325
+
+55446
+
+45768
+
+107385
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+226966
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+83611
+
+--
+
+130166
+
+49169
+
+44959
+
+84554
+
+--
+
+--
+
+--
+
+--
+
+41096
+
+93144
+
+125587
+
+61516
+
+71639
+
+83589
+
+75960
+
+97717
+
+57939
+
+115981
+
+--
+
+--
+
+--
+
+--
+
+--
+
+118030
+
+73780
+
+47542
+
+--
+
+--
+
+147405
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+127635
+
+109527
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+32620
+
+41322
+
+37157
+
+72035
+
+52498
+
+79022
+
+47573
+
+141187
+
+93570
+
+174142
+
+71618
+
+96834
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+107593
+
+67062
+
+56812
+
+96935
+
+--
+
+55207
+
+College: (E018)Kalpatharu Institute of Technology, Tiptur B.H.ROAD,HASSAN CIRCLE,TIPTUR-572202
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+79590
+
+1K
+
+--
+
+163461
+
+95760
+
+113831
+
+--
+
+196215
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+2AG
+
+2AK
+
+86161
+
+74248
+
+2AR
+
+--
+
+2BG
+
+68842
+
+184595
+
+182028
+
+--
+
+--
+
+176447
+
+87325
+
+89591
+
+103138
+
+75074
+
+103155
+
+113054
+
+116404
+
+111368
+
+91196
+
+--
+
+--
+
+110795
+
+120762
+
+--
+
+231186
+
+218387
+
+211622
+
+2BK
+
+2BR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+74261
+
+178715
+
+76367
+
+93846
+
+86795
+
+162945
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+81158
+
+66346
+
+GM
+
+66222
+
+GMK
+
+78266
+
+GMR
+
+SCG
+
+SCK
+
+72381
+
+103841
+
+113722
+
+SCR
+
+--
+
+STG
+
+97524
+
+156183
+
+--
+
+162370
+
+192674
+
+--
+
+231104
+
+203676
+
+--
+
+--
+
+77753
+
+66970
+
+69525
+
+76631.5
+
+137283
+
+167253
+
+154951
+
+128520
+
+98741
+
+93442
+
+95485
+
+97110
+
+165719
+
+84437
+
+105657
+
+171326
+
+--
+
+--
+
+--
+
+83307
+
+--
+
+88634
+
+161944
+
+158866.5
+
+160504
+
+159123
+
+194605
+
+--
+
+--
+
+--
+
+171856
+
+178293
+
+176244
+
+182649
+
+--
+
+250188
+
+--
+
+--
+
+41305.5
+
+34855
+
+--
+
+--
+
+47707
+
+91623
+
+44050
+
+90768
+
+93140
+
+67688
+
+92709
+
+89718
+
+147179
+
+--
+
+--
+
+--
+
+112420.5
+
+121081
+
+129981
+
+45522
+
+160947
+
+138438
+
+165040
+
+165062
+
+54439
+
+50620
+
+57376
+
+52701
+
+117164
+
+124142
+
+120397
+
+143642
+
+--
+
+--
+
+--
+
+--
+
+73971
+
+83464
+
+79201
+
+175729
+
+--
+
+176786
+
+164394
+
+45678
+
+57338
+
+49917
+
+115514
+
+138009
+
+135773
+
+114241
+
+89705.5
+
+109612
+
+114099
+
+175754
+
+52368
+
+--
+
+74049
+
+124847
+
+--
+
+--
+
+--
+
+--
+
+152455
+
+116135
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+76763
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+167755
+
+--
+
+130976
+
+--
+
+--
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+147851
+
+201772
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 10 of 
+
+96College: (E021)Sri Jayachamarajendra College of Engineering(Constituent College of JSS Science & Technology University), Mysore JSS TECHNICAL INSTITUTIONS CAMPUS,MANASAGANGOTHRI PO,MYSORE
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GM
+
+1G
+
+72038
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+69363
+
+4879
+
+9347
+
+10090
+
+5203
+
+--
+
+20939
+
+--
+
+--
+
+--
+
+99739
+
+81648
+
+149226
+
+5540
+
+7471.75
+
+21717
+
+46255.75
+
+66647
+
+49102
+
+GMK
+
+49135
+
+GMR
+
+61313
+
+SCG
+
+90029
+
+--
+
+2570
+
+7761
+
+4357
+
+14975
+
+24438
+
+13596
+
+27554
+
+18904
+
+47601
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+95926
+
+101386
+
+22503
+
+7669
+
+--
+
+--
+
+102128
+
+--
+
+65260
+
+52320
+
+71414
+
+62567
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS &
+INSTRUMENTATION
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ENVIRONMENTAL
+ENGINEERING
+
+INDUSTRIAL &
+PRODUCTION
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+22995
+
+22005
+
+6885
+
+113971
+
+84881
+
+38997
+
+POLYMER SCIENCE
+& TECHNOLOGY
+
+111507
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2BR
+
+--
+
+3AG
+
+49133
+
+8526
+
+3671
+
+--
+
+--
+
+15165
+
+19064
+
+41944
+
+6267
+
+--
+
+--
+
+74936
+
+71551
+
+108515
+
+39423
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+57596
+
+3521
+
+17363
+
+42420
+
+22082
+
+--
+
+7022
+
+84966
+
+72027
+
+59355
+
+60061
+
+35229
+
+64665
+
+39813
+
+41118
+
+--
+
+8790
+
+11865
+
+9464
+
+19848
+
+123437
+
+82819
+
+138968
+
+82968
+
+109954
+
+--
+
+--
+
+--
+
+84146
+
+48004
+
+106764
+
+--
+
+--
+
+--
+
+98000
+
+63441
+
+53932
+
+40900
+
+135239
+
+98787
+
+College: (E022)The National Institute of Engineering(SOUTH CAMPUS), Mysore(AUTONOMOUS) MANANDAVADI ROAD,MYSORE 570008
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+78718
+
+9184
+
+72065
+
+1K
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+--
+
+--
+
+--
+
+119148
+
+71698
+
+93985
+
+98890
+
+96063
+
+--
+
+--
+
+11490
+
+49424.5
+
+--
+
+--
+
+13335
+
+21023
+
+71378
+
+63940
+
+--
+
+--
+
+--
+
+152876
+
+68213
+
+--
+
+--
+
+9135
+
+36526
+
+--
+
+--
+
+--
+
+3AR
+
+--
+
+3BG
+
+61888
+
+12410
+
+8801
+
+--
+
+39396
+
+College: (E023)P E S College of Engineering, Mandya(AUTONOMOUS) MANDYA: 571 401
+
+18443
+
+32175
+
+34722
+
+76603
+
+118108
+
+95800
+
+73086
+
+4460
+
+10442
+
+7754
+
+30570
+
+39042
+
+42780
+
+31434
+
+62139
+
+103633
+
+76277
+
+95615
+
+229134
+
+116007
+
+113818
+
+56805
+
+87335
+
+76038
+
+136170
+
+152254
+
+157409
+
+116726
+
+--
+
+73789
+
+185685
+
+74876
+
+--
+
+144600
+
+72415
+
+96842
+
+98689
+
+141389
+
+38417
+
+70510
+
+33886
+
+36667
+
+53781
+
+88503
+
+--
+
+--
+
+109955.5
+
+94909
+
+154579
+
+127384.5
+
+3BK
+
+3BR
+
+GM
+
+59658
+
+GMK
+
+60958
+
+GMR
+
+71676
+
+SCG
+
+93306
+
+SCK
+
+--
+
+106846
+
+101730
+
+SCR
+
+STG
+
+STK
+
+STR
+
+7834
+
+20333
+
+11905
+
+37101
+
+41985
+
+47770
+
+35187
+
+66090
+
+33418
+
+57348
+
+61681
+
+93060
+
+--
+
+122277
+
+108234
+
+114487
+
+119745
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+1G
+
+124495
+
+1K
+
+--
+
+85691
+
+92243
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+44816
+
+122796
+
+--
+
+--
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+141276
+
+142057
+
+170613
+
+134679
+
+55243
+
+33510
+
+--
+
+--
+
+66404
+
+57698
+
+34450
+
+55612
+
+164912
+
+134670
+
+166626
+
+150670
+
+118742
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+112688
+
+47609
+
+26317
+
+257509
+
+98331
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+112607
+
+52713.5
+
+--
+
+--
+
+32818
+
+28763
+
+31721
+
+139185
+
+102685
+
+114812
+
+132909
+
+145243
+
+152875
+
+180191
+
+170670
+
+--
+
+--
+
+43839
+
+54865
+
+49967
+
+95987
+
+26242.5
+
+29453
+
+31672
+
+93098
+
+--
+
+--
+
+113676
+
+92861
+
+107786
+
+61808
+
+--
+
+--
+
+--
+
+205711
+
+--
+
+84274
+
+154022
+
+107796
+
+--
+
+134206
+
+90614
+
+127036
+
+112243
+
+181795
+
+231132
+
+221845
+
+194119
+
+229849
+
+219012
+
+College: (E024)Malnad College of Engineering, Hassan(AUTONOMOUS) P.B. NO. 21, SALAGAME ROAD,HASSSAN
+
+Course Name
+
+1G
+
+1K
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+CIVIL
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+124725
+
+70103
+
+30999
+
+160490
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+120911
+
+65021
+
+--
+
+--
+
+125589
+
+108505
+
+79426
+
+69772
+
+37651
+
+40596
+
+43845
+
+50294
+
+206343
+
+155429
+
+173765
+
+162564
+
+154647
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+55463
+
+28832
+
+111762
+
+151183
+
+106334
+
+133876
+
+90499
+
+97864
+
+110194
+
+121608
+
+3BK
+
+--
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+58231
+
+81372
+
+53980
+
+56011
+
+56264
+
+134588
+
+--
+
+--
+
+131051
+
+210754
+
+153536
+
+130929
+
+167576
+
+115569
+
+151787
+
+111947
+
+130487
+
+132935
+
+199059
+
+202773
+
+227586
+
+206668
+
+36651
+
+32369
+
+137761
+
+124883
+
+--
+
+--
+
+28653
+
+36938
+
+34768.5
+
+92784
+
+117142
+
+111096
+
+82507
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+138398
+
+105378
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+214595
+
+--
+
+94755
+
+248481
+
+Generated on: 25-07-2025 18:10:25
+
+Page 11 of 
+
+96College: (E028)Tontadarya College of Engineering, Gadag MUNDARAGI ROAD ,GADAG - 582101
+
+Course Name
+
+AGRICULTURE
+ENGINEERING
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+1G
+
+--
+
+90285
+
+1K
+
+--
+
+--
+
+162685
+
+252505
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+DESIGN
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+154402
+
+86492
+
+143666
+
+99624
+
+MECHANICAL
+ENGINEERING
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+2AG
+
+123473
+
+84181
+
+2AK
+
+--
+
+2AR
+
+--
+
+2BG
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+75685
+
+76844
+
+88583
+
+79297
+
+144923
+
+121942
+
+76369
+
+129321
+
+92342
+
+179171
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+162589
+
+121024
+
+86485
+
+90632
+
+--
+
+143162.5
+
+108828
+
+83700
+
+--
+
+--
+
+2BK
+
+2BR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+--
+
+91072
+
+--
+
+113036
+
+78677
+
+138839
+
+108770
+
+--
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+86307
+
+69160
+
+--
+
+128149
+
+67215
+
+123985
+
+83501
+
+147574
+
+College: (E029)Maratha Mandal Engineering College, Belgaum RS. NO.104, HALBHAVI VILLAGE, POST: NEW VANTMURI, VIA KAKATI, TALUKA & DIST. BELGAUM-591113
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+STG
+
+STK
+
+STR
+
+GM
+
+76460
+
+--
+
+79900
+
+115630
+
+60449
+
+66700
+
+68425
+
+110562
+
+139874.5
+
+--
+
+149700
+
+147485
+
+106193
+
+121434
+
+127301
+
+181264
+
+--
+
+--
+
+--
+
+--
+
+SCR
+
+--
+
+122094
+
+113562
+
+134907
+
+--
+
+217958.7
+5
+
+229556
+
+216696
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+133033
+
+76752
+
+65964
+
+82163
+
+76194
+
+124520
+
+167861
+
+136386
+
+124473
+
+--
+
+--
+
+--
+
+122540
+
+--
+
+125458
+
+150183
+
+--
+
+239756
+
+243409
+
+243643
+
+--
+
+82252
+
+94019
+
+92319
+
+189789
+
+210884
+
+216554
+
+153503
+
+140985
+
+--
+
+149782
+
+212074
+
+--
+
+--
+
+201168
+
+--
+
+--
+
+211134
+
+--
+
+1G
+
+90159
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+75863
+
+2AK
+
+--
+
+75965
+
+70708
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+3BR
+
+--
+
+GM
+
+60294
+
+GMK
+
+75801
+
+70044
+
+108021
+
+137425
+
+115203
+
+120457
+
+111380
+
+--
+
+146142
+
+86466
+
+99365
+
+--
+
+105455
+
+217733
+
+233180.5
+
+--
+
+--
+
+--
+
+--
+
+194570
+
+95372.75
+
+--
+
+--
+
+232431
+
+162546
+
+--
+
+--
+
+91326
+
+81652
+
+--
+
+--
+
+88279
+
+169443
+
+155917
+
+239419
+
+155581
+
+129898
+
+86377
+
+86319
+
+98289
+
+90748
+
+122526
+
+--
+
+--
+
+--
+
+--
+
+128930
+
+241357
+
+232554
+
+--
+
+173397
+
+--
+
+--
+
+--
+
+--
+
+162623
+
+--
+
+--
+
+--
+
+Course Name
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+College: (E031)B V V Sangha`s Basaveshwara Engineering College , Bagalkote (AUTONOMOUS) NIJALINGAPPA ROAD,BAGALKOT 587102
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INDUSTRIAL &
+PRODUCTION
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+1K
+
+142141
+
+25042
+
+75622
+
+30150
+
+--
+
+--
+
+--
+
+--
+
+179285
+
+197131
+
+174441
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+53277
+
+28889
+
+183415
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+131271
+
+148072
+
+153971
+
+145472
+
+27823
+
+22246
+
+24117
+
+27774
+
+--
+
+--
+
+--
+
+--
+
+124691
+
+21829
+
+110997
+
+19827.5
+
+22107
+
+58425
+
+68030
+
+137659
+
+143895
+
+54831
+
+61933
+
+52880
+
+30302
+
+36342
+
+205627
+
+185631
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+29738
+
+51898
+
+198288
+
+161907
+
+--
+
+--
+
+--
+
+--
+
+--
+
+26392
+
+140155
+
+133947
+
+177822
+
+179073
+
+190965
+
+177469
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+131731
+
+98226
+
+112182
+
+115486
+
+159751
+
+172388
+
+176405
+
+163485
+
+--
+
+--
+
+--
+
+--
+
+19463
+
+20304
+
+21059
+
+55301
+
+59490
+
+56895
+
+50105
+
+47837
+
+50752
+
+55981
+
+134933
+
+24689
+
+25225
+
+27570
+
+98592
+
+138687
+
+--
+
+177712
+
+194841
+
+--
+
+--
+
+--
+
+135493
+
+129486
+
+141838
+
+80355
+
+--
+
+224713
+
+162905
+
+129106
+
+149018
+
+157510
+
+236283
+
+248247
+
+261347
+
+226583
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+178069
+
+54557
+
+--
+
+104380
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+87089
+
+94908
+
+166956
+
+--
+
+3BG
+
+62732
+
+82394
+
+159293
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BK
+
+--
+
+--
+
+--
+
+--
+
+3BK
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 12 of 
+
+962AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+College: (E033)Sri Taralabalu Jagadguru Institute of Technology, Ranebennur P B ROAD (NH4),RANEBENNUR-581 115,HAVERI DISTRICT
+
+1G
+
+1K
+
+1R
+
+2AG
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+TEXTILES
+TECHNOLOGY
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CHEMICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+College: (E032)R.T.E. Soceity's Rural Engineering College, Hulkoti HULKOTI -582 205,GADAG
+
+1G
+
+--
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+83944
+
+168315
+
+100163
+
+109799
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+96739
+
+92407
+
+157394
+
+92293
+
+107742
+
+108640
+
+110213
+
+113344
+
+195130
+
+186404
+
+--
+
+--
+
+--
+
+--
+
+--
+
+200909
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+105578
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+87225
+
+106406
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+216653
+
+76051
+
+--
+
+--
+
+110111
+
+221796
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+214981
+
+188120
+
+2AK
+
+--
+
+2AR
+
+--
+
+89659
+
+93767
+
+89979
+
+88215
+
+138469
+
+122977
+
+120942
+
+197316
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+115515
+
+148356
+
+113028
+
+--
+
+--
+
+1G
+
+22346
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+16671
+
+--
+
+132066
+
+15050
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+58124
+
+86386.5
+
+41487.5
+
+61063
+
+49780
+
+29933
+
+2BG
+
+19660
+
+--
+
+--
+
+--
+
+102008
+
+79373
+
+--
+
+--
+
+--
+
+15000
+
+17231
+
+18979
+
+16731
+
+--
+
+--
+
+--
+
+--
+
+55905
+
+24288
+
+26590
+
+19953
+
+19725
+
+19213
+
+18747
+
+97578
+
+124621
+
+126771
+
+77834
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+18635
+
+15720
+
+108276
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+225434
+
+89967
+
+182903
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+113276
+
+109881
+
+--
+
+3AG
+
+16528
+
+--
+
+98419
+
+15800
+
+122943
+
+43885
+
+--
+
+--
+
+--
+
+18340
+
+17694
+
+114827
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AR
+
+--
+
+3BG
+
+70242
+
+162749
+
+167394
+
+--
+
+--
+
+--
+
+--
+
+89219
+
+103235
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+200347
+
+68783
+
+--
+
+113390
+
+103871
+
+--
+
+--
+
+109786
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+125020
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+77200
+
+13318
+
+30043
+
+17378
+
+15237
+
+75157
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+GM
+
+57457
+
+157150
+
+--
+
+--
+
+76441
+
+111083
+
+--
+
+202560
+
+--
+
+--
+
+--
+
+--
+
+100106
+
+--
+
+91397
+
+83431
+
+86100
+
+88993
+
+142811
+
+171209.5
+
+144041
+
+146650
+
+--
+
+--
+
+--
+
+103029
+
+--
+
+105201
+
+196575
+
+174717
+
+235532
+
+177379
+
+216290
+
+184802
+
+200578
+
+184985
+
+225173
+
+--
+
+--
+
+--
+
+223164
+
+158616
+
+--
+
+--
+
+--
+
+244855
+
+179187
+
+214866
+
+187474
+
+208811
+
+237824
+
+211884
+
+220910
+
+65884
+
+106907
+
+--
+
+--
+
+71940.5
+
+135349
+
+131376
+
+208226
+
+105313
+
+102958
+
+103371
+
+104636
+
+170011
+
+--
+
+--
+
+109468
+
+--
+
+112586
+
+242017
+
+191717
+
+220792
+
+225581
+
+234907
+
+--
+
+--
+
+--
+
+--
+
+--
+
+139163
+
+102188
+
+--
+
+--
+
+147579
+
+171561
+
+247566
+
+201311.5
+
+--
+
+254361
+
+GMR
+
+16165
+
+SCG
+
+55851
+
+45963
+
+118556
+
+--
+
+--
+
+44228
+
+73858
+
+80928
+
+95039
+
+114348.5
+
+13118
+
+15585
+
+15763
+
+49052
+
+28693
+
+--
+
+30888
+
+114230.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+61472
+
+47194
+
+--
+
+123241
+
+--
+
+--
+
+135026
+
+127957
+
+227658
+
+64587
+
+46989
+
+--
+
+104769
+
+20563
+
+16937
+
+18003
+
+19230
+
+74483
+
+81147
+
+83976
+
+66102
+
+--
+
+--
+
+15093
+
+16007.5
+
+16924
+
+55881
+
+--
+
+105870
+
+73396
+
+74979.5
+
+82861
+
+105911
+
+154459
+
+224680
+
+224409
+
+143436
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+179822
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+227446
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+61901
+
+--
+
+75302
+
+--
+
+143931
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E034)SDM College of Engineering, Dharwad (AUTONOMOUS) DHAVALAGIRI,KALGHATGI ROAD,DHARWAD
+
+2AK
+
+2AR
+
+2BK
+
+2BR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+3AR
+
+--
+
+15575
+
+16147
+
+17044
+
+14407
+
+Generated on: 25-07-2025 18:10:25
+
+Page 13 of 
+
+96College: (E035)Anjuman Institute of Technology & Management, Bhatkal ANJUMANABAD,BHATKAL,(U K DIST), PIN 581320
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+1G
+
+223516
+
+138496
+
+1K
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+2AG
+
+2AK
+
+261381
+
+151668
+
+--
+
+--
+
+2AR
+
+--
+
+2BG
+
+--
+
+162476
+
+117424.5
+
+107368
+
+146665.5
+
+--
+
+131987
+
+--
+
+140941
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+117175
+
+--
+
+119417
+
+101565
+
+195208
+
+154637
+
+168995
+
+--
+
+--
+
+--
+
+--
+
+188866
+
+129505
+
+237740
+
+145167
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+128432
+
+--
+
+149119
+
+122445
+
+--
+
+--
+
+184975
+
+145855
+
+2BK
+
+2BR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+--
+
+140769
+
+139855
+
+147357
+
+--
+
+145512
+
+--
+
+137229
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+--
+
+133914
+
+108297
+
+130995
+
+--
+
+120004
+
+--
+
+129433
+
+College: (E036)K L E Technological Univeristy, Belgaum Campus (Formerly KLE Dr M.S.Sheshagiri College of Engineering and Technology) UDYAMBAGH,BELGAUM
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+--
+
+--
+
+200005
+
+--
+
+234177
+
+205151
+
+112780
+
+147500
+
+133019
+
+241476
+
+--
+
+--
+
+SCR
+
+--
+
+STG
+
+--
+
+246621
+
+246470
+
+116206
+
+100707
+
+103687
+
+113372
+
+176577
+
+195143
+
+179081
+
+180449
+
+--
+
+--
+
+--
+
+--
+
+--
+
+127599
+
+--
+
+128619
+
+257292
+
+153068
+
+160545
+
+171897
+
+225672
+
+116098
+
+127297
+
+116722
+
+223825
+
+189559
+
+126953
+
+--
+
+--
+
+--
+
+--
+
+136096
+
+247251.5
+
+Course Name
+
+BIO-MEDICAL
+ENGINEERING
+
+CHEMICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG (ARTIFICIAL
+INTELLIGENCE)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+1G
+
+--
+
+--
+
+142622
+
+26943
+
+23702
+
+51337.5
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+27575
+
+80290
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+2AG
+
+2AK
+
+2AR
+
+42171
+
+66286
+
+104184
+
+62345
+
+--
+
+--
+
+--
+
+118482
+
+23583
+
+2BG
+
+--
+
+83185
+
+--
+
+--
+
+168803
+
+--
+
+2BK
+
+2BR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+--
+
+119633
+
+--
+
+--
+
+23850
+
+29126
+
+44681
+
+25115
+
+3BK
+
+3BR
+
+GM
+
+39268
+
+GMK
+
+--
+
+GMR
+
+41744
+
+SCG
+
+74067
+
+55308
+
+64605
+
+64678
+
+125374
+
+84088
+
+103679
+
+122687
+
+120383
+
+20742
+
+--
+
+21574
+
+62999
+
+--
+
+--
+
+--
+
+--
+
+23313
+
+23443
+
+23724
+
+25250
+
+44934
+
+27607
+
+91410
+
+--
+
+--
+
+--
+
+49703
+
+--
+
+27834
+
+30949
+
+--
+
+91034
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22526
+
+49991
+
+27736
+
+95175
+
+20114
+
+18233
+
+18305
+
+20112
+
+62677
+
+65135
+
+85007
+
+60400
+
+--
+
+--
+
+30070
+
+41824
+
+36100
+
+133443
+
+--
+
+134285
+
+108753
+
+22697
+
+23142
+
+26230
+
+85432
+
+97401
+
+107878
+
+77676
+
+98425
+
+71895
+
+--
+
+90338
+
+152031
+
+--
+
+160053
+
+171202
+
+3AK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AR
+
+--
+
+3BG
+
+--
+
+140790
+
+57537
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+91051
+
+20959
+
+18983
+
+30965
+
+22751
+
+73161
+
+243312
+
+--
+
+239145
+
+--
+
+199043
+
+STG
+
+66125
+
+166829
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+SCK
+
+SCR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+173798
+
+129091
+
+--
+
+54196
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+187322
+
+--
+
+--
+
+--
+
+--
+
+--
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+62763
+
+--
+
+103673
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 14 of 
+
+96Course Name
+
+AERONAUTICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMMUNICATION
+DESIGN
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+FASHION DESIGN
+
+INDUSTRIAL
+DESIGN
+
+LIFE STYLE AND
+ACCESSORY
+DESIGN
+
+MECHANICAL
+ENGINEERING
+
+College: (E037)K.L.S. Gogte Institute of Technology, Belgaum.(AUTONOMOUS) "JNANA GANGA", UDYAMBAG,BELGAUM
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+1G
+
+40819
+
+132296
+
+1K
+
+--
+
+--
+
+--
+
+240359
+
+14627.5
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+38693
+
+97000
+
+91707
+
+15496
+
+--
+
+--
+
+--
+
+--
+
+42386
+
+42229.5
+
+120278
+
+81302
+
+--
+
+91294
+
+--
+
+--
+
+--
+
+16259
+
+17558
+
+23207
+
+3BG
+
+31587
+
+81678.75
+
+--
+
+13462
+
+GM
+
+30063
+
+GMK
+
+46343
+
+GMR
+
+34200
+
+SCG
+
+97722
+
+SCK
+
+--
+
+SCR
+
+STG
+
+STK
+
+125163
+
+48822
+
+72051
+
+83977
+
+119242
+
+134122
+
+195439
+
+135211
+
+132862
+
+76128
+
+13328
+
+--
+
+--
+
+90356
+
+249539
+
+13648
+
+49756
+
+--
+
+--
+
+--
+
+--
+
+53126
+
+35481
+
+14600
+
+49514
+
+23304
+
+--
+
+--
+
+--
+
+106760
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+18520
+
+14508.5
+
+17004
+
+16995
+
+19589.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+36317
+
+--
+
+41735
+
+46063
+
+21468
+
+22348.5
+
+24704
+
+26137
+
+122042
+
+169041
+
+185173
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+89737
+
+90081
+
+106043
+
+117967.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+19279
+
+13164
+
+16431
+
+12609
+
+13678
+
+15784
+
+50416.5
+
+54471
+
+67621
+
+50852
+
+55693
+
+60024
+
+28642
+
+17825
+
+--
+
+28373
+
+35388
+
+30324
+
+77633
+
+--
+
+114131
+
+113061
+
+21353
+
+17435
+
+17657
+
+21019
+
+71731
+
+77319
+
+92824
+
+72754
+
+81056
+
+138769
+
+--
+
+130674
+
+69674
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+74829.5
+
+108397
+
+98388
+
+--
+
+--
+
+--
+
+118848
+
+209010
+
+109214
+
+260422
+
+123203
+
+236044
+
+86758
+
+64896
+
+73074
+
+79378
+
+129836
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+228054
+
+--
+
+226365
+
+140500
+
+122558
+
+College: (E038)BLDEA's VP. Dr.P.G. Hallakatti College of Engineering & Technology, Bijapur ASHRAM ROAD,BIJAPUR - 586103
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+157286
+
+1K
+
+--
+
+52488
+
+56328
+
+48813
+
+77697.5
+
+75105
+
+62796
+
+54687.5
+
+152655
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+140659
+
+50829
+
+--
+
+--
+
+154454
+
+109282
+
+60174
+
+43169.5
+
+43730
+
+45408
+
+44474
+
+36027
+
+57810
+
+--
+
+--
+
+57520
+
+--
+
+64603
+
+203427.5
+
+58807
+
+--
+
+159007
+
+--
+
+--
+
+--
+
+66635
+
+62929
+
+62885
+
+63831
+
+110230
+
+160494
+
+126484
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+222870
+
+156323
+
+--
+
+51507
+
+--
+
+58140.5
+
+87586
+
+62424
+
+--
+
+--
+
+--
+
+--
+
+120335
+
+53073
+
+56549
+
+125851.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+138848
+
+42373
+
+60784
+
+35128
+
+73202
+
+57290
+
+--
+
+--
+
+107568
+
+120212
+
+132569
+
+170068
+
+41053
+
+--
+
+50210
+
+91536
+
+--
+
+--
+
+184747
+
+222596
+
+114841
+
+64575
+
+46420
+
+33609
+
+35525
+
+42590
+
+74513
+
+81427
+
+99882
+
+91669.5
+
+52506
+
+58391
+
+61529
+
+111161
+
+213606
+
+--
+
+118875.5
+
+57346
+
+57575
+
+61133
+
+51149
+
+53913
+
+59661
+
+126804
+
+53719
+
+141660
+
+--
+
+--
+
+--
+
+--
+
+52821
+
+124261
+
+--
+
+--
+
+58561
+
+111037.5
+
+140333
+
+168855
+
+--
+
+--
+
+--
+
+--
+
+174084
+
+207671
+
+150018
+
+180227
+
+--
+
+102055
+
+176190
+
+217717
+
+215451
+
+87997
+
+94595
+
+111140
+
+74105
+
+75290
+
+73876
+
+75877
+
+90085
+
+159146
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+40977
+
+99146
+
+--
+
+17302
+
+17108
+
+33359
+
+21419
+
+--
+
+159589
+
+--
+
+91862
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+STR
+
+--
+
+159998
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+78525
+
+--
+
+--
+
+--
+
+142904
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+117527
+
+--
+
+--
+
+185818
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 15 of 
+
+961R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+GM
+
+60752
+
+GMK
+
+62851
+
+63964
+
+138558
+
+143346.5
+
+118647
+
+105443
+
+--
+
+124483
+
+223124
+
+College: (E040)Hira Sugar Institute of Technology, Nidasoshi NIDAOSHI,TALUKA: HUKERI,DISTRICT: BELGAUM
+
+Course Name
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+66768
+
+1K
+
+--
+
+137538
+
+97724
+
+214095
+
+--
+
+--
+
+--
+
+89633
+
+77707
+
+78999
+
+88612
+
+72453
+
+--
+
+--
+
+--
+
+138765
+
+98290
+
+236984
+
+--
+
+--
+
+--
+
+--
+
+--
+
+78730
+
+85395
+
+--
+
+--
+
+--
+
+129187
+
+121470
+
+162989
+
+--
+
+--
+
+--
+
+--
+
+99144
+
+82946
+
+90118
+
+--
+
+--
+
+--
+
+College: (E041)P D A College of Engineering, Gulbarga(AUTONOMOUS) AIWAN-E-SHAHI AREA,STATION ROAD,GULBARGA-585102
+
+Course Name
+
+1G
+
+1K
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+CIVIL
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INDUSTRIAL &
+PRODUCTION
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+142684
+
+--
+
+--
+
+237611
+
+226874
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+141487
+
+82022
+
+--
+
+--
+
+53610
+
+60976
+
+159470
+
+198441
+
+--
+
+--
+
+144014
+
+106708
+
+--
+
+--
+
+--
+
+--
+
+60759
+
+--
+
+254946
+
+141069
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+143519
+
+125577
+
+--
+
+--
+
+165668
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E042)Khaja Bandanawaz University KBN University Street, Khaja Colony, Kalaburagi, Karnataka 585104
+
+--
+
+--
+
+--
+
+--
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+1G
+
+1K
+
+1R
+
+AERONAUTICAL
+ENGINEERING
+
+81087.5
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+--
+
+--
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+109692.5
+
+MECHANICAL
+ENGINEERING
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+--
+
+226028
+
+84320
+
+--
+
+--
+
+--
+
+167031
+
+--
+
+--
+
+249584
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+93236
+
+76116
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+253496
+
+--
+
+--
+
+--
+
+--
+
+--
+
+127459
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+64269
+
+107848
+
+82101
+
+191582
+
+42128
+
+--
+
+156817
+
+3BG
+
+--
+
+186161
+
+--
+
+--
+
+244875
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+87878
+
+80183
+
+81251
+
+86709
+
+196690
+
+--
+
+151968
+
+174139
+
+182782
+
+257499
+
+--
+
+--
+
+--
+
+--
+
+174513
+
+164681
+
+229368
+
+233584
+
+197326
+
+227575
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+167808
+
+150905
+
+--
+
+--
+
+--
+
+106999
+
+99686
+
+229594
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+185378
+
+--
+
+--
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+130012
+
+88504
+
+107066
+
+129501
+
+119541
+
+151759
+
+--
+
+56272
+
+40364
+
+--
+
+--
+
+--
+
+75578
+
+87311
+
+43807
+
+74063
+
+127254
+
+215253
+
+149139
+
+126332
+
+--
+
+131213
+
+161593
+
+176622
+
+180717
+
+220794
+
+246663
+
+191139
+
+3BK
+
+3BR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+GM
+
+64237
+
+--
+
+--
+
+--
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+167801
+
+202136
+
+168123
+
+218371
+
+50488
+
+83385
+
+158444
+
+--
+
+--
+
+--
+
+74822
+
+106562
+
+--
+
+--
+
+227865
+
+247317
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+137097
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 16 of 
+
+96126931
+
+--
+
+--
+
+116449
+
+--
+
+--
+
+99586
+
+118317
+
+--
+
+156853
+
+--
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+College: (E043)Gurunanak Dev Engineering College, Bidar MAILOOR ROAD,BIDAR 585403
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGG(INTERNET
+OF THINGS &
+CYBER SECURITY
+INCLUDING BLOCK
+CHAIN TECH)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+--
+
+--
+
+--
+
+1K
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+55393
+
+90852
+
+189861
+
+100635
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+96507
+
+--
+
+143662
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+84957
+
+--
+
+148184
+
+99056
+
+134691
+
+204886
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+122365
+
+66413
+
+--
+
+--
+
+--
+
+--
+
+228633
+
+95837
+
+--
+
+126439
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+92010
+
+--
+
+--
+
+--
+
+--
+
+159542
+
+--
+
+122991
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+--
+
+194395
+
+--
+
+--
+
+44307
+
+--
+
+--
+
+101698
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+142020
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E044)Bheemanna Khandre Institute of Technology, Bhalki BHALKI-HUMNABAD ROAD,BHALKI- 585328,DIST. BIDAR
+
+Course Name
+
+CHEMICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+1K
+
+1R
+
+--
+
+--
+
+--
+
+100567
+
+--
+
+146363
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2BG
+
+--
+
+188338
+
+--
+
+--
+
+97998
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+--
+
+159672
+
+105510
+
+80935
+
+119187
+
+103386
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+146947
+
+--
+
+--
+
+--
+
+--
+
+--
+
+123038
+
+125895
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+114217
+
+--
+
+130113
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+51430
+
+78890
+
+--
+
+--
+
+95033
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+GM
+
+44529
+
+150510
+
+GMK
+
+--
+
+--
+
+--
+
+GMR
+
+59668
+
+SCG
+
+83424
+
+154390
+
+178320
+
+--
+
+124324
+
+--
+
+--
+
+--
+
+92221
+
+67002
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+140531
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+123787
+
+122369
+
+62586
+
+86318
+
+--
+
+--
+
+--
+
+--
+
+214863
+
+128034
+
+--
+
+--
+
+120755
+
+220000
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+SCR
+
+STG
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+228594.5
+
+42143
+
+76170
+
+101543
+
+--
+
+--
+
+--
+
+61037
+
+106994
+
+92963
+
+101580
+
+--
+
+--
+
+148783
+
+132351
+
+180452
+
+97402
+
+118318
+
+120975
+
+127455
+
+98478
+
+162170
+
+--
+
+--
+
+--
+
+--
+
+146919
+
+187358
+
+--
+
+--
+
+--
+
+SCK
+
+--
+
+GM
+
+57244
+
+149541
+
+33034
+
+--
+
+--
+
+--
+
+66386
+
+161996
+
+--
+
+188577
+
+236871
+
+49080
+
+88777.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+100436
+
+--
+
+64125
+
+80815
+
+81741
+
+91870
+
+92829
+
+91437
+
+--
+
+--
+
+--
+
+89793
+
+80614
+
+140541
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+148744
+
+136929
+
+82105
+
+150032.5
+
+--
+
+195461
+
+--
+
+--
+
+--
+
+--
+
+--
+
+131352
+
+78530
+
+--
+
+--
+
+--
+
+106866
+
+166936
+
+135039
+
+--
+
+--
+
+2AK
+
+2AR
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+Generated on: 25-07-2025 18:10:25
+
+Page 17 of 
+
+962AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+119849
+
+76433
+
+--
+
+--
+
+206827
+
+142254
+
+SCK
+
+--
+
+SCR
+
+241987
+
+STG
+
+--
+
+91245
+
+145249
+
+242830
+
+--
+
+105176
+
+College: (E045)Rao Bahadur Y.Mahabaleswarappa Engineering College, Bellary CONTONMENT, BELLARY-583104
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+(CYBER SECURITY)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+--
+
+--
+
+1K
+
+--
+
+--
+
+82755
+
+--
+
+107094
+
+139691
+
+--
+
+--
+
+252292
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+211931
+
+102935
+
+68378
+
+104958
+
+153415
+
+108196
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+92352
+
+64992
+
+--
+
+--
+
+--
+
+--
+
+108141
+
+--
+
+143423
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+196369
+
+89267.5
+
+--
+
+81066
+
+193190
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+121080
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+135739
+
+121805
+
+128885
+
+127871
+
+226639
+
+--
+
+--
+
+130925
+
+--
+
+College: (E046)H K E's Society's Sir M Visvesvaraya College of Engineering, Raichur YERAMARUS CAMP,RAICHUR-584 135,
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+--
+
+--
+
+1K
+
+--
+
+--
+
+145061
+
+156251
+
+--
+
+--
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+233300
+
+89209
+
+130703
+
+236381
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+236385
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+--
+
+83005
+
+64731
+
+--
+
+--
+
+--
+
+107366
+
+99814
+
+213572
+
+3BG
+
+--
+
+67763
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+62502
+
+71224.5
+
+83221
+
+120290
+
+84167
+
+95216
+
+--
+
+--
+
+--
+
+--
+
+123127
+
+141754
+
+125532
+
+130362
+
+139071
+
+150315
+
+129586
+
+96882
+
+--
+
+117438
+
+177892
+
+--
+
+--
+
+96659
+
+104379
+
+107788
+
+199479
+
+208470
+
+--
+
+227822
+
+258310
+
+STK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+STR
+
+--
+
+166272
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+144970
+
+93039
+
+--
+
+--
+
+124711
+
+--
+
+198143
+
+169657
+
+133086
+
+134317
+
+219713
+
+--
+
+--
+
+--
+
+SCR
+
+--
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+176548
+
+56703
+
+121437
+
+227922
+
+--
+
+--
+
+--
+
+--
+
+--
+
+219268
+
+81840
+
+121261
+
+124350
+
+202455
+
+241666
+
+237158
+
+--
+
+--
+
+--
+
+--
+
+STG
+
+STK
+
+STR
+
+216863
+
+151143
+
+82327
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 18 of 
+
+96College: (E047)Malnad College of Engineering, Hassan(AUTONOMOUS) P.B. NO. 21, SALAGAME ROAD,HASSSAN
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+BUSINESS
+SYSTEMS
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS
+ENGINEERING(VLSI
+DESIGN &
+TECHNOLOGY)
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+1G
+
+--
+
+47142
+
+--
+
+41819
+
+66494
+
+109295
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+48206
+
+121550
+
+48649
+
+--
+
+2AG
+
+2AK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+STG
+
+STK
+
+STR
+
+1R
+
+--
+
+--
+
+161305
+
+50528
+
+57730
+
+34007
+
+--
+
+--
+
+--
+
+2AR
+
+--
+
+2BG
+
+--
+
+2BK
+
+--
+
+51574
+
+41439.5
+
+143082
+
+--
+
+35125
+
+--
+
+--
+
+--
+
+--
+
+129072
+
+39550
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+150331
+
+44862
+
+29768
+
+--
+
+--
+
+--
+
+201769
+
+127083
+
+156943
+
+132471
+
+192394
+
+197179
+
+190637
+
+SCR
+
+--
+
+--
+
+39086
+
+--
+
+42970
+
+116639
+
+--
+
+136989
+
+154957
+
+36974
+
+28402
+
+34835
+
+29948
+
+81269
+
+129006
+
+--
+
+76094
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+43512
+
+39878
+
+40693
+
+47263
+
+38845
+
+--
+
+--
+
+--
+
+--
+
+82735
+
+89615
+
+50188
+
+--
+
+--
+
+--
+
+54573
+
+68003
+
+87331.5
+
+85068
+
+100468
+
+82887
+
+--
+
+--
+
+49308
+
+48169
+
+--
+
+--
+
+--
+
+--
+
+--
+
+46487
+
+32479
+
+--
+
+32644
+
+33381
+
+38771
+
+35114
+
+30290
+
+37210
+
+32447
+
+83016
+
+95783
+
+102925
+
+84518
+
+101723
+
+103872
+
+--
+
+92280
+
+--
+
+--
+
+--
+
+65771
+
+35401
+
+67379
+
+44276
+
+--
+
+--
+
+--
+
+70422
+
+70124
+
+38279
+
+45536
+
+41291
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+60051
+
+--
+
+70767
+
+109472
+
+64131
+
+111658
+
+79304
+
+229688.5
+
+34994
+
+41146
+
+--
+
+--
+
+38223
+
+99749
+
+41398
+
+115367.5
+
+--
+
+--
+
+--
+
+--
+
+166138
+
+153632
+
+245259
+
+209451
+
+137528
+
+88056
+
+--
+
+98137
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+123904
+
+--
+
+--
+
+--
+
+--
+
+College: (E048)B M S College of Engineering, Basavanagudi, Bangalore (AUTONOMOUS) POST BOX NO 1908, BULL TEMPLE ROAD,BANGALORE
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+DATA SCIENCE
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+BIO-TECHNOLOGY
+
+CHEMICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+BUSINESS
+SYSTEMS
+
+COMPUTER
+SCIENCE AND
+ENGG(INTERNET
+OF THINGS &
+CYBER SECURITY
+INCLUDING BLOCK
+CHAIN TECH)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+4271
+
+5414
+
+24306
+
+18841
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+31865
+
+38810
+
+5532
+
+5541
+
+--
+
+--
+
+1R
+
+--
+
+2AG
+
+4950
+
+2AK
+
+--
+
+2AR
+
+--
+
+2BG
+
+6332
+
+8027
+
+5645
+
+8803
+
+6925.5
+
+8485
+
+--
+
+--
+
+--
+
+--
+
+--
+
+22865
+
+32867.5
+
+40875
+
+6220
+
+--
+
+--
+
+--
+
+--
+
+32519
+
+38764
+
+24425
+
+40969
+
+--
+
+40830
+
+10861
+
+11786
+
+5717
+
+11506
+
+7084
+
+8582
+
+2BK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2BR
+
+--
+
+3AG
+
+3256
+
+8642.5
+
+3957
+
+--
+
+--
+
+--
+
+--
+
+--
+
+17079
+
+21816
+
+--
+
+4198
+
+4080.5
+
+3AK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AR
+
+5308
+
+3BG
+
+3492
+
+3BK
+
+--
+
+3BR
+
+4968
+
+GM
+
+2303
+
+GMK
+
+7908
+
+GMR
+
+4602
+
+SCG
+
+SCK
+
+16357
+
+21658
+
+SCR
+
+--
+
+STG
+
+16320
+
+STK
+
+--
+
+STR
+
+--
+
+4913
+
+3986
+
+8330
+
+4903
+
+2750
+
+8328
+
+4880
+
+23300
+
+39128
+
+33354
+
+25748
+
+29435
+
+26534
+
+--
+
+--
+
+--
+
+--
+
+--
+
+13865.5
+
+17454
+
+33805
+
+4331.5
+
+4077
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+9212
+
+40249
+
+29493
+
+40094
+
+14662
+
+31109
+
+17959.25
+
+72745
+
+49723
+
+28607
+
+--
+
+35935
+
+59524.5
+
+--
+
+--
+
+2888
+
+12282
+
+5620
+
+25208
+
+2666
+
+--
+
+6242
+
+24767
+
+--
+
+--
+
+--
+
+--
+
+--
+
+90102
+
+95472
+
+40781
+
+56440
+
+--
+
+47977
+
+53334
+
+33431
+
+37882.5
+
+27099
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+101094.5
+
+--
+
+--
+
+4763
+
+7102
+
+7452
+
+4876
+
+9000
+
+6274
+
+8079
+
+35554
+
+12111
+
+3644
+
+8306
+
+4191
+
+3472
+
+7599
+
+4691
+
+2181
+
+7051
+
+4005
+
+21190
+
+28664
+
+30142
+
+23535
+
+28844
+
+29447
+
+5084
+
+6538
+
+--
+
+--
+
+--
+
+--
+
+--
+
+4907
+
+8682
+
+--
+
+--
+
+--
+
+--
+
+3998
+
+--
+
+--
+
+3512
+
+13131
+
+7096
+
+14155
+
+8294
+
+13686
+
+43162
+
+25961
+
+5223
+
+14460
+
+7972
+
+5030.5
+
+57048
+
+28175
+
+--
+
+--
+
+30635
+
+--
+
+--
+
+--
+
+--
+
+--
+
+19934
+
+--
+
+--
+
+--
+
+--
+
+2434
+
+--
+
+4375
+
+21768
+
+--
+
+--
+
+26976
+
+8730
+
+3140
+
+11328
+
+7681
+
+33715
+
+49995
+
+50744.5
+
+35138.5
+
+--
+
+8585
+
+49988
+
+21879
+
+79462
+
+152308
+
+--
+
+83371
+
+--
+
+--
+
+--
+
+30143
+
+38850
+
+83422
+
+Generated on: 25-07-2025 18:10:25
+
+Page 19 of 
+
+962AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3BK
+
+3BR
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+--
+
+--
+
+89454
+
+--
+
+--
+
+--
+
+--
+
+--
+
+GM
+
+29557
+
+GMK
+
+32663
+
+GMR
+
+32040
+
+SCG
+
+87343
+
+99410
+
+56282
+
+100050
+
+--
+
+--
+
+--
+
+162383
+
+231452
+
+65178.5
+
+109728
+
+121893
+
+146770
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+87461
+
+75383
+
+--
+
+--
+
+--
+
+212700
+
+128089
+
+180472
+
+29652
+
+24701
+
+27537
+
+26360
+
+76528
+
+92043
+
+99147
+
+79814
+
+--
+
+--
+
+51256
+
+--
+
+56517
+
+166434
+
+33429
+
+34018
+
+34275
+
+99868
+
+--
+
+--
+
+--
+
+198260
+
+115995
+
+93505
+
+46317
+
+36517
+
+44448
+
+44625
+
+157009
+
+160113
+
+171764
+
+118539
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+95411
+
+--
+
+--
+
+171431
+
+College: (E049)B V V Sangha`s Basaveshwara Engineering College , Bagalkote (AUTONOMOUS) NIJALINGAPPA ROAD,BAGALKOT 587102
+
+32639
+
+33091
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+AUTOMOBILE
+ENGINEERING
+
+BIO-TECHNOLOGY
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS &
+COMPUTER
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+1G
+
+31649
+
+1K
+
+--
+
+--
+
+--
+
+111793
+
+25443
+
+56627
+
+36149
+
+51454
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+216611
+
+141826
+
+153608
+
+65327
+
+31160.5
+
+57261.5
+
+36918
+
+College: (E054)K V G College of Engineering, Sullia KURUNJIBHAG,
+
+SULLIA TALUK,DAKSHINA KANNADA - 574327
+
+--
+
+--
+
+--
+
+--
+
+40601.5
+
+--
+
+--
+
+--
+
+33040
+
+37562
+
+66901
+
+51947
+
+37075
+
+41693
+
+43178.5
+
+49337
+
+51758
+
+51859
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+1G
+
+177191
+
+119527
+
+112542
+
+139898
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+1G
+
+73155
+
+BIO-TECHNOLOGY
+
+127975
+
+--
+
+1K
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+2AG
+
+88949
+
+66424
+
+247746
+
+124616
+
+217453
+
+148158
+
+118890
+
+--
+
+--
+
+--
+
+--
+
+96952
+
+64037.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+99620
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(INTERNET
+OF THINGS &
+CYBER SECURITY
+INCLUDING BLOCK
+CHAIN TECH)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+--
+
+90989
+
+137022
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+97760
+
+100813
+
+107845
+
+82225
+
+121740
+
+212254
+
+--
+
+--
+
+121816
+
+112083
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+73515
+
+60606
+
+3AG
+
+30903
+
+--
+
+--
+
+24727
+
+64296
+
+38018
+
+41145
+
+3AG
+
+--
+
+117117
+
+105548
+
+126414
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+74448.5
+
+--
+
+--
+
+115318
+
+81630
+
+110862
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+32710
+
+114675
+
+--
+
+--
+
+26142
+
+57164
+
+33600
+
+38191
+
+3BG
+
+--
+
+113929
+
+3BG
+
+62798
+
+--
+
+--
+
+126871
+
+88362
+
+104214
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+2AG
+
+2AK
+
+200154
+
+140513
+
+127341
+
+2AR
+
+--
+
+2BG
+
+--
+
+129372
+
+122377
+
+2BK
+
+2BR
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+--
+
+--
+
+175262
+
+241008
+
+185443
+
+243095
+
+106124
+
+107757
+
+116306.5
+
+183058
+
+--
+
+--
+
+SCR
+
+--
+
+STG
+
+255251
+
+STK
+
+--
+
+STR
+
+--
+
+222851
+
+190781
+
+209188
+
+256450
+
+--
+
+--
+
+114230
+
+116213
+
+116655
+
+115843
+
+--
+
+126946
+
+--
+
+--
+
+123293
+
+137765
+
+--
+
+103635
+
+131420
+
+119354
+
+106950
+
+99154
+
+99235
+
+100872
+
+181070
+
+183175
+
+194542
+
+173001
+
+--
+
+115751
+
+--
+
+118447
+
+186558
+
+--
+
+229557
+
+190838
+
+--
+
+--
+
+256252
+
+--
+
+College: (E055)P A College of Engineering, Kairangal, Bantwala Tq,. Mangalore NADUPADAV, NEAR MANGALORE UNIVERSITY,MONTEPADAV POST, KAIRANGALA VILLAGE,BANTWAL-MANGALORE
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+GM
+
+57405
+
+176118
+
+--
+
+--
+
+--
+
+138242
+
+97741
+
+--
+
+67185
+
+116566.5
+
+118527
+
+170729
+
+87847
+
+58067
+
+67606
+
+60146
+
+141237
+
+--
+
+--
+
+242672
+
+223587
+
+101831
+
+214571
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+150410
+
+259210
+
+248395
+
+--
+
+--
+
+--
+
+81431
+
+91415
+
+89424
+
+155496
+
+201522
+
+223172
+
+186356
+
+101418
+
+112800
+
+103515
+
+209606
+
+153756
+
+--
+
+165830
+
+233134
+
+--
+
+--
+
+235745
+
+200345
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+233115
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 20 of 
+
+96College: (E056)The National Institute of Engineering(SOUTH CAMPUS), Mysore(AUTONOMOUS) MANANDAVADI ROAD,MYSORE 570008
+
+College: (E057)JSS Science and Technology University JSS TECHNICAL INSTITUTIONS CAMPUS, MANASAGANGOTHRI, MYSURU 570006
+
+Course Name
+
+1G
+
+1K
+
+1R
+
+BIO-TECHNOLOGY
+
+38621
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+90667
+
+31948
+
+18678
+
+68971
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+BUSINESS
+SYSTEMS
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+TECHNOLOGY(EXC
+LUSIVELY FOR
+DIFFERENTLY
+ABLED)
+
+CONSTRUCTION
+TECHNOLOGY AND
+MGMT
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+104767
+
+12745
+
+--
+
+--
+
+--
+
+--
+
+18265
+
+8700
+
+--
+
+214464.7
+5
+
+--
+
+9760
+
+60647
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AR
+
+2BG
+
+2BK
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+2AG
+
+74225
+
+2AK
+
+--
+
+118493
+
+96474
+
+35807.5
+
+51063
+
+38930.5
+
+39985
+
+2BR
+
+--
+
+3AG
+
+73547
+
+60707
+
+22938
+
+GM
+
+68840
+
+--
+
+90066
+
+103262
+
+21251
+
+45276
+
+27034
+
+64926
+
+19331
+
+14604
+
+26803
+
+15891
+
+27536
+
+--
+
+55017
+
+--
+
+74600
+
+78574
+
+9683
+
+--
+
+--
+
+43712
+
+97242
+
+13003
+
+9098
+
+17791
+
+12595
+
+45065.5
+
+--
+
+40075
+
+74710
+
+62615
+
+100596
+
+--
+
+--
+
+--
+
+--
+
+116574
+
+98913
+
+66088
+
+57036
+
+50324
+
+43951
+
+--
+
+111001
+
+--
+
+--
+
+--
+
+--
+
+STR
+
+--
+
+103567
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+34318
+
+72858
+
+2AK
+
+--
+
+--
+
+2AR
+
+--
+
+108125
+
+2BG
+
+32995
+
+75437
+
+11236
+
+28111
+
+17474
+
+24646
+
+6203
+
+--
+
+--
+
+13248.5
+
+10333.5
+
+7959
+
+13035
+
+8099.5
+
+11703
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+113243
+
+9980
+
+10095
+
+53938
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+11543
+
+25952.5
+
+10414
+
+18171
+
+83346
+
+47230.5
+
+3AG
+
+21819
+
+60115
+
+7945.75
+
+5621
+
+5420
+
+--
+
+--
+
+7731
+
+7587
+
+2BK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2BR
+
+45744
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+8731
+
+5560
+
+7630
+
+4634
+
+10867
+
+7318
+
+27697
+
+40863
+
+38476
+
+32947
+
+43856
+
+36425
+
+GM
+
+18168
+
+59682
+
+GMK
+
+50231
+
+97278
+
+GMR
+
+33277
+
+74659
+
+SCG
+
+55836
+
+92714
+
+SCK
+
+SCR
+
+--
+
+--
+
+--
+
+--
+
+STG
+
+49810
+
+103052
+
+6755
+
+16742
+
+10764
+
+47679
+
+57639
+
+59657.5
+
+45911.5
+
+7674
+
+4899
+
+--
+
+6284
+
+31040
+
+--
+
+41236
+
+23321
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+60622.5
+
+--
+
+92954
+
+131387
+
+6254
+
+15576
+
+9599
+
+35504
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+136695
+
+44439
+
+37936
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+52018
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+42610
+
+--
+
+--
+
+56554
+
+6641
+
+13087
+
+9516
+
+6216
+
+12391
+
+8443
+
+40095
+
+47457
+
+71675
+
+42545
+
+39968.5
+
+--
+
+--
+
+39187
+
+--
+
+72617
+
+119098
+
+--
+
+--
+
+103105
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+71789
+
+29332.5
+
+10269
+
+40718
+
+3BG
+
+--
+
+62267
+
+7598
+
+5859
+
+--
+
+--
+
+8622
+
+41021.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 21 of 
+
+96College: (E058)P E S College of Engineering, Mandya(AUTONOMOUS) MANDYA: 571 401
+
+1K
+
+1R
+
+2AG
+
+2AK
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+STG
+
+STK
+
+STR
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+BUSINESS
+SYSTEMS
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG (VLSI
+DESIGN AND
+TECHNOLOGY)
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CERAMICS &
+CEMENT
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+DESIGN
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
+
+INDUSTRIAL &
+PRODUCTION
+ENGINEERING
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+79524
+
+25322
+
+30863
+
+23022
+
+26140
+
+29446
+
+63822
+
+70331
+
+75601.5
+
+56679
+
+93210
+
+78814
+
+1G
+
+--
+
+59839
+
+31959
+
+32594
+
+46372
+
+--
+
+50599
+
+81099
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+47123
+
+48101
+
+51535
+
+--
+
+--
+
+--
+
+--
+
+144227
+
+43410
+
+33313
+
+--
+
+--
+
+--
+
+2AR
+
+--
+
+150675
+
+59726
+
+49546
+
+39100
+
+--
+
+37764
+
+31483
+
+36564
+
+35643
+
+32162
+
+55438
+
+38225
+
+65652
+
+--
+
+--
+
+--
+
+--
+
+--
+
+52051
+
+40661
+
+62258
+
+36084
+
+51660
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+54204
+
+--
+
+49050
+
+40982
+
+74008
+
+60696
+
+--
+
+44341
+
+71500
+
+48387
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+--
+
+45237.5
+
+25401
+
+30460
+
+--
+
+34896
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+55036
+
+100827
+
+165909
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+--
+
+41601
+
+26035
+
+26536
+
+30449
+
+--
+
+36647
+
+59692
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+62969
+
+30845
+
+--
+
+36165
+
+--
+
+--
+
+34483
+
+29288
+
+--
+
+37058
+
+79170
+
+1G
+
+73014
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+59860
+
+2AK
+
+--
+
+--
+
+--
+
+--
+
+2AR
+
+78807
+
+2BG
+
+--
+
+--
+
+--
+
+--
+
+219194
+
+--
+
+--
+
+--
+
+143710
+
+74877
+
+46633
+
+59816
+
+60389
+
+38721
+
+--
+
+85188
+
+--
+
+--
+
+87521
+
+113783
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+74570
+
+--
+
+--
+
+63532
+
+--
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+48927
+
+118420
+
+--
+
+136578
+
+261788.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+40759
+
+--
+
+164480
+
+--
+
+41042
+
+--
+
+73032
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+84143
+
+31541
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+105959
+
+126873
+
+109371
+
+170344
+
+40738
+
+--
+
+48425
+
+106092
+
+25305
+
+32989
+
+30601
+
+54395
+
+--
+
+--
+
+--
+
+SCR
+
+--
+
+142449
+
+130952
+
+104104
+
+68037
+
+59549
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+30339
+
+38447
+
+37778
+
+80519
+
+48052
+
+--
+
+53887
+
+106240.5
+
+--
+
+--
+
+--
+
+--
+
+83656
+
+109352
+
+38022
+
+34860
+
+35822
+
+37233
+
+100965
+
+137165
+
+141477
+
+85195
+
+50060
+
+29147
+
+34662
+
+GM
+
+36928
+
+140501
+
+143470
+
+29426
+
+65979
+
+--
+
+--
+
+--
+
+GMK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+88924
+
+55094
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+54470
+
+142037
+
+29454
+
+78994
+
+42189
+
+114851
+
+--
+
+--
+
+--
+
+192247
+
+166783
+
+--
+
+92035.5
+
+140147
+
+117414
+
+GMR
+
+41609
+
+SCG
+
+59259
+
+--
+
+163101
+
+186377
+
+180000
+
+--
+
+122242
+
+41589
+
+62811
+
+--
+
+--
+
+--
+
+--
+
+--
+
+95670
+
+147717
+
+--
+
+--
+
+--
+
+217852
+
+191915.5
+
+--
+
+109795
+
+111849
+
+52932
+
+--
+
+--
+
+169534
+
+--
+
+--
+
+61244
+
+83524
+
+89250
+
+110907
+
+87114
+
+105036
+
+151680
+
+54864
+
+110546
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+66676
+
+79441
+
+156166
+
+218893.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+154310
+
+170618
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+118324
+
+--
+
+127862
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+95577
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E059)P D A College of Engineering, Gulbarga(AUTONOMOUS) AIWAN-E-SHAHI AREA,STATION ROAD,GULBARGA-585102
+
+3BK
+
+3BR
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+Generated on: 25-07-2025 18:10:25
+
+Page 22 of 
+
+96GM
+
+27011
+
+GMK
+
+35160
+
+GMR
+
+31550
+
+SCG
+
+48675
+
+14926
+
+18124
+
+15909
+
+38456
+
+77653
+
+19394
+
+--
+
+--
+
+86822
+
+109013
+
+23290
+
+62138
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+--
+
+--
+
+--
+
+--
+
+81806
+
+40627
+
+--
+
+--
+
+35473
+
+134101
+
+--
+
+--
+
+--
+
+72318
+
+79128.5
+
+134223.5
+
+17577
+
+14293
+
+16532
+
+17028.5
+
+45738
+
+52863.5
+
+53196
+
+44400
+
+17538
+
+28487
+
+21940
+
+24627
+
+20960
+
+17171
+
+--
+
+19083
+
+44322
+
+--
+
+47455
+
+52246
+
+20210
+
+22562
+
+21868
+
+63522
+
+64654
+
+73943
+
+59129
+
+40280
+
+34916
+
+49944
+
+25919
+
+--
+
+35832
+
+81549
+
+--
+
+19044
+
+--
+
+20826
+
+18781.5
+
+19921
+
+19440
+
+55567
+
+--
+
+--
+
+--
+
+88591
+
+58918
+
+64185
+
+College: (E060)Dr. Ambedkar Institute of Technology, Bangalore(AUTONOMOUS) OUTER RING ROAD,NEAR JNANA BHARATHI CAMPUS,MALLATHAHALLI,BANGALORE-560056
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+Course Name
+
+AERONAUTICAL
+ENGINEERING
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+BUSINESS
+SYSTEMS
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG (VLSI
+DESIGN AND
+TECHNOLOGY)
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+1G
+
+27857
+
+19004.5
+
+1K
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+2AG
+
+38975
+
+15961
+
+--
+
+102859
+
+112525
+
+90375
+
+26912
+
+--
+
+--
+
+--
+
+--
+
+43329
+
+50339
+
+--
+
+--
+
+22613
+
+127900
+
+33055
+
+--
+
+27573
+
+18019
+
+18741
+
+23118
+
+36946
+
+19403
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+17214
+
+23334
+
+19717
+
+25503
+
+21048.5
+
+23222
+
+31795
+
+--
+
+--
+
+--
+
+25084
+
+28192
+
+--
+
+--
+
+--
+
+--
+
+22091
+
+25514
+
+22901
+
+34469
+
+College: (E061)University B.D.T College of Engineering, Davanagere P J EXTENSION,HADADI ROAD,DAVENGERE
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+1G
+
+82486
+
+26428
+
+57451
+
+37139
+
+75767
+
+121226
+
+50984
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+91723
+
+2AK
+
+--
+
+2AR
+
+--
+
+2BG
+
+79191
+
+26785
+
+28798
+
+27888
+
+26378
+
+60506
+
+--
+
+--
+
+56693
+
+--
+
+--
+
+--
+
+46809
+
+38700
+
+45133
+
+42500
+
+49777
+
+--
+
+--
+
+--
+
+103590
+
+128297
+
+49026
+
+--
+
+--
+
+--
+
+131464
+
+102769
+
+130454
+
+114959
+
+60935
+
+51028
+
+91891
+
+3BG
+
+29932
+
+15721
+
+--
+
+20194
+
+15163
+
+18377
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2BK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+30685
+
+15235
+
+--
+
+20341
+
+14702
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+49602
+
+26031
+
+--
+
+18870
+
+2BR
+
+--
+
+82091.5
+
+49414.5
+
+27474
+
+--
+
+--
+
+--
+
+--
+
+--
+
+75257
+
+39477
+
+77468
+
+102527
+
+49154
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+101325
+
+81124
+
+--
+
+24736
+
+79772
+
+51741
+
+37004
+
+3BR
+
+--
+
+GM
+
+79131
+
+GMK
+
+88127
+
+GMR
+
+87839
+
+SCG
+
+97235
+
+28424
+
+22483
+
+22823
+
+25340
+
+43942
+
+--
+
+--
+
+130460
+
+100207
+
+46029
+
+39033
+
+--
+
+46579
+
+53656
+
+52734
+
+88808
+
+118210
+
+--
+
+68382
+
+37310
+
+34189.5
+
+34207
+
+34775
+
+89039
+
+107317
+
+97559
+
+77779
+
+75131
+
+97983
+
+102198
+
+41495
+
+--
+
+--
+
+--
+
+--
+
+--
+
+72587
+
+--
+
+75584
+
+144522
+
+99257
+
+113940
+
+116419
+
+150328
+
+38026
+
+--
+
+46012
+
+78117
+
+--
+
+--
+
+--
+
+153162
+
+96048
+
+177869
+
+119673
+
+121961
+
+98971
+
+75111
+
+--
+
+STR
+
+--
+
+43025
+
+--
+
+--
+
+46840
+
+--
+
+--
+
+--
+
+79957
+
+STR
+
+--
+
+40268
+
+80477
+
+92852
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1K
+
+1R
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+Generated on: 25-07-2025 18:10:25
+
+Page 23 of 
+
+96College: (E062)Bapuji Institute of Engineering &  Technology, Davangere (AUTONOMOUS) BAPUJI INSTITUTE OF ENGINEERING & TECHNOLOGY,P.B. NO.325,SHAMANUR ROAD,DAVANGERE-577 004
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+1G
+
+50532
+
+1K
+
+--
+
+BIO-TECHNOLOGY
+
+--
+
+52889
+
+44292
+
+55594
+
+53161
+
+41474
+
+--
+
+--
+
+--
+
+--
+
+--
+
+59359
+
+59807
+
+134141
+
+69851
+
+71237
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+135258
+
+121212.5
+
+--
+
+66955.5
+
+75306
+
+66093
+
+46637
+
+39085
+
+42627
+
+45363
+
+40324.75
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+45295
+
+75343
+
+--
+
+--
+
+58453
+
+48306
+
+--
+
+64628
+
+44768
+
+47447
+
+46571
+
+40786
+
+46516
+
+49366
+
+58193
+
+57142
+
+154556
+
+153905
+
+--
+
+--
+
+177539
+
+124361
+
+--
+
+150676
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+92968
+
+146541
+
+--
+
+86427
+
+41846
+
+51627
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+83391
+
+84297
+
+50563
+
+51626
+
+115718
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E063)S J M Institute of Technology, Chitradurga P B NO 73, NH -4 BYE PASS, CHITRADURGA
+
+--
+
+--
+
+--
+
+--
+
+209617
+
+84951
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+187755
+
+94461
+
+127823
+
+--
+
+--
+
+98860
+
+85831
+
+--
+
+--
+
+117422.5
+
+123151
+
+122348
+
+104326
+
+208475
+
+--
+
+--
+
+198261
+
+--
+
+--
+
+--
+
+--
+
+--
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+113140
+
+MECHANICAL
+ENGINEERING
+
+--
+
+CHEMICAL
+ENGINEERING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+BUSINESS
+SYSTEMS
+
+COMPUTER
+SCIENCE AND
+DESIGN
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+TEXTILES
+TECHNOLOGY
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+39419
+
+103488
+
+61433
+
+53191
+
+37631
+
+42916
+
+114076
+
+127727
+
+3BG
+
+72488
+
+167539
+
+84126
+
+64252
+
+160660
+
+46927
+
+40709
+
+132852
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+117010
+
+52802
+
+51711
+
+39341
+
+--
+
+--
+
+--
+
+--
+
+--
+
+49458
+
+90169
+
+37594
+
+43132
+
+131576
+
+222966
+
+--
+
+3AG
+
+71595
+
+--
+
+95226
+
+119544
+
+104004
+
+--
+
+--
+
+--
+
+--
+
+--
+
+231496
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+36397
+
+61007
+
+--
+
+113490
+
+49789
+
+51962
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+40182
+
+35329
+
+39427
+
+40150.5
+
+94916
+
+99475
+
+118023
+
+76229
+
+108679
+
+80461
+
+--
+
+--
+
+--
+
+--
+
+--
+
+44368
+
+58361
+
+--
+
+--
+
+61430
+
+106285.5
+
+59365
+
+126357
+
+112406
+
+115739
+
+128959
+
+146757
+
+48694
+
+54682
+
+61177
+
+155600
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+98996
+
+66155
+
+172583
+
+126524
+
+210332
+
+128416
+
+51766
+
+60813
+
+63774.5
+
+169542
+
+215899
+
+--
+
+144442
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+146982
+
+--
+
+39944
+
+32708
+
+38298
+
+38435
+
+31706
+
+35097
+
+36880
+
+95575
+
+101240
+
+118180
+
+84162
+
+85249
+
+98574
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+36762
+
+42078
+
+42087
+
+100528
+
+61421
+
+--
+
+65916
+
+120220
+
+35847
+
+35945
+
+37543
+
+134510
+
+--
+
+--
+
+--
+
+143671
+
+99774
+
+184769
+
+75409
+
+140747
+
+107620
+
+49827
+
+42592
+
+46109
+
+49149
+
+131890
+
+132305
+
+157566
+
+109152
+
+--
+
+--
+
+111896
+
+--
+
+115273
+
+167860
+
+108889
+
+149135
+
+140477
+
+203887
+
+--
+
+--
+
+205239
+
+122158
+
+--
+
+157653
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+120286
+
+126437
+
+--
+
+--
+
+--
+
+--
+
+72932
+
+112621
+
+185451
+
+162463
+
+--
+
+--
+
+129750
+
+97870
+
+--
+
+190172
+
+79691
+
+86036
+
+89618
+
+114876
+
+155703
+
+140624
+
+106819
+
+GM
+
+70448
+
+160146
+
+--
+
+--
+
+--
+
+--
+
+122614
+
+112873.5
+
+--
+
+--
+
+107210
+
+--
+
+112632
+
+126814
+
+116731
+
+163714
+
+113775
+
+101508
+
+115635
+
+107832
+
+164967
+
+--
+
+157801
+
+--
+
+188387
+
+225136
+
+--
+
+--
+
+--
+
+--
+
+135766
+
+168745
+
+151219
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+144915
+
+--
+
+--
+
+--
+
+1G
+
+78345
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+83897
+
+90527
+
+77322
+
+153225
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+Generated on: 25-07-2025 18:10:25
+
+Page 24 of 
+
+96College: (E064)Adhichunchanagiri Institute of Technology, Chickamagalur ADICHUNCHANAGIRI EXTENTION,JYOTHINAGAR,CHIKMAGALUR - 577102
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3BK
+
+3BR
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+1G
+
+63801
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+60420
+
+--
+
+--
+
+--
+
+--
+
+73882
+
+48651
+
+--
+
+207866
+
+59303
+
+65734
+
+77650
+
+68679
+
+211529
+
+199163
+
+58883
+
+65744
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+TELECOMMUNICAT
+ION ENGINEERING
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+156437
+
+67793
+
+77532
+
+94101
+
+92165
+
+78063
+
+169838.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+208582
+
+34790
+
+47282
+
+90840
+
+51224
+
+94201
+
+46821
+
+156914
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+94085
+
+127828
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+44416
+
+152159
+
+50768
+
+64097
+
+102009
+
+78011
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+153664
+
+57385
+
+--
+
+--
+
+173983
+
+--
+
+3AK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+47910
+
+29484
+
+56322
+
+--
+
+157079
+
+62206
+
+30061.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+40408
+
+90902
+
+43794
+
+91102
+
+42546
+
+118156
+
+107428
+
+65519
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AR
+
+--
+
+3BG
+
+44607
+
+198009
+
+152353
+
+49983
+
+65467
+
+73464
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+75552
+
+--
+
+3AR
+
+--
+
+3BG
+
+22312
+
+173179
+
+151142
+
+94090
+
+78818
+
+63255
+
+179360
+
+28979
+
+38601
+
+82120
+
+82350
+
+41499
+
+117594
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+101797
+
+152978
+
+129239
+
+111076
+
+81898
+
+--
+
+96848
+
+91346
+
+68158
+
+91157
+
+--
+
+--
+
+228451
+
+76470
+
+--
+
+--
+
+255962
+
+193911
+
+--
+
+89667
+
+2AK
+
+--
+
+--
+
+2AR
+
+--
+
+2BG
+
+--
+
+178611
+
+181722
+
+--
+
+164730
+
+37403
+
+31636
+
+39199
+
+41742
+
+37360
+
+49355
+
+39534
+
+48768
+
+--
+
+42600
+
+109642
+
+85021
+
+167145
+
+95829
+
+52103.5
+
+100789
+
+--
+
+--
+
+--
+
+53024
+
+57752
+
+143582
+
+83405
+
+46816
+
+50413
+
+50598
+
+45966.75
+
+170748
+
+68381
+
+--
+
+--
+
+203287
+
+213941
+
+--
+
+--
+
+GM
+
+43537
+
+145877
+
+GMK
+
+--
+
+--
+
+GMR
+
+54431
+
+SCG
+
+78242
+
+149078
+
+191997
+
+--
+
+--
+
+90223
+
+118504
+
+157737
+
+--
+
+192999
+
+58256
+
+49542
+
+60327
+
+53819
+
+124444
+
+159248
+
+131187
+
+87718
+
+--
+
+--
+
+59000
+
+--
+
+64301
+
+156630.5
+
+91931
+
+115749
+
+99175
+
+176437
+
+--
+
+--
+
+196741
+
+185093
+
+--
+
+147856
+
+90553
+
+77664
+
+81862
+
+79740
+
+189110
+
+208706
+
+194001
+
+182720
+
+--
+
+--
+
+--
+
+55652
+
+--
+
+56810
+
+159417
+
+163831
+
+232614
+
+193987
+
+225863
+
+67160
+
+119976
+
+71153
+
+163295
+
+--
+
+--
+
+--
+
+213330
+
+163413
+
+--
+
+--
+
+178465
+
+190298
+
+147000
+
+163749
+
+154068
+
+177862
+
+212916
+
+220665
+
+194902
+
+33911
+
+24999
+
+31788
+
+33432
+
+77085
+
+91159
+
+94864
+
+66131
+
+123295
+
+97610
+
+--
+
+--
+
+35646
+
+44896
+
+37716
+
+88436
+
+78608
+
+--
+
+89022
+
+129110
+
+44834
+
+68114
+
+50663
+
+41304
+
+57176
+
+50001
+
+100400
+
+--
+
+80338
+
+120952
+
+102901
+
+176067
+
+--
+
+--
+
+--
+
+--
+
+--
+
+100234
+
+157920
+
+126089
+
+128588
+
+128088
+
+--
+
+182392
+
+47351
+
+39326
+
+48204
+
+46814
+
+100086
+
+128661
+
+104057
+
+126579
+
+--
+
+--
+
+113772
+
+159475
+
+134816
+
+184177
+
+57422
+
+--
+
+58752
+
+103737
+
+--
+
+--
+
+203477
+
+253014
+
+--
+
+73177
+
+90378
+
+59618
+
+College: (E065)Jawaharlal Nehru New College of Engineering, Shimoga P.B. NO. 128,NAVULE, SHIMOGA
+
+1G
+
+34772
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+28499
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3BK
+
+3BR
+
+GM
+
+17604
+
+GMK
+
+--
+
+GMR
+
+28084
+
+SCG
+
+51510
+
+SCK
+
+--
+
+SCR
+
+STG
+
+STK
+
+60433
+
+98540
+
+--
+
+--
+
+102229
+
+--
+
+214597
+
+238706
+
+--
+
+--
+
+--
+
+STR
+
+--
+
+220219
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+188278
+
+--
+
+145791
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 25 of 
+
+96--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1G
+
+1K
+
+1R
+
+2AG
+
+2BG
+
+2BK
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+STG
+
+STK
+
+STR
+
+144426
+
+132985
+
+137910
+
+142746
+
+118575
+
+120531
+
+127099
+
+141214
+
+College: (E066)University B.D.T. college of Engineering, (H.GOV),Davangere
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+ELECTRONICS AND
+INSTRUMENTATION
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+126050
+
+37502
+
+118394
+
+67275
+
+138192
+
+149116
+
+103405
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AK
+
+--
+
+2AR
+
+--
+
+--
+
+44470
+
+49699
+
+51738
+
+51038
+
+160487
+
+89220
+
+93154
+
+100945
+
+120247
+
+--
+
+--
+
+--
+
+--
+
+64298
+
+142319
+
+160788
+
+77476
+
+--
+
+--
+
+--
+
+--
+
+81896
+
+62933
+
+170245
+
+131527
+
+161934
+
+149424
+
+82802
+
+65245
+
+154516
+
+2BR
+
+--
+
+51847
+
+37976
+
+--
+
+--
+
+--
+
+--
+
+--
+
+81583
+
+63282
+
+174394
+
+144606
+
+81125
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E070)Bahubali College of Engineering, Shravanabelagola, Hassan GOMMATANAGARA,SHRAVANABELAGOLA - 573135 HASSAN
+
+--
+
+--
+
+--
+
+133148
+
+39685
+
+79864
+
+71839
+
+52674
+
+--
+
+--
+
+--
+
+--
+
+SCK
+
+--
+
+SCR
+
+--
+
+123412
+
+35244
+
+36155
+
+40546
+
+61522
+
+66801
+
+68236
+
+64831
+
+78315
+
+90965
+
+100649
+
+130056
+
+--
+
+133837
+
+139239
+
+64139
+
+51374
+
+53572
+
+58436
+
+123606
+
+154297
+
+124102
+
+110617
+
+--
+
+--
+
+--
+
+125525
+
+154480
+
+144639
+
+56254
+
+--
+
+--
+
+--
+
+--
+
+--
+
+122725
+
+--
+
+145381
+
+198149
+
+137297
+
+142986
+
+139468
+
+194519
+
+55945
+
+--
+
+69612
+
+99741
+
+--
+
+--
+
+--
+
+210147
+
+177665
+
+204540
+
+147804
+
+172341
+
+108343
+
+110084
+
+--
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BK
+
+3BR
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+98854
+
+--
+
+--
+
+112070
+
+93463
+
+--
+
+--
+
+251670
+
+98586
+
+104672
+
+116786
+
+106258
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+1G
+
+--
+
+--
+
+104679
+
+141726
+
+112079
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+108402
+
+130103
+
+213937
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+128061
+
+141959
+
+--
+
+--
+
+--
+
+--
+
+135330
+
+84515
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+83149
+
+105804
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+80600
+
+--
+
+84452
+
+101005
+
+107412
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+GM
+
+76513
+
+GMK
+
+83910
+
+81278
+
+151718
+
+181366
+
+80313
+
+--
+
+--
+
+--
+
+209176
+
+211656
+
+82358
+
+160872
+
+109758
+
+184572
+
+111669
+
+97762
+
+--
+
+--
+
+107408
+
+109482
+
+115589
+
+222425
+
+187530
+
+--
+
+190749
+
+228992
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+124108
+
+--
+
+193064
+
+185903
+
+235974
+
+172220
+
+--
+
+--
+
+235238
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E071)Vidya Vardhaka College of Engineering, Mysore(AUTONOMOUS) P.B.NO.206,GOKULAM 3RD STAGE,MYSORE
+
+1R
+
+--
+
+--
+
+2AG
+
+82432
+
+2AK
+
+--
+
+130055
+
+98778
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+78483
+
+18464
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+90067
+
+19074
+
+3BK
+
+--
+
+--
+
+23431
+
+32032
+
+28185
+
+28898.5
+
+22957
+
+18379
+
+27237
+
+22340
+
+62592.5
+
+99552
+
+73726
+
+45136
+
+3BR
+
+--
+
+GM
+
+76431
+
+GMK
+
+87805
+
+GMR
+
+SCG
+
+SCK
+
+90396
+
+106509
+
+133941
+
+SCR
+
+--
+
+STG
+
+STK
+
+112024
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+179284
+
+82512
+
+--
+
+138037
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+STR
+
+--
+
+51791
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+30065
+
+22997
+
+27882
+
+27086
+
+29647
+
+49837
+
+47288
+
+18416
+
+29797
+
+21406
+
+18725
+
+23536
+
+21594
+
+16925.5
+
+23446
+
+20181
+
+62352
+
+87029
+
+80634
+
+63887
+
+68925
+
+74662
+
+1G
+
+120953
+
+27680
+
+25924
+
+43804
+
+37932
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+MECHANICAL
+ENGINEERING
+
+--
+
+38494
+
+--
+
+48591
+
+47980.5
+
+45039
+
+30724.5
+
+35713
+
+31962
+
+45460
+
+121381
+
+176210
+
+--
+
+76270
+
+--
+
+103121
+
+79704
+
+--
+
+--
+
+--
+
+--
+
+30751.5
+
+55159
+
+24253
+
+155675
+
+62950
+
+--
+
+--
+
+--
+
+--
+
+31653
+
+27771
+
+25039
+
+--
+
+68877
+
+--
+
+--
+
+--
+
+--
+
+30582
+
+50616
+
+34878
+
+75448
+
+--
+
+93863
+
+78252
+
+--
+
+--
+
+28205.5
+
+23689
+
+29882
+
+27654
+
+73734
+
+99431
+
+105939
+
+77789
+
+87266
+
+84593
+
+--
+
+61499
+
+83886
+
+81498
+
+124492
+
+--
+
+139425
+
+113069
+
+--
+
+132674
+
+Generated on: 25-07-2025 18:10:25
+
+Page 26 of 
+
+96College: (E075)Ballari Institute of Technology & Management, Bellary(AUTONOMOUS) "JNANA GANGOTRI" CAMPUS, #873/2 OF KOLAGAL VILLAGE,BELLARY-HOSPET ROAD, ALLIPUR
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3BK
+
+3BR
+
+SCK
+
+SCR
+
+STG
+
+STK
+
+STR
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG (ARTIFICIAL
+INTELLIGENCE)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+--
+
+--
+
+45287
+
+70752
+
+106131
+
+73513
+
+MECHANICAL
+ENGINEERING
+
+--
+
+1G
+
+57623
+
+1K
+
+--
+
+1R
+
+--
+
+2AG
+
+54810
+
+--
+
+--
+
+--
+
+58620
+
+57688
+
+--
+
+--
+
+199166
+
+--
+
+--
+
+--
+
+--
+
+--
+
+83618
+
+--
+
+--
+
+--
+
+88896
+
+77195
+
+--
+
+220882
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3AG
+
+46462
+
+--
+
+--
+
+--
+
+97934
+
+54550
+
+--
+
+--
+
+--
+
+--
+
+--
+
+36962
+
+--
+
+--
+
+76360
+
+206889
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+52989
+
+--
+
+55345
+
+33433
+
+--
+
+--
+
+--
+
+--
+
+58144
+
+110970
+
+98795
+
+73249
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+128867
+
+54584.75
+
+66864
+
+133232
+
+105056
+
+--
+
+--
+
+75746
+
+204221
+
+38689
+
+57716
+
+47481
+
+40020
+
+GM
+
+43457
+
+GMK
+
+56442
+
+GMR
+
+52744
+
+SCG
+
+90480
+
+118776
+
+48542
+
+29174
+
+52319
+
+--
+
+--
+
+--
+
+--
+
+151858
+
+165441
+
+52260
+
+106681
+
+38389
+
+74794
+
+59811.5
+
+102336
+
+82127
+
+96698
+
+100104
+
+111350
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+136555
+
+77347
+
+--
+
+--
+
+--
+
+58521
+
+144616
+
+89050
+
+51762
+
+--
+
+--
+
+106441
+
+123916
+
+81595
+
+62362
+
+67791
+
+69209
+
+144644
+
+186672
+
+179712
+
+86049
+
+--
+
+150901
+
+173905
+
+160035
+
+225534
+
+--
+
+--
+
+215398
+
+College: (E076)Proudadevaraya Institute of Technology, Hospet SHAH BHAVARLAL BABULAL NAHAR CAMPUS,T.B.DAM ROAD, BESIDE TSP LIMITED,HOSPET - 583225,BELLARY DISTRICT
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+SCK
+
+SCR
+
+242491
+
+94612
+
+--
+
+88134
+
+--
+
+--
+
+107146
+
+130347
+
+--
+
+--
+
+--
+
+--
+
+STG
+
+--
+
+106578
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGG(ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING)
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+1G
+
+246306
+
+--
+
+--
+
+--
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+115774
+
+MECHANICAL
+ENGINEERING
+
+--
+
+1K
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+1R
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+--
+
+94228
+
+85857
+
+171661
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+177371
+
+--
+
+--
+
+189540
+
+164952
+
+112769
+
+139408
+
+261573
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+123808.7
+5
+
+--
+
+--
+
+--
+
+109480
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+76269
+
+--
+
+--
+
+230382
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E077)Vidya Vikas Institute of Engineering & Technology, Mysore #127,ALANAHALLY,ALANAHALLY  POST,MYSORE-BANNUR ROAD,MYSORE
+
+--
+
+--
+
+--
+
+--
+
+--
+
+66880
+
+144036
+
+110018
+
+67478
+
+124783
+
+155925
+
+185481
+
+108151
+
+--
+
+--
+
+204621
+
+153596
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+175708
+
+--
+
+--
+
+184237
+
+193698
+
+239435
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Course Name
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+142842
+
+34804
+
+85429
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+--
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+45319
+
+1G
+
+1K
+
+1R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+2BR
+
+3AG
+
+3AK
+
+3AR
+
+3BG
+
+3BK
+
+3BR
+
+--
+
+GM
+
+GMK
+
+GMR
+
+SCG
+
+111808
+
+145064
+
+134405
+
+173704
+
+SCK
+
+--
+
+SCR
+
+--
+
+138325
+
+STG
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+145571
+
+32431
+
+81952
+
+59879
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+119074
+
+48928
+
+89151
+
+--
+
+--
+
+--
+
+--
+
+66453
+
+73444
+
+183843
+
+--
+
+--
+
+--
+
+--
+
+113051
+
+29961
+
+65873
+
+--
+
+46361
+
+74874
+
+--
+
+56707
+
+--
+
+195501
+
+45173
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+165793
+
+32367.5
+
+73964
+
+--
+
+50872
+
+45841
+
+--
+
+--
+
+--
+
+--
+
+--
+
+46022
+
+29517
+
+31801
+
+31813
+
+73088
+
+89699
+
+87757
+
+52901
+
+--
+
+--
+
+--
+
+63159
+
+68936
+
+82998
+
+130330
+
+44738
+
+43919
+
+--
+
+--
+
+48704
+
+110200
+
+47427
+
+107373
+
+--
+
+--
+
+--
+
+156855
+
+132656
+
+134725
+
+134379
+
+--
+
+118476
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+115327
+
+--
+
+--
+
+91600
+
+--
+
+--
+
+--
+
+--
+
+STK
+
+STR
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+170476
+
+--
+
+--
+
+--
+
+--
+
+Generated on: 25-07-2025 18:10:25
+
+Page 27 of 
+
+961R
+
+2AG
+
+2AK
+
+2AR
+
+2BG
+
+2BK
+
+3BK
+
+3BR
+
+2BR
+
+--
+
+3AG
+
+28418
+
+53218
+
+31903
+
+3AK
+
+3AR
+
+--
+
+--
+
+--
+
+--
+
+3BG
+
+30151
+
+31283
+
+106001
+
+52829
+
+54990
+
+GM
+
+27527
+
+GMK
+
+34509
+
+GMR
+
+28835
+
+SCG
+
+75899
+
+30198
+
+36253
+
+33124
+
+81162
+
+39662
+
+113320
+
+--
+
+--
+
+47574
+
+77697.84
+375
+
+136325
+
+138092
+
+SCK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+SCR
+
+--
+
+STG
+
+69696
+
+STK
+
+--
+
+90931
+
+68714
+
+124615
+
+124179
+
+124363
+
+--
+
+181152
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+113528
+
+30051
+
+61694
+
+39536
+
+35759
+
+133981
+
+125253
+
+--
+
+87617
+
+257364
+
+3BG
+
+36023
+
+21707
+
+33999
+
+97202
+
+3BK
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+College: (E078)The Oxford College of Engineering, Bangalore HOSUR ROAD,BOMMANAHALLI,BANGALORE
+
+Course Name
+
+ARTIFICIAL
+INTELLIGENCE AND
+DATA SCIENCE
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+1G
+
+39528
+
+38772
+
+BIO-TECHNOLOGY
+
+44249
+
+1K
+
+--
+
+--
+
+--
+
+53458
+
+36245
+
+--
+
+--
+
+34616
+
+46463
+
+136309
+
+243035
+
+150512
+
+150126
+
+--
+
+--
+
+--
+
+--
+
+37224.75
+
+37975
+
+35018
+
+33827
+
+--
+
+--
+
+--
+
+113803
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+35330
+
+80966.5
+
+42539
+
+37770
+
+--
+
+MECHATRONICS
+
+127622
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+33353
+
+37169
+
+34566
+
+38428
+
+62005
+
+45016
+
+--
+
+--
+
+--
+
+73470.75
+
+156230
+
+46401
+
+44323.5
+
+39969
+
+42885
+
+40556
+
+48155
+
+123236
+
+111154
+
+--
+
+--
+
+136226
+
+131768
+
+--
+
+73893
+
+AERONAUTICAL
+ENGINEERING
+
+ARTIFICIAL
+INTELLIGENCE AND
+MACHINE
+LEARNING
+
+BIO-TECHNOLOGY
+
+CIVIL
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING
+
+COMPUTER
+SCIENCE AND
+ENGINEERING(DAT
+A SCIENCE)
+
+ELECTRICAL &
+ELECTRONICS
+ENGINEERING
+
+ELECTRONICS AND
+COMMUNICATION
+ENGG
+
+INFORMATION
+SCIENCE AND
+ENGINEERING
+
+MECHANICAL
+ENGINEERING
+
+MECHATRONICS
+
+ROBOTICS AND
+ARTIFICIAL
+INTELLIGENCE
+
+37678.5
+
+23587
+
+36698
+
+99946
+
+22468
+
+24312
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+52390
+
+82067
+
+30497
+
+27166
+
+99796
+
+--
+
+29078
+
+--
+
+--
+
+--
+
+--
+
+--
+
+2AG
+
+39451
+
+24900
+
+43419
+
+--
+
+--
+
+--
+
+122972
+
+109611
+
+--
+
+--
+
+--
+
+--
+
+43952
+
+44027
+
+25501
+
+31042
+
+--
+
+--
+
+49192
+
+97964
+
+23162
+
+24995
+
+26419
+
+25498
+
+34570
+
+25633
+
+25163
+
+35837
+
+--
+
+37044
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+54089
+
+--
+
+66270
+
+53885
+
+31553
+
+34620
+
+33722
+
+48952
+
+30624
+
+34947
+
+32041
+
+43996
+
+97013
+
+72127
+
+33206
+
+--
+
+--
