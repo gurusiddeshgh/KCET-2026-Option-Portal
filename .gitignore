@@ -1,52 +1,10 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
-venv/
-env/
-.venv/
-*.egg-info/
-dist/
-build/
-.eggs/
-
-# Database files
-*.db
-*.sqlite
-*.sqlite3
-
-# Environment
-.env
-.env.local
-.env.*.local
-
-# Logs
-*.log
-
-# Node / Next.js
 node_modules/
 .next/
 out/
 .vercel/
-
-# OS
+.env.local
+.env
+*.log
+dist/
+build/
 .DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# Large binary/generated files (keep source Excel but skip PDFs if large)
-# Uncomment below to exclude raw PDFs:
-# *.pdf
-
-# Backend parsed_data: keep .json and .py source, exclude __pycache__
-parsed_data/__pycache__/
-
-# Backend venv (already covered above but explicit)
-backend/venv/
-backend/__pycache__/
-backend/*.db

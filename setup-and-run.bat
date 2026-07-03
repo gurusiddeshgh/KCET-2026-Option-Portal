@@ -12,24 +12,31 @@ if not exist "backend\.env" copy backend\.env.example backend\.env
 if not exist "frontend\.env.local" copy frontend\.env.local.example frontend\.env.local
 
 if not exist "backend\venv" (
-    echo [1/4] Creating Python venv...
+    echo [1/5] Creating Python venv...
     cd backend
     python -m venv venv
     cd ..
 ) else (
-    echo [1/4] Python venv already exists
+    echo [1/5] Python venv already exists
 )
 
-echo [2/4] Installing backend dependencies...
+echo [2/5] Installing backend dependencies...
 call backend\venv\Scripts\activate.bat
 pip install -r backend\requirements.txt
 
-echo [3/4] Installing frontend dependencies...
+echo [3/5] Installing frontend dependencies...
 cd frontend
 call npm install
 cd ..
 
-echo [4/4] Importing cutoff data (optional, may take a minute)...
+echo [4/5] Building college master list (2026-27 codewise)...
+python parse_college_list_pdf.py --fallback-only
+if exist "LIST OF COLLEGES DURING 2026-27 (CODEWISE)*.pdf" (
+    echo Found official college list PDF — re-parsing...
+    python parse_college_list_pdf.py
+)
+
+echo [5/5] Importing cutoff data (optional, may take a minute)...
 cd backend
 python run_import.py
 cd ..

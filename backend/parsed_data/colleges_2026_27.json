@@ -1,0 +1,1581 @@
+{
+  "source": "KEA 2026-27 College List (Codewise)",
+  "total": 225,
+  "colleges": [
+    {
+      "college_code": "E001",
+      "college_name": "University of Visvesvaraya College of Engineering , K R Circle, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-University",
+      "status": true
+    },
+    {
+      "college_code": "E002",
+      "college_name": "Govt. S K S J T Institute of Engineering. , K R Circle,",
+      "location": "Bangalore",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E003",
+      "college_name": "B M S College of Engineering Basavanagudi, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E004",
+      "college_name": "Dr. Ambedkar Institute Of Technology , Jnanbharaathi, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E005",
+      "college_name": "R. V. College of Engineering , Mysore Rd, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E006",
+      "college_name": "M S Ramaiah Institute of Technology, MSR Nagar, , (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E007",
+      "college_name": "Dayananda Sagar College of Engineering , Kumraswamy Layout, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E008",
+      "college_name": "Bangalore Institute of Technology , VV Puram, , (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E009",
+      "college_name": "P E S University (Ring Road Campus) BSK III STG",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E011",
+      "college_name": "M V J College of Engineering, Kadugodi, (TAMIL) (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E012",
+      "college_name": "Sir M.V. Institute of Tech. Hunasemaranahalli Yelahanka, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E013",
+      "college_name": "Ghousia Engineering College (autonomous), B M Road, (MUSLIM ) (autonomous)",
+      "location": "Ramanagara",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E014",
+      "college_name": "S J C Institute of Technology (autonomous), B B Road, (autonomous)",
+      "location": "Chikkaballapur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E015",
+      "college_name": "Dr.T.Thimmaiah Institute of Technology, Oorgaum, KGF",
+      "location": "Kolar",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E016",
+      "college_name": "Siddaganga Institute of Technology , B H Road, (autonomous)",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E017",
+      "college_name": "Sri Siddartha Institute of Technology,",
+      "location": "Tumkur",
+      "college_type": "Private-University",
+      "status": true
+    },
+    {
+      "college_code": "E018",
+      "college_name": "Kalpatharu Institute of Technology, B H Road,",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E021",
+      "college_name": "Sri Jayachamarajendra College of Engineering, Manasagangotri, (autonomous)",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E022",
+      "college_name": "The National Institute of Engineering(S Campus) , Manandawadi Rd (autonomous)",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E023",
+      "college_name": "P E S College of Engineering K V S Gowda Road, (autonomous)",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E024",
+      "college_name": "Malnad College of Engineering , Salagame Road, (autonomous)",
+      "location": "Hassan",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E028",
+      "college_name": "Tontadarya College of Engineering, Kalyan Nagar,",
+      "location": "Gadag",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E029",
+      "college_name": "Maratha Mandal Engineering College, Halbhavi Village,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E031",
+      "college_name": "Basaveshwara Engineering College, Vidyagiri, (autonomous)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E032",
+      "college_name": "R.T.E Socity`s Rural Engineering College, Gagdag-Hubli road",
+      "location": "Gadag",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E033",
+      "college_name": "Sri Taralabalu Jagadguru Institute of Technology. P B Road,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E034",
+      "college_name": "Sri Dharmasthala Manjunatheswara College of Engg, Davalagiri, (TULU) (autonomous)",
+      "location": "Hubballi",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E035",
+      "college_name": "Anjuman Engineering College, Amjumanbad, (MUSLIM )",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E036",
+      "college_name": "KLE Technological Uni.(KLE Dr.MS Sheshagiri Col.), Udyambag ,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E037",
+      "college_name": "K.L.S. Gogte Institute of Technology , Udyambag , (autonomous)",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E038",
+      "college_name": "BLDE As V.P. Dr.P.G. Hallakatti College of Engg. & Tech, Ashram Road,",
+      "location": "Vijayapura",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E040",
+      "college_name": "Hira Sugar Institute of Technology, Nidaosi, Hukkeri taluk,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E041",
+      "college_name": "P D A College of Engineering, Aiwan-E-Shahi Area, Gulbarga, (autonomous)",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E042",
+      "college_name": "Khaja Banda Nawaz University, Rauza Buzurg, (MR – MUSLIM)",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E043",
+      "college_name": "Gurunanak Dev Engineering College, Mailoor Road, (SIKH)",
+      "location": "Bidar",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E044",
+      "college_name": "Bheemanna Khandre Institute of Technology, Humnabad Road",
+      "location": "Bidar",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E045",
+      "college_name": "Rao Bahadur Y.Mahabaleswarappa Engineering College, Cantonment,",
+      "location": "Ballari",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E046",
+      "college_name": "H K Es S Sir M Visveraya College of Engineering, Yermarus Campus.",
+      "location": "Raichur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E047",
+      "college_name": "Malnad College of Engineering, Salagame Road, (autonomous)",
+      "location": "Hassan",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E048",
+      "college_name": "B M S College of Engineering Basavanagudi, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E049",
+      "college_name": "BVV Sanga;s Basaveshwara Engineering College, Vindyagiri, (autonomous)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E054",
+      "college_name": "K V G College of Engineering, Kurunjibhag,",
+      "location": "Sullia",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E055",
+      "college_name": "P A College of Engineering, Kairangala Village,Montepadu PO (MUSLIM)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E056",
+      "college_name": "The National Institute of Engineering((S Campus) , Manandawadi Rd, (autonomous)",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E057",
+      "college_name": "JSS Science and Technology University(SJCE), Manasagangotri,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E058",
+      "college_name": "P E S College of Engineering K V S Gowda Road, (autonomous)",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E059",
+      "college_name": "P D A College of Engineering, Aiwan-E-Shahi Area, (autonomous)",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E060",
+      "college_name": "Dr. Ambedkar Institute Of Technology Jnanabharathi (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E061",
+      "college_name": "University B.D.T. college of Engineering, Hadadi Road,",
+      "location": "Davangere",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E062",
+      "college_name": "Bapuji Institute of Engineering and Technology, Shamanur Road, (autonomous)",
+      "location": "Davangere",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E063",
+      "college_name": "SJM Institute of Technology, Nh-4, Bye Pass, B.D. Road,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E064",
+      "college_name": "Adhichunchanagiri Institute of Technology, Yothinagar Post,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E065",
+      "college_name": "Jawaharlal Nehru National College of Engg, , Navule, Savalanga Road,",
+      "location": "Shivamogga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E066",
+      "college_name": "University B.D.T. college of Engineering, Hadadi Rd (WITH HIGER FEES )",
+      "location": "Davangere",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E070",
+      "college_name": "Bahubali College of Engineering, Gommatanagar, (JAIN)",
+      "location": "Hassan",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E071",
+      "college_name": "Vidya Vardhaka College of Engineering, Gokulam 3rd Stage, (autonomous)",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E075",
+      "college_name": "Ballari Institute of Techn& Management ,Ballari- Hospet Rd, Allipur, (autonomous)",
+      "location": "Ballari",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E076",
+      "college_name": "Proudadevaraya Institute of Technology, T.B Dam Road, Indiranagar",
+      "location": "Ballari",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E077",
+      "college_name": "Vidya Vikas Institute of Engineering and Technology Alanahally,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E078",
+      "college_name": "The Oxford College of Engineering, , Bommanahalli, Hosur Road (TELUGU)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E079",
+      "college_name": "Acharya Institute of Technology, Soldevanahalli, Hesarghatta Main Road,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E081",
+      "college_name": "Sri Siddhartha School of Engineering, Kyathasandra, Near Toll Gate",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E082",
+      "college_name": "J S S Academy of Technical Education, Uttarahalli, Mylasandra,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E083",
+      "college_name": "H.K.B.K.College of Engineering, Nagawara (MULSLIM)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E085",
+      "college_name": "APS College of Engineering, Somanahalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E086",
+      "college_name": "Sri Sairam College of Engineering(Shirdi Sai Engg), Guddenahall,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E087",
+      "college_name": "Vivekananada Institute of Technology, Guddenahall post,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E090",
+      "college_name": "Sri Revana Siddeswara Institute of Tech. Chokkana Halli, Chikkajala",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E091",
+      "college_name": "K S Institute of Technology, Raghuvanahalli, Kanakapura Main Road, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E092",
+      "college_name": "Vemana Institute of Technology, III Block Koramangala,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E093",
+      "college_name": "Basavakalyana Engineering College, KHB Colony, NH 65, Basavakalyana",
+      "location": "Bidar",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E094",
+      "college_name": "Coorg Institute of Technology, Halligattu,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E095",
+      "college_name": "AMC Engineering College, Bannerghatta Road, Kalkere, , (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E096",
+      "college_name": "East Point College of Engng &Tech, Bidarahalli, Virgonagar Post, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E097",
+      "college_name": "C M R Institute of Technology, ITPL park main road, kundalahalli village,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E098",
+      "college_name": "Atria Institute of Technology, ASKB Campus, Anandanagar, Hebbal, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E099",
+      "college_name": "New Horizon College of Engineering , Kaverappa Layout, Marathalli (SINDHI) (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E100",
+      "college_name": "K N S Institute of Technology, Tirumenahalli, Yelahanka Hobli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E101",
+      "college_name": "Channabasaveshwara Institute of Technology, , Nh-206, B.H Road,",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E102",
+      "college_name": "DONBOSCO Institute of Technology, Kumbalagodu, Mysore Road, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E103",
+      "college_name": "Global Academy of Technology, , Rajarajeshwarinagar, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E104",
+      "college_name": "Nagarjuna College of Engg & Tech. ,Madugurki, Venkatagiri Kote PO, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E106",
+      "college_name": "East West Institute of Technology, , Vihwaneedam Post, Near Anjanagara , (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E107",
+      "college_name": "B N M Institute of Technology , Banashankari Ii Stage, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E108",
+      "college_name": "Sapthagiri NPS University, Banashankari II Stage",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E109",
+      "college_name": "City Engineering College, Doddakallasandra,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E111",
+      "college_name": "Sri Venkateshwara College of Engineering, Vidyanagar Bettahalsur (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E112",
+      "college_name": "Sri Krishna Institute of Technology, Hesarghatta Road, Chikkabanavara-",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E113",
+      "college_name": "Sambhram Institute of Technology, , M.S.Palya Vidyaranayapuram Post,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E114",
+      "college_name": "G M Institute of Technology, ,P.B. Raod,",
+      "location": "Davangere",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E115",
+      "college_name": "S J B Institute of Technology , Dr. Vishnuvardhana Road, Kengeri, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E116",
+      "college_name": "R.L.Jalappa Institute of Technology, Kodigehalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E118",
+      "college_name": "RNS Institute of Technology , Dr. Vishnuvardhan Rd, Channasandra, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E119",
+      "college_name": "K C T Engineering College, , Qamar-Ul-Islam Colony, Roza(B), (MUSLIM)",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E120",
+      "college_name": "Jnanavikasa Institute of Tech. Padmashree G D Goyalji Campus,",
+      "location": "Ramanagara",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E121",
+      "college_name": "Vivekananada College of Engineering Technology, Nehru Nagar Post,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E123",
+      "college_name": "Canara Engineering College, Benjanapadavu, Ammunje Village, Jodumarga (KONKANI)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E124",
+      "college_name": "Rajiv Gandhi Institute of Technology, , Cholanagar, Hebbal, ,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E126",
+      "college_name": "B M S Institute of Tech. and Management, Avalahalli, Yelahanka, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E127",
+      "college_name": "M S Engineering College, Navarathna Agrahara, Sadahalli Post,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E128",
+      "college_name": "Sharnbasva University, Sharana Nagar Brahmpur, Gulbarga",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E129",
+      "college_name": "St. Joseph Engineering College Vamanjoor PO Dharamagiri, (CHRISTIAN) (autonomous)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E130",
+      "college_name": "Shridevi Institute of Engineering and Technology, Sira Road, NH-4",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E132",
+      "college_name": "Secab Institute of Engg and Tech, Nauraspur Bagalkot Road, BIJAPUR (MR-MUSLIM)",
+      "location": "Vijayapura",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E133",
+      "college_name": "GSSS Institute of Engg & Technology for Women, Metagalli Ind. Area,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E134",
+      "college_name": "Smt.Kamala & Sri Venkappa M.Agadi College of Engg. & Tech. Laxmeshwara",
+      "location": "Gadag",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E135",
+      "college_name": "KLS Viswanathrao Deshpande Institute of Technology, Udyog Vidya Nagar Haliyal",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E136",
+      "college_name": "Moodalakatte Institute of Technology, Kundapura",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E139",
+      "college_name": "Impact College of Engineering and Applied Sciences, Kodigehalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E141",
+      "college_name": "P E S University (Electronic City Campus) Hosur Road Bangalore",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E142",
+      "college_name": "Adichunchanagiri University(BGSIT) Bellur Cross, BGS Nagar Nagamangala",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E144",
+      "college_name": "Srinivas Institute of Tech Varkulla Village, Farangipete Post, Mangalore.",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E145",
+      "college_name": "Rajarajeswari College of Engineering, Kumbalagodu, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E146",
+      "college_name": "Shreedevi Institute Of Technology, Kenjar Airport Road,",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E147",
+      "college_name": "T John Institute of Technology, Gottigere,, Banneraghatta Road,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E149",
+      "college_name": "Cambridge Institute of Technology , K R Puram, (Main Campus) (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E150",
+      "college_name": "P E S Institute of Technology and Management, Kotegangnoor Post Shivamogga",
+      "location": "Shivamogga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E151",
+      "college_name": "Mangalore Institute of Tech. and Engg, Near Moodabidrie, (autonomous)",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E152",
+      "college_name": "S D M Institute of Tech, Ujire (TULU)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E153",
+      "college_name": "S E A College of Engineering and Technology, K R Puram",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E154",
+      "college_name": "Government Engineering College,",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E155",
+      "college_name": "Government Engineering College, : Dairy Circle, B M Road,",
+      "location": "Hassan",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E156",
+      "college_name": "Government Engineering College, Krishnaraja pet,",
+      "location": "Mandya",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E157",
+      "college_name": "Government Engineering College, Dodamannina Gudde,",
+      "location": "Ramanagara",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E158",
+      "college_name": "Maharaja Institute of Technology-Mysore, Belawadi (autonomous)",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E159",
+      "college_name": "Karavali Institute of Technology, Padumela, Mangalore",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E160",
+      "college_name": "Sahyadri College of Engg. and Management , Adyar, (autonomous)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E161",
+      "college_name": "Government Engineering College, Madapatna Kushalnagar",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E162",
+      "college_name": "Government Engineering College, Yaramaras Camp,",
+      "location": "Raichur",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E163",
+      "college_name": "Government Engineering College, Devagiri, Haveri",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E164",
+      "college_name": "Government Engineering College, Haveri Road, ,",
+      "location": "Ballari",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E165",
+      "college_name": "Yenepoya Institute of Technology, Thodar, Vidyanagar",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E167",
+      "college_name": "KLE Ss K L E College of Engineering and Technology, Banantikodi Road,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E168",
+      "college_name": "Amrutha Institute of Engineering and Management, Bidadi",
+      "location": "Ramanagara",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E169",
+      "college_name": "Alva`s Institute of Engineering and Technology, Mijar , Moodabidri, (autonomous)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E171",
+      "college_name": "Brindavan College of Engineering, Dwaraka Nagar, Yelahanka,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E172",
+      "college_name": "R.R.Institute of Technology, Hesaraghatta Main, Road, Chikkabanavara, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E173",
+      "college_name": "Sai Vidya Institute of Technology, Doddaballapura Main Rd Rajanukunte",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E174",
+      "college_name": "Dr. Sri Sri Sri Shivakumara Mahaswamyji College of Engg, Byranayakana Halli, Nelamangala",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E175",
+      "college_name": "S.G.Balekundri Institute of Technology, , Nenhru Nagar,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E176",
+      "college_name": "Navodaya Institute of Technology, Navodaya Nagar, Bijengera Road, (autonomous)",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E177",
+      "college_name": "Rajeev Institute of Technology, Bommanayakanahally, (autonomous)",
+      "location": "Hassan",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E178",
+      "college_name": "The National Institute of Engg( NORTH CAMPUS) Hootagalli ,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E180",
+      "college_name": "Bearys Institute of Technology, Boliyar, Near Mangalore Uni. (MUSLIM)",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E181",
+      "college_name": "Sri Basaveswara Institute of Technology, Medenur Gate, B.H. Road,",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E184",
+      "college_name": "C Byre Gowda Institute of Tech. Thoradevanahalli Village, ,",
+      "location": "Kolar",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E185",
+      "college_name": "Angadi Institute of Technology and Management, Savagaon Road,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E186",
+      "college_name": "ACS College of Engineering, ,Kambipura, Mysore Road, Kengeri Hobli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E188",
+      "college_name": "Vijaya Vittala Institute of Technology, Kothanur, Dodda Gubbi Post,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E189",
+      "college_name": "Navkis College of Engineering Kandali, Thimmanahalli, Industrial Area,",
+      "location": "Hassan",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E191",
+      "college_name": "Akshaya Institute of Technology, Lingapur, Obalapur Post, Koratagere Road,",
+      "location": "Tumkur",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E193",
+      "college_name": "Srinivas University, Mukka, Srinivas Nagar, Mukka,",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E194",
+      "college_name": "Government Engineering College, Majali,",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E196",
+      "college_name": "Jain College of Engineering, T S Nagar Huchanhatti Road, Machhe,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E197",
+      "college_name": "Veerappa Nisty Engineering College, Near Bus Depot, Hanasapur Camp,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E198",
+      "college_name": "Sharnbasva University College for Women, Sharan Nagar,",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E199",
+      "college_name": "AGM Rural Engineering College, Navagrah Theerth, , Varur (T), Hubli",
+      "location": "Hubballi",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E201",
+      "college_name": "Gopalan College of Engg & Management, , Hoodi Village, Sonnenahalli, K.R.Puram,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E202",
+      "college_name": "Sampoorna Institute of Tech. & Research, Belakere Gate,",
+      "location": "Ramanagara",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E203",
+      "college_name": "K.S. School of Engg & Management, Mallasandra, Off Kanakapur, Road,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E204",
+      "college_name": "Bangalore Techl. Institute, Kodathi, Sarjapura Rd,Chikkanayakanahalli Dinne",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E205",
+      "college_name": "ATME College of Engineering, , Harohalli Post, Varun Hobli,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E206",
+      "college_name": "Shri Madhwa Vadiraja Institute of Tech.& Mngt, , Vishwothama Nagar, Bantakal",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E207",
+      "college_name": "VSMs Somashekar R Kothiwale Insti. of Tech. Nippani, Vishwothama Nagar,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E209",
+      "college_name": "Jyothi Institute of Technology, Near Ravishankarguruji Ashram, Off Tataguni,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E210",
+      "college_name": "G Madegowda Institute of Technology, Bharathinagara (K.M. Doddi),",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E211",
+      "college_name": "Jain Institute of Tech. Veereshwara Punyashrama, Avargere Village,",
+      "location": "Davangere",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E212",
+      "college_name": "Dayananda Sagar Academy of Tech., Kanakapur Rd, Udayapura, (autonomous)",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E213",
+      "college_name": "Lingarajappa Engineering College, , Gornalli, Bidar",
+      "location": "Bidar",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E216",
+      "college_name": "Shetty Institute of Technology, Rajapur, Shahabad Road,",
+      "location": "Gulbarga",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E220",
+      "college_name": "Alliance University, Chikkahagade Cross,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E221",
+      "college_name": "Biluru Gurubasava Mahaswamiji Institute of Tech, Mantur Road,",
+      "location": "Other",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E222",
+      "college_name": "Cambridge Institute of Tech. -North Campus, Lingadheera, Gollahalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E227",
+      "college_name": "Cauvery Institute of Technology, Sundahalli , Yeliyur-571402 Kothathi(H),",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E232",
+      "college_name": "Reva University, , Rukmini Knowledge Park, Kattigenahalli, Yelahanka,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E235",
+      "college_name": "M.S. Ramaiah University of Applied Sciences, Peenya,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E237",
+      "college_name": "Presidency University, Itgalpur, Rajanakunte, Yelahanka,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E238",
+      "college_name": "Mysuru Royal Institute of Technology, Palahalli , Sri Rangapatna Tq,",
+      "location": "Mandya",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E239",
+      "college_name": "East West College of Engineering, , Yelahanka New Town, Bengaluru",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E240",
+      "college_name": "Dayananda Sagar University, Kudulugate, Singasanddra, Kanakapura Rd",
+      "location": "Ramanagara",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E241",
+      "college_name": "KLE Technological UniversityB V Bhoomraddi Campus, Vidyanagar,",
+      "location": "Hubballi",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E252",
+      "college_name": "Mysore College of Engi & Management, T Narasipura Road, Chikkahalli,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E254",
+      "college_name": "A J Institute Of Engg &Tech, Kottara Chowki, Boloor Village, Mangalore (TULU)",
+      "location": "Mangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E255",
+      "college_name": "Gandhi Institute of Tech. & MNG. Nagadenahalli, Dodda Ballapura Tq, - Bangalore",
+      "location": "Bangalore",
+      "college_type": "Private-University",
+      "status": true
+    },
+    {
+      "college_code": "E256",
+      "college_name": "Rai Technology University, Mallohalli(V) Nelamangla Rd, Kadanur, Doddaballapur",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E257",
+      "college_name": "CMR University, Hrbr Layout, Chagalatti,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E258",
+      "college_name": "Maharaja Institute of Technology, Mysore-Ooty Road, Thandavapura-571302",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E264",
+      "college_name": "Basava Engineering School of Technology,",
+      "location": "Vijayapura",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E265",
+      "college_name": "Jain College of Engg & Technology, Sai Nagar, Unkal,Hubballi",
+      "location": "Hubballi",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E269",
+      "college_name": "Jain College of Engg & Research Udyambhag, , Angol, Belgaum",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E272",
+      "college_name": "Government Engineering College, Talakal",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E273",
+      "college_name": "Government Engineering College, Anegundi Road, Viprasainagar, Gangavathi",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E274",
+      "college_name": "Government Engineering College, Mosalehosahalli",
+      "location": "Hassan",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E275",
+      "college_name": "R V Institute of Technology and Management, Kothanur, Jp Nagar,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E278",
+      "college_name": "Visvesvaraya Technological University, Muddenahalli",
+      "location": "Chikkaballapur",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E279",
+      "college_name": "Visvesvaraya Technological University, Belgaum",
+      "location": "Belgaum",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E281",
+      "college_name": "Government Engineering College, Challakere,",
+      "location": "Other",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E283",
+      "college_name": "University of Mysore, School Of Engineering Manasagangothri,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E284",
+      "college_name": "Sri Jayachamarajendra College of Engineering Manasagangothri, (autonomous)",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E285",
+      "college_name": "R V University, RV Vidyanikethan Post,8th Mile , Mysuru Road,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E286",
+      "college_name": "BGS College of Engng & Tech, , Mahalakshmipura, , West Of Chord Rd,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E287",
+      "college_name": "Vidyashilpa University, Bettenahalli, Kundana Hobli, Chapparkallu Road,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E288",
+      "college_name": "Garden City University, Kithaganur Main Rd, Battarahalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E289",
+      "college_name": "Visvesvaraya Technological University( R. CENTRE), Rajapur Centre,",
+      "location": "Gulbarga",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E290",
+      "college_name": "Visvesvaraya Technological University (R. CENTRE), Hanchya Sathagally,",
+      "location": "Mysore",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E291",
+      "college_name": "Government Engineering College, Naragund",
+      "location": "Gadag",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E292",
+      "college_name": "Government Engineering College, Mailoor",
+      "location": "Bidar",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E297",
+      "college_name": "Aditya College Of Engg & Tech. Kamakshipuara, Hesaraghatta Hobli, Yelaahanka",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E299",
+      "college_name": "Ghousia Institute of Tech. for Women, Near Diary Circle, Hosur Road,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E300",
+      "college_name": "Akash Intitute Of Engi & Tech, Prasannahalli Road, Devanahalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E301",
+      "college_name": "Kishkinda University, Ballary Hosapet Road, Near Allipur, Ballary-583104",
+      "location": "Ballari",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E302",
+      "college_name": "Amity University, Devanahalli-Doddaballapur Main Road, Devanahalli",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E303",
+      "college_name": "G M University, Karur Vilage,P.B. Road ,",
+      "location": "Davangere",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E304",
+      "college_name": "Anuvarthik Mirji Bharatesh Institute Of Tech. Basavankudachi, Chandragiri Campus,",
+      "location": "Belgaum",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E305",
+      "college_name": "Dr H N National College Of Engineering, 7th Block, Jayanagar,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E306",
+      "college_name": "The Chanakya University, Haraluru-Polanahalli, Near K I A, Devanahalli,",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E307",
+      "college_name": "Seshadripuram Institute Of Technology, Kadakola Industrial Area,",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E308",
+      "college_name": "Constituent College Of VTU, Chintamani",
+      "location": "Chikkaballapur",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E309",
+      "college_name": "Constituent College Of VTU (H.Gov) Chintamani (WITH HIGER FEES )",
+      "location": "Chikkaballapur",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E310",
+      "college_name": "Government Engineering College, Arasikre-Tiptur Highway, Arasikere",
+      "location": "Hassan",
+      "college_type": "Government",
+      "status": true
+    },
+    {
+      "college_code": "E311",
+      "college_name": "Rathinam Institute of Technology, Doddakamanahalli, Begur Hobli",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E312",
+      "college_name": "New Ebenezer Institute of Technology, Hennur-Bagalur Main Road, Kothanur",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E313",
+      "college_name": "Harsha Institute of Tecnhology, Jakkanahalli, Nelamangala",
+      "location": "Bangalore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E314",
+      "college_name": "Cauvery Engineering College, KBL Layout, Alanahalliy, Mysore",
+      "location": "Mysore",
+      "college_type": "Private-Unaided",
+      "status": true
+    },
+    {
+      "college_code": "E315",
+      "college_name": "Constituent College Of VTU, , Gokak (WITH HIGER FEES )",
+      "location": "Belgaum",
+      "college_type": "Government",
+      "status": true
+    }
+  ]
+}

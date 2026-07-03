@@ -14,9 +14,8 @@ interface ChoiceNode {
 interface StudentProfile {
   rank: number;
   category: string;
-  preferred_locations?: string[];
-  preferred_streams?: string[];
-  preferred_courses?: string[];
+  preferredLocations?: string[];
+  preferredStreams?: string[];
 }
 
 interface OptionEntryState {
