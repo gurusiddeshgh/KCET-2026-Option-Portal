@@ -14,7 +14,7 @@ Enriches data with college location/type info from the known KCET seat matrix.
 import sys
 import os
 import json
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 from collections import defaultdict
 
 # ── Known College Location/Type Mapping (from KCET seat matrix) ──
@@ -156,6 +156,126 @@ def infer_location_from_name(college_name: str) -> str:
     return "Other"
 
 
+def _get_parsed_data_dirs() -> List[str]:
+    """Search paths for parsed JSON/Python data (backend first, then repo root)."""
+    backend_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(backend_dir)
+    dirs = [
+        os.path.join(backend_dir, "parsed_data"),
+        os.path.join(repo_root, "parsed_data"),
+    ]
+    for d in dirs:
+        if d not in sys.path:
+            sys.path.insert(0, d)
+    return dirs
+
+
+def _find_json_file(*filenames: str) -> Optional[str]:
+    for data_dir in _get_parsed_data_dirs():
+        for name in filenames:
+            path = os.path.join(data_dir, name)
+            if os.path.isfile(path):
+                return path
+    return None
+
+
+def _enrich_college_dict(college: Dict) -> Dict:
+    college = dict(college)
+    code = college.get("college_code", "")
+    info = KNOWN_COLLEGE_INFO.get(code, {})
+    if not college.get("location"):
+        college["location"] = info.get("location") or infer_location_from_name(
+            college.get("college_name", "")
+        )
+    if not college.get("college_type"):
+        college["college_type"] = info.get("college_type", "Private-Unaided")
+    college.setdefault("status", True)
+    return college
+
+
+def load_college_master() -> Dict[str, Dict]:
+    """
+    Authoritative college master — prefer 2026-27 codewise list PDF output,
+    then KEA 2025 Excel college extract.
+    """
+    path = _find_json_file("colleges_2026_27.json", "kea_colleges_2025.json")
+    if not path:
+        return {}
+
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+
+    colleges: Dict[str, Dict] = {}
+    for c in data.get("colleges", []):
+        if isinstance(c, dict) and c.get("college_code"):
+            code = c["college_code"]
+            colleges[code] = _enrich_college_dict(c)
+
+    print(f"[DataLoader] College master: {len(colleges)} colleges from {os.path.basename(path)}")
+    return colleges
+
+
+def _load_cutoffs_json(path: str) -> Tuple[List[Dict], Dict[str, Dict], Dict[str, Dict], str]:
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+
+    records = [dict(r) for r in data.get("records", data.get("cutoffs", []))]
+    colleges_raw: Dict[str, Dict] = {}
+    for c in data.get("colleges", []):
+        if isinstance(c, dict) and c.get("college_code"):
+            colleges_raw[c["college_code"]] = dict(c)
+    courses_raw: Dict[str, Dict] = {}
+    for c in data.get("courses", []):
+        if isinstance(c, dict) and c.get("course_code"):
+            courses_raw[c["course_code"]] = dict(c)
+
+    for r in records:
+        _enrich_record(r)
+
+    source = f"JSON ({os.path.basename(path)})"
+    cats = set(r.get("category") for r in records)
+    print(
+        f"[DataLoader] [OK] Loaded {len(records)} cutoff records from {source} "
+        f"({len(colleges_raw)} embedded colleges, {len(courses_raw)} courses, "
+        f"categories: {sorted(cats)})"
+    )
+    return records, colleges_raw, courses_raw, source
+
+
+def _merge_college_masters(*sources: Dict[str, Dict]) -> Dict[str, Dict]:
+    merged: Dict[str, Dict] = {}
+    for src in sources:
+        for code, college in src.items():
+            if code not in merged:
+                merged[code] = _enrich_college_dict(college)
+            else:
+                existing = merged[code]
+                for key in ("college_name", "location", "college_type"):
+                    if not existing.get(key) and college.get(key):
+                        existing[key] = college[key]
+    return merged
+
+
+def _merge_records_with_colleges(records: List[Dict], colleges: Dict[str, Dict]) -> None:
+    """Ensure every cutoff row and college master stay in sync."""
+    for r in records:
+        code = r.get("college_code")
+        if not code:
+            continue
+        if code not in colleges:
+            colleges[code] = _enrich_college_dict({
+                "college_code": code,
+                "college_name": r.get("college_name", code),
+                "location": r.get("location", ""),
+                "college_type": r.get("college_type", "Private-Unaided"),
+            })
+        else:
+            master = colleges[code]
+            r["college_name"] = master.get("college_name") or r.get("college_name", "")
+            r["location"] = master.get("location") or r.get("location", "")
+            r["college_type"] = master.get("college_type") or r.get("college_type", "Private-Unaided")
+
+
 def _enrich_record(rec: Dict) -> Dict:
     """Add location and college_type if missing, using known mapping."""
     cc = rec.get("college_code", "")
@@ -163,7 +283,6 @@ def _enrich_record(rec: Dict) -> Dict:
     rec["location"] = rec.get("location") or info.get("location", "")
     rec["college_type"] = rec.get("college_type") or info.get("college_type", "Private-Unaided")
     rec["stream_group"] = "Engineering"
-    # Ensure category is set
     if "category" not in rec or not rec["category"]:
         rec["category"] = "GM"
     return rec
@@ -235,41 +354,76 @@ def _load_json(json_filename: str, source_desc: str) -> Optional[Dict]:
 
 def load_real_data() -> Optional[Dict]:
     """
-    Attempt to load real KCET 2025-26 cutoff data.
-    
-    Priority:
-    1. PDF data (all categories) — Python module
-    2. PDF data (all categories) — JSON
-    3. Excel data (GM only) — Python module
-    4. Excel data (GM only) — JSON
+    Load cutoff data + full college master for KCET 2026-27.
+
+    College master: colleges_2026_27.json (from codewise PDF) or kea_colleges_2025.json
+    Cutoffs: kea_cutoffs_2025.json (preferred) or pdf_cutoffs_all.json or Python modules
     """
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    parsed_data_dir = os.path.join(project_root, "parsed_data")
-    if parsed_data_dir not in sys.path:
-        sys.path.insert(0, parsed_data_dir)
+    _get_parsed_data_dirs()
 
-    # Strategy 1: PDF Python module (all categories) — BEST
-    data = _load_module("pdf_import", "PDF (all categories)")
-    if data:
-        return data
+    college_master = load_college_master()
+    records: List[Dict] = []
+    colleges_embedded: Dict[str, Dict] = {}
+    courses_raw: Dict[str, Dict] = {}
+    source = ""
 
-    # Strategy 2: PDF JSON
-    data = _load_json("pdf_cutoffs_all.json", "PDF")
-    if data:
-        return data
+    # Prefer JSON cutoffs (complete, fast) over huge .py modules
+    cutoff_json = _find_json_file("kea_cutoffs_2025.json", "pdf_cutoffs_all.json")
+    if cutoff_json:
+        records, colleges_embedded, courses_raw, source = _load_cutoffs_json(cutoff_json)
+    else:
+        for loader in (
+            lambda: _load_module("pdf_import", "PDF (all categories)"),
+            lambda: _load_json_legacy("pdf_cutoffs_all.json", "PDF"),
+            lambda: _load_module("kea_import", "Excel (GM only)"),
+            lambda: _load_json_legacy("kea_cutoffs_2025.json", "Excel (GM only)"),
+        ):
+            data = loader()
+            if data:
+                records = data["records"]
+                colleges_embedded = data["colleges"]
+                courses_raw = data["courses"]
+                source = data["source"]
+                break
 
-    # Strategy 3: Excel Python module (GM only)
-    data = _load_module("kea_import", "Excel (GM only)")
-    if data:
-        return data
+    if not records:
+        print("[DataLoader] No real cutoff data found. Using fallback mock data.")
+        return None
 
-    # Strategy 4: Excel JSON
-    data = _load_json("kea_cutoffs_2025.json", "Excel (GM only)")
-    if data:
-        return data
+    # If courses weren't found in the cutoff JSON, load them separately from kea_courses_2025.json
+    if not courses_raw:
+        courses_json = _find_json_file("kea_courses_2025.json")
+        if courses_json:
+            try:
+                with open(courses_json, encoding="utf-8") as f:
+                    courses_data = json.load(f)
+                    for c in courses_data.get("courses", []):
+                        if isinstance(c, dict) and c.get("course_code"):
+                            courses_raw[c["course_code"]] = dict(c)
+            except Exception as e:
+                print(f"[DataLoader] Warning: Could not load courses from {courses_json}: {e}")
 
-    print("[DataLoader] ⚠ No real cutoff data found. Using fallback mock data.")
-    return None
+    colleges = _merge_college_masters(college_master, colleges_embedded)
+    _merge_records_with_colleges(records, colleges)
+
+    unique_colleges_in_cutoffs = len({r["college_code"] for r in records if r.get("college_code")})
+    print(
+        f"[DataLoader] Ready: {len(records)} cutoff rows, "
+        f"{len(colleges)} colleges in master ({unique_colleges_in_cutoffs} with cutoffs)"
+    )
+    return {"records": records, "colleges": colleges, "courses": courses_raw, "source": source}
+
+
+def _load_json_legacy(json_filename: str, source_desc: str) -> Optional[Dict]:
+    """Legacy JSON loader via _find_json_file."""
+    path = _find_json_file(json_filename)
+    if not path:
+        return None
+    try:
+        records, colleges_raw, courses_raw, source = _load_cutoffs_json(path)
+        return {"records": records, "colleges": colleges_raw, "courses": courses_raw, "source": source}
+    except Exception:
+        return None
 
 
 def estimate_category_cutoffs(gm_records: List[Dict], category: str) -> List[Dict]:
@@ -307,9 +461,9 @@ def _has_all_categories(records: List[Dict]) -> bool:
     return len(cats) >= 8
 
 
-def get_cutoffs_by_category(category: str = "GM") -> Optional[List[Dict]]:
+def get_cutoffs_by_category(category: str = "GM", limit: Optional[int] = None) -> Optional[List[Dict]]:
     """
-    Get cutoff records for a specific category.
+    Get cutoff records for a specific category (all rows — no default cap).
     
     - If data has all 8 categories: filters directly by category.
     - If data has only GM: estimates other categories via historical multipliers.
@@ -319,13 +473,16 @@ def get_cutoffs_by_category(category: str = "GM") -> Optional[List[Dict]]:
         return None
     records = _real_data["records"]
     if _has_all_categories(records):
-        return [r for r in records if r.get("category") == category]
+        filtered = [r for r in records if r.get("category") == category]
     else:
-        # Only GM data available — estimate other categories
         gm_records = [r for r in records if r.get("category") == "GM"]
         if category == "GM":
-            return gm_records
-        return estimate_category_cutoffs(gm_records, category)
+            filtered = gm_records
+        else:
+            filtered = estimate_category_cutoffs(gm_records, category)
+    if limit is not None:
+        return filtered[:limit]
+    return filtered
 
 
 def get_real_colleges() -> Optional[List[Dict]]:

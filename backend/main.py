@@ -4,9 +4,9 @@ from sqlalchemy.orm import Session
 import os
 from typing import List
 
-from models import StudentProfile, OptimizedChoiceList, ChoiceNode
-from database import get_db, get_cutoffs_by_category, get_all_categories, get_colleges, get_courses
-from algorithms import generate_optimized_100_list, filter_cutoffs_by_profile, evaluate_chancing_logic
+from .models import StudentProfile, OptimizedChoiceList, ChoiceNode
+from .database import get_db, get_cutoffs_by_category, get_all_categories, get_colleges, get_courses
+from .algorithms import generate_optimized_100_list, filter_cutoffs_by_profile, evaluate_chancing_logic
 
 # Initialize FastAPI app
 app = FastAPI(

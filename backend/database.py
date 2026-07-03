@@ -99,17 +99,13 @@ def _ensure_college_location(college: dict) -> dict:
     return college
 
 
-def get_cutoffs_by_category(db, category: str, limit: int = 1000) -> List[dict]:
+def get_cutoffs_by_category(db, category: str, limit: Optional[int] = None) -> List[dict]:
     """
-    Retrieve all cutoffs for a specific category.
-    
-    FIRST: Tries to load real KEA 2025 GM cutoff data from Excel.
-    FALLBACK: Generates mock data from the KCET 2026 seat matrix.
+    Retrieve all cutoffs for a specific category (full dataset, not capped at 1000).
     """
-    # Try real data first
-    real_data = get_real_cutoffs(category)
+    real_data = get_real_cutoffs(category, limit=limit)
     if real_data is not None:
-        return real_data[:limit]
+        return real_data
     # Comprehensive college data from KCET 2026 PDF - 50+ colleges across all Karnataka locations
     colleges = {
         # Bangalore - Major tech hub
