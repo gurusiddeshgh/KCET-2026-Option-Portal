@@ -257,10 +257,10 @@ def get_cutoffs_by_category(db, category: str, limit: Optional[int] = None) -> L
 def get_all_categories(db=None) -> List[str]:
     """Get all available student categories."""
     try:
-        from data_loader import ALL_CATEGORIES
+        from data_loader import get_all_categories as _get_all_categories
     except ImportError:
-        from .data_loader import ALL_CATEGORIES
-    return ALL_CATEGORIES
+        from .data_loader import get_all_categories as _get_all_categories
+    return _get_all_categories()
 
 
 def get_colleges(db=None) -> List[dict]:

@@ -6,7 +6,9 @@ into a single comprehensive workflow.
 """
 
 import json
+import os
 import sys
+import importlib.util
 sys.path.insert(0, '.')
 
 from database import SessionLocal, College, Course, Cutoff2025, engine, Base

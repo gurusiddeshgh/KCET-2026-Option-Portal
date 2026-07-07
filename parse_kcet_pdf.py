@@ -310,6 +310,89 @@ def parse_with_words(pdf_path: str) -> List[Dict]:
     return records
 
 
+def parse_college_block_tables(pdf_path: str) -> List[Dict]:
+    """
+    Parse PDFs formatted as per-college blocks where a page begins with
+    'College: E###' and contains wide tables where columns are category tokens
+    (e.g., '1G','2AG','3AG','GM','STG'). This function flattens the table into
+    records of the form used by the import pipeline:
+      {college_code, college_name, course_name, category, round, cutoff_rank}
+    """
+    import pdfplumber
+
+    records: List[Dict] = []
+
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages:
+            text = page.extract_text() or ""
+            # Try to extract college code and name from the page text
+            cc_match = re.search(r"College:\s*(?:\()?\s*(E\d{2,3})", text, re.IGNORECASE)
+            college_code = cc_match.group(1) if cc_match else None
+            name_match = re.search(r"College:\s*(.*)", text)
+            college_name = name_match.group(1).split('\n')[0].strip() if name_match else ""
+
+            tables = page.extract_tables() or []
+            for table in tables:
+                if not table:
+                    continue
+                # Header row should contain 'Course' in first cell
+                header = [str(c).strip() if c else "" for c in table[0]]
+                if not header or 'COURSE' not in header[0].upper():
+                    continue
+
+                # Process course rows
+                for row in table[1:]:
+                    if not row:
+                        continue
+                    cells = [str(c).strip() if c else "" for c in row]
+                    course_name = cells[0].replace('\n', ' ').strip()
+                    if not course_name:
+                        continue
+
+                    course_code = normalize_course(course_name)
+                    if not course_code:
+                        # Try to infer from substrings if the full course name is long
+                        for token in re.split(r"[\s/,&()]+", course_name):
+                            course_code = normalize_course(token)
+                            if course_code:
+                                break
+
+                    if not course_code:
+                        continue
+
+                    category_round_map = {}
+                    for idx in range(1, min(len(cells), len(header))):
+                        h = header[idx].strip()
+                        if not h:
+                            continue
+                        token = re.sub(r'[^A-Za-z0-9]', '', h).upper()
+                        if not token:
+                            continue
+
+                        val = parse_rank(cells[idx])
+                        if val is None:
+                            continue
+
+                        if token not in category_round_map:
+                            category_round_map[token] = {
+                                'college_code': college_code or '',
+                                'college_name': college_name or '',
+                                'course_code': course_code,
+                                'course_name': course_name,
+                                'category': token,
+                                'round_1_cutoff': None,
+                                'round_2_cutoff': None,
+                                'round_3_cutoff': None,
+                            }
+
+                        # All columns in this PDF are essentially round 2 values
+                        category_round_map[token]['round_2_cutoff'] = val
+
+                    records.extend(category_round_map.values())
+
+    return records
+
+
 # ── Strategy 3: PyMuPDF Table Detection ─────────────────────
 
 def parse_with_pymupdf(pdf_path: str) -> List[Dict]:
@@ -573,6 +656,18 @@ def get_locations() -> List[str]:
 def parse_pdf(pdf_path: str) -> List[Dict]:
     """Try multiple strategies to extract data from the PDF."""
     all_records = []
+    
+    # Strategy 0: Per-college table blocks (mock allotment PDFs)
+    print("  Strategy 0: per-college table block extraction...")
+    try:
+        recs = parse_college_block_tables(pdf_path)
+        if recs:
+            all_records.extend(recs)
+            print(f"    -> {len(recs)} records from college-block tables")
+        else:
+            print("    -> 0 records from college-block tables")
+    except Exception as e:
+        print(f"    -> Failed: {e}")
 
     # Strategy 1: pdfplumber table extraction
     print("  Strategy 1: pdfplumber table extraction...")

@@ -157,17 +157,26 @@ def infer_location_from_name(college_name: str) -> str:
 
 
 def _get_parsed_data_dirs() -> List[str]:
-    """Search paths for parsed JSON/Python data (backend first, then repo root)."""
+    """Search paths for parsed JSON/Python data (backend first, then repo root).
+    Also add nested parsed_data directories to sys.path so modules can be imported
+    from subfolders like parsed_data/mock_2026_test.
+    """
     backend_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.dirname(backend_dir)
-    dirs = [
+    roots = [
         os.path.join(backend_dir, "parsed_data"),
         os.path.join(repo_root, "parsed_data"),
     ]
-    for d in dirs:
-        if d not in sys.path:
-            sys.path.insert(0, d)
-    return dirs
+    all_dirs: List[str] = []
+    for root in roots:
+        if not os.path.isdir(root):
+            continue
+        for dirpath, dirnames, filenames in os.walk(root):
+            if dirpath not in all_dirs:
+                all_dirs.append(dirpath)
+                if dirpath not in sys.path:
+                    sys.path.insert(0, dirpath)
+    return all_dirs
 
 
 def _find_json_file(*filenames: str) -> Optional[str]:
@@ -367,8 +376,9 @@ def load_real_data() -> Optional[Dict]:
     courses_raw: Dict[str, Dict] = {}
     source = ""
 
-    # Prefer JSON cutoffs (complete, fast) over huge .py modules
-    cutoff_json = _find_json_file("kea_cutoffs_2025.json", "pdf_cutoffs_all.json")
+    # Prefer parsed PDF cutoff JSON if it exists, because it may contain more categories
+    # than the KEA 2025 GM-only cutoff file.
+    cutoff_json = _find_json_file("pdf_cutoffs_all.json", "kea_cutoffs_2025.json")
     if cutoff_json:
         records, colleges_embedded, courses_raw, source = _load_cutoffs_json(cutoff_json)
     else:
@@ -497,10 +507,19 @@ def has_real_data() -> bool:
     return _real_data is not None
 
 
+def get_all_categories() -> List[str]:
+    """Return available categories from real data or fallback defaults."""
+    if _real_data and _real_data.get("records"):
+        categories = sorted({r.get("category") for r in _real_data["records"] if r.get("category")})
+        if categories:
+            return categories
+    return ALL_CATEGORIES
+
+
 def get_data_source() -> str:
     if _real_data:
-        cats_in_data = set(r.get("category") for r in _real_data["records"])
-        return f"Real KCET 2025 data ({_real_data['source']}) — categories: {sorted(cats_in_data)}"
+        cats_in_data = sorted({r.get("category") for r in _real_data["records"] if r.get("category")})
+        return f"Real KCET 2025 data ({_real_data['source']}) — categories: {cats_in_data}"
     return "Fallback mock data"
 
 
